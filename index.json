@@ -3,6 +3,13 @@
   "description": "Ciao 🐈‍⬛🌙",
   "extensions": [
     {
+      "id": "yakan.animeunity",
+      "name": "AnimeUnity",
+      "author": "Hachi",
+      "description": "Estensione per Teevi che abilita l'integrazione con AnimeUnity",
+      "iconResourceName": "icon.png"
+    },
+    {
       "id": "yakan.streamingcommunity",
       "name": "StreamingCommunity",
       "author": "Hachi",
