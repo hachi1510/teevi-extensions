@@ -1,0 +1,63 @@
+name: Streaming-Community - Update API URL
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  check-api-url:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Read VITE_API_URL from .env
+        id: read_env
+        run: |
+          API_URL=$(grep '^VITE_API_URL=' extensions/streaming-community/.env | cut -d '=' -f2)
+          echo "api_url=$API_URL" >> $GITHUB_OUTPUT
+
+      - name: Check for redirect
+        id: check_redirect
+        run: |
+          URL="${{ steps.read_env.outputs.api_url }}"
+          echo "Checking $URL"
+
+          # Status HTTP
+          STATUS=$(curl -s -o /dev/null -w "%{http_code}" -I --max-redirs 0 "$URL" || true)
+
+          # Header Location
+          LOCATION=$(curl -s -I --max-redirs 0 "$URL" | grep -i "^Location:" | awk '{print $2}' | tr -d '\r\n')
+
+          echo "status=$STATUS" >> $GITHUB_OUTPUT
+          echo "location=$LOCATION" >> $GITHUB_OUTPUT
+
+      - name: Update .env with new URL
+        if: ${{ startsWith(steps.check_redirect.outputs.status, '3') }}
+        run: |
+          RAW_URL="${{ steps.check_redirect.outputs.location }}"
+          
+          # remove path/query/fragment
+          CLEAN_URL=$(echo "$RAW_URL" | sed -E 's#(https?://[^/]+).*#\1/#')
+          
+          echo "Redirect → update VITE_API_URL=$CLEAN_URL"
+
+          sed -i "s|^VITE_API_URL=.*|VITE_API_URL=${NEW_URL}|" extensions/streaming-community/.env
+
+          bun pm version patch --workspace extensions/streaming-community
+          
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -am "chore(streaming-community): update API_URL"
+          git push
+
+      - name: Send repository_dispatch event
+        if: ${{ startsWith(steps.check_redirect.outputs.status, '3') }}
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          event-type: deploy-extensions

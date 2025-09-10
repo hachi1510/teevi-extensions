@@ -1,0 +1,11 @@
+{
+  "name": "@hachi/vixcloud-scraper",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "type": "module",
+  "author": "Hachi",
+  "license": "ISC",
+  "dependencies": {
+    "@hachi/html-scraper": "link:@hachi/html-scraper"
+  }
+}

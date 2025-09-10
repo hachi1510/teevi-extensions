@@ -1,0 +1,14 @@
+{
+  "lockfileVersion": 1,
+  "workspaces": {
+    "": {
+      "name": "@hachi/vixcloud-scraper",
+      "dependencies": {
+        "@hachi/html-scraper": "link:@hachi/html-scraper",
+      },
+    },
+  },
+  "packages": {
+    "@hachi/html-scraper": ["@hachi/html-scraper@link:@hachi/html-scraper", {}],
+  }
+}

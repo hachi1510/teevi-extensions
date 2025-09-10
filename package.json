@@ -1,0 +1,19 @@
+{
+  "name": "teevi-extensions",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "extensions/streaming-community"
+  ],
+  "devDependencies": {
+    "@teeviapp/vite": "^0.9.8",
+    "@types/bun": "^1.2.21",
+    "@types/node": "^24.3.1",
+    "typescript": "^5.9.2",
+    "vite": "^6.3.6",
+    "vitest": "^3.2.4"
+  },
+  "dependencies": {
+    "@teeviapp/core": "^0.9.8"
+  }
+}

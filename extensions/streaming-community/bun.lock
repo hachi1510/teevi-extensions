@@ -1,0 +1,17 @@
+{
+  "lockfileVersion": 1,
+  "workspaces": {
+    "": {
+      "name": "yakan.streamingcommunity",
+      "dependencies": {
+        "@hachi/html-scraper": "link:@hachi/html-scraper",
+        "@hachi/vixcloud-scraper": "link:@hachi/vixcloud-scraper",
+      },
+    },
+  },
+  "packages": {
+    "@hachi/html-scraper": ["@hachi/html-scraper@link:@hachi/html-scraper", {}],
+
+    "@hachi/vixcloud-scraper": ["@hachi/vixcloud-scraper@link:@hachi/vixcloud-scraper", {}],
+  }
+}

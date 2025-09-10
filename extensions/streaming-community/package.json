@@ -1,0 +1,18 @@
+{
+  "name": "yakan.streamingcommunity",
+  "version": "0.10.0",
+  "description": "Estensione per Teevi che abilita l'integrazione con StreamingCommunity",
+  "author": "Hachi",
+  "private": true,
+  "type": "module",
+  "license": "ISC",
+  "scripts": {
+    "build": "vite build",
+    "make-collections": "bun src/scripts/make-collections.ts",
+    "make-trending": "bun src/scripts/make-trending.ts"
+  },
+  "dependencies": {
+    "@hachi/html-scraper": "link:@hachi/html-scraper",
+    "@hachi/vixcloud-scraper": "link:@hachi/vixcloud-scraper"
+  }
+}

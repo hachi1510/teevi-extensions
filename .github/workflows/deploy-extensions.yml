@@ -1,0 +1,95 @@
+name: Deploy Extensions
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - "extensions/**/package.json"
+      - ".github/workflows/deploy-extensions.yml"
+  workflow_dispatch:
+  repository_dispatch:
+    types: [ deploy-extensions ]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build all extensions
+        run: |
+          for pkg_dir in extensions/*; do
+            if [ -f "$pkg_dir/package.json" ]; then
+              echo "Building $pkg_dir..."
+              npm run --workspace $pkg_dir build || true
+            fi
+          done
+
+      - name: Clone gh-pages
+        run: |
+          git clone --branch gh-pages https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} gh-pages
+
+      - name: Copy dist and create index.json
+        run: |
+          mkdir -p gh-pages
+          objects=()
+
+          for pkg_dir in extensions/*; do
+            manifest="$pkg_dir/dist/manifest.json"
+            if [ -f "$manifest" ]; then
+              id=$(jq -r '.id' "$manifest")
+              name=$(jq -r '.name' "$manifest")
+              author=$(jq -r '.author' "$manifest")
+              description=$(jq -r '.description' "$manifest")
+              iconResourceName=$(jq -r '.iconResourceName' "$manifest")
+
+              # Use the extension id as the folder name
+              rm -rf "gh-pages/$id"
+              mkdir -p "gh-pages/$id"
+              cp -r "$pkg_dir/dist/"* "gh-pages/$id/"
+
+              # Build JSON object for this extension
+              obj=$(jq -n \
+                --arg id "$id" \
+                --arg name "$name" \
+                --arg author "$author" \
+                --arg description "$description" \
+                --arg iconResourceName "$iconResourceName" \
+                '{id:$id, name:$name, author:$author, description:$description, iconResourceName:$iconResourceName}')
+
+              objects+=("$obj")
+            fi
+          done
+
+          printf '%s\n' "${objects[@]}" \
+            | jq -s '{name: "Le estensioni di Hachi", description: "Ciao 🐈‍⬛🌙", extensions: .}' \
+            > gh-pages/index.json
+
+      - name: Commit & push to gh-pages
+        run: |
+          cd gh-pages
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Update extensions" || echo "No changes to commit"
+          git push origin gh-pages
