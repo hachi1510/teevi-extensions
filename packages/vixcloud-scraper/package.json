@@ -6,6 +6,6 @@
   "author": "Hachi",
   "license": "ISC",
   "dependencies": {
-    "@hachi/html-scraper": "link:@hachi/html-scraper"
+    "@hachi/html-scraper": "workspace:*"
   }
 }

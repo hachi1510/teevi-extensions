@@ -12,7 +12,7 @@
     "make-trending": "bun src/scripts/make-trending.ts"
   },
   "dependencies": {
-    "@hachi/html-scraper": "link:@hachi/html-scraper",
-    "@hachi/vixcloud-scraper": "link:@hachi/vixcloud-scraper"
+    "@hachi/html-scraper": "workspace:*",
+    "@hachi/vixcloud-scraper": "workspace:*"
   }
 }

@@ -19,8 +19,8 @@
       "name": "yakan.streamingcommunity",
       "version": "0.10.0",
       "dependencies": {
-        "@hachi/html-scraper": "link:@hachi/html-scraper",
-        "@hachi/vixcloud-scraper": "link:@hachi/vixcloud-scraper",
+        "@hachi/html-scraper": "workspace:*",
+        "@hachi/vixcloud-scraper": "workspace:*",
       },
     },
     "packages/html-scraper": {
@@ -34,7 +34,7 @@
       "name": "@hachi/vixcloud-scraper",
       "version": "1.0.0",
       "dependencies": {
-        "@hachi/html-scraper": "link:@hachi/html-scraper",
+        "@hachi/html-scraper": "workspace:*",
       },
     },
   },
@@ -297,14 +297,8 @@
 
     "yakan.streamingcommunity": ["yakan.streamingcommunity@workspace:extensions/streaming-community"],
 
-    "@hachi/vixcloud-scraper/@hachi/html-scraper": ["@hachi/html-scraper@link:@hachi/html-scraper", {}],
-
     "htmlparser2/entities": ["entities@6.0.1", "", {}, "sha512-aN97NXWF6AWBTahfVOIrB/NShkzi5H7F9r1s9mD3cDj4Ko5f2qhhVoYMibXF7GlLveb/D2ioWay8lxI97Ven3g=="],
 
     "parse5/entities": ["entities@6.0.1", "", {}, "sha512-aN97NXWF6AWBTahfVOIrB/NShkzi5H7F9r1s9mD3cDj4Ko5f2qhhVoYMibXF7GlLveb/D2ioWay8lxI97Ven3g=="],
-
-    "yakan.streamingcommunity/@hachi/html-scraper": ["@hachi/html-scraper@link:@hachi/html-scraper", {}],
-
-    "yakan.streamingcommunity/@hachi/vixcloud-scraper": ["@hachi/vixcloud-scraper@link:@hachi/vixcloud-scraper", {}],
   }
 }
