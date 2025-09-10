@@ -4,7 +4,7 @@ import teevi from "@teeviapp/vite"
 export default {
     plugins: [
         teevi({
-            name: "StreamingCommunity",
+            name: "AnimeUnity",
             capabilities: ["metadata", "video", "feed"],
         }),
     ],

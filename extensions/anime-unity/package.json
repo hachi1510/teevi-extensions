@@ -1,15 +1,15 @@
 {
-  "name": "yakan.streamingcommunity",
+  "name": "yakan.animeunity",
   "version": "0.10.0",
-  "description": "Estensione per Teevi che abilita l'integrazione con StreamingCommunity",
+  "description": "Estensione per Teevi che abilita l'integrazione con AnimeUnity",
   "author": "Hachi",
   "private": true,
   "type": "module",
   "license": "ISC",
   "scripts": {
     "build": "vite build",
-    "make-collections": "bun src/scripts/make-collections.ts",
-    "make-trending": "bun src/scripts/make-trending.ts"
+    "generate-collections": "bun src/scripts/generate-collections.ts",
+    "generate-trends": "bun src/scripts/generate-trends.ts"
   },
   "dependencies": {
     "@hachi/html-scraper": "workspace:*",

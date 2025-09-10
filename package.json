@@ -3,18 +3,17 @@
   "version": "1.0.0",
   "private": true,
   "workspaces": [
-    "extensions/streaming-community",
+    "extensions/*",
     "packages/*"
   ],
-  "devDependencies": {
+  "catalog": {
     "@teeviapp/vite": "^0.9.8",
-    "@types/bun": "^1.2.21",
-    "@types/node": "^24.3.1",
-    "typescript": "^5.9.2",
+    "@teeviapp/core": "^0.9.8",
     "vite": "^6.3.6",
-    "vitest": "^3.2.4"
+    "cheerio": "^1.1.2"
   },
-  "dependencies": {
-    "@teeviapp/core": "^0.9.8"
+  "devDependencies": {
+    "@types/bun": "^1.2.21",
+    "typescript": "^5.9.2"
   }
 }
