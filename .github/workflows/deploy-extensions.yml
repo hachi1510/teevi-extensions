@@ -38,7 +38,7 @@ jobs:
           for pkg_dir in extensions/*; do
             if [ -f "$pkg_dir/package.json" ]; then
               echo "Building $pkg_dir..."
-              bun run --workspace $pkg_dir build || true
+              bun --cwd=$pkg_dir run build || true
             fi
           done
 
