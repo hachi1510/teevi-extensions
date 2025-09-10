@@ -1,5 +1,13 @@
 {
   "name": "Le estensioni di Hachi",
   "description": "Ciao 🐈‍⬛🌙",
-  "extensions": []
+  "extensions": [
+    {
+      "id": "yakan.streamingcommunity",
+      "name": "StreamingCommunity",
+      "author": "Hachi",
+      "description": "Estensione per Teevi che abilita l'integrazione con StreamingCommunity",
+      "iconResourceName": "icon.png"
+    }
+  ]
 }
