@@ -72,7 +72,7 @@ export type SCEpisode = {
 }
 
 export type SCArchiveRequest = {
-    sorting: "score" | "views" | "release_date"
+    sorting: "score" | "views" | "release_date" | "last_air_date"
     type?: SCShowType
     genres?: number[]
     year?: number
@@ -129,7 +129,7 @@ export async function fetchShowsFromArchive(
                 NonNullable<SCArchiveRequest["minimumViews"]>,
                 string
             > = {
-                "25k": "10000",
+                "25k": "25000",
                 "50k": "50000",
                 "75k": "75000",
                 "100k": "100000",

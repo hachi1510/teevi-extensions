@@ -12,12 +12,11 @@ type CollectionRequest = {
     service?: SCArchiveRequest["service"]
     minimumViews?: SCArchiveRequest["minimumViews"]
     sorting?: SCArchiveRequest["sorting"]
-    maximumElements?: number
     category?: TeeviFeedCategory
-    //maximumPagesToFetch?: SCArchiveRequest["maximumPagesToFetch"]
+    maximumPagesToFetch?: SCArchiveRequest["maximumPagesToFetch"]
 }
 
-const requests: CollectionRequest[] = [
+const genreRequests: CollectionRequest[] = [
     {
         genres: [SCGenres.action],
         name: "Azione",
@@ -92,56 +91,9 @@ const requests: CollectionRequest[] = [
         name: "Animazione esilarante",
         minimumViews: "75k",
     },
-    {
-        type: "tv",
-        service: "netflix",
-        name: "Novità Netflix",
-        sorting: "release_date",
-        minimumViews: "25k",
-        maximumElements: 20,
-        category: "new",
-        //maximumPagesToFetch: 1,
-    },
-    {
-        type: "tv",
-        service: "disney",
-        name: "Novità Disney+",
-        sorting: "release_date",
-        minimumViews: "25k",
-        maximumElements: 20,
-        category: "new",
-        //maximumPagesToFetch: 1,
-    },
-    {
-        type: "tv",
-        service: "prime",
-        name: "Novità Prime Video",
-        sorting: "release_date",
-        minimumViews: "25k",
-        maximumElements: 20,
-        category: "new",
-        //maximumPagesToFetch: 1,
-    },
-    {
-        type: "tv",
-        service: "apple",
-        name: "Novità Apple TV+",
-        sorting: "release_date",
-        minimumViews: "25k",
-        maximumElements: 20,
-        category: "new",
-        //maximumPagesToFetch: 1,
-    },
-    {
-        type: "tv",
-        service: "now",
-        name: "Novità Now TV",
-        sorting: "release_date",
-        minimumViews: "25k",
-        maximumElements: 20,
-        category: "new",
-        //maximumPagesToFetch: 1,
-    },
+]
+
+const topMoviesByYearRequests: CollectionRequest[] = [
     {
         type: "movie",
         year: 1990,
@@ -162,11 +114,52 @@ const requests: CollectionRequest[] = [
         year: 1960,
         name: "I migliori film degli anni 60",
     },
+]
+
+const newSeriesRequests: CollectionRequest[] = [
+    {
+        type: "tv",
+        service: "netflix",
+        name: "Novità Netflix",
+        sorting: "last_air_date",
+        category: "new",
+        maximumPagesToFetch: 1,
+    },
+    {
+        type: "tv",
+        service: "disney",
+        name: "Novità Disney+",
+        sorting: "last_air_date",
+        category: "new",
+        maximumPagesToFetch: 1,
+    },
+    {
+        type: "tv",
+        service: "prime",
+        name: "Novità Prime Video",
+        sorting: "last_air_date",
+        category: "new",
+        maximumPagesToFetch: 1,
+    },
     {
         type: "tv",
         service: "apple",
-        name: "Apple Originals",
+        name: "Novità Apple TV+",
+        sorting: "last_air_date",
+        category: "new",
+        maximumPagesToFetch: 1,
     },
+    {
+        type: "tv",
+        service: "now",
+        name: "Novità Now TV",
+        sorting: "last_air_date",
+        category: "new",
+        maximumPagesToFetch: 1,
+    },
+]
+
+const topRequests: CollectionRequest[] = [
     {
         type: "tv",
         minimumViews: "1M",
@@ -192,6 +185,13 @@ async function generateCollections() {
     }
 
     const collections = []
+    const requests: CollectionRequest[] = [
+        ...genreRequests,
+        ...newSeriesRequests,
+        ...topMoviesByYearRequests,
+        ...topRequests
+    ]
+
     for (const request of requests) {
         const collection = await fetchCollection(request)
         collections.push(collection)
@@ -209,21 +209,14 @@ async function generateCollections() {
 async function fetchCollection(
     request: CollectionRequest
 ): Promise<TeeviFeedCollection> {
-    const {minimumViews, sorting, maximumElements, ...rest} = request
-    const maximumPagesToFetch = maximumElements
-        ? Math.ceil(maximumElements / 60)
-        : 2
-    let shows = await fetchShowsFromArchive({
+    const {minimumViews, sorting, maximumPagesToFetch, ...rest} = request
+    const shows = await fetchShowsFromArchive({
         ...rest,
         sorting: sorting ?? "score",
-        maximumPagesToFetch: maximumPagesToFetch,
-        minimumViews: minimumViews ?? "50k",
+        maximumPagesToFetch: maximumPagesToFetch ?? 2,
+        minimumViews: minimumViews,
     })
-
-    if (maximumElements && shows.length > maximumElements) {
-        shows = shows.splice(0, maximumElements)
-    }
-
+   
     return {
         name: request.name,
         id: `hachi-sc-${request.type}-${request.name.toLowerCase().replace(/\s/g, "-")}`,

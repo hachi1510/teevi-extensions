@@ -13,16 +13,10 @@ import {
     fetchShow as scFetchShow,
     fetchShowsByQuery as scFetchShowsByQuery,
     fetchVideoAsset as scFetchVideoAsset,
-    findImageURL as scFindImageURL,
 } from "./api"
 import {fetchShow as imdbFetchShow, type IMDBShow,} from "./data-providers/imdb"
 import {fetchShow as tmdbFetchShow, type TMDBShow,} from "./data-providers/tmdb"
-import {
-    mapSCEpisodeToTeeviShowEpisode,
-    mapSCShowEntryToTeeviShowEntry,
-    mapSCShowStatusToTeeviShowStatus,
-    mapSCShowToTeeviShow,
-} from "./mappers"
+import {mapSCEpisodeToTeeviShowEpisode, mapSCShowEntryToTeeviShowEntry, mapSCShowToTeeviShow,} from "./mappers"
 import collections from "../assets/sc_feed_cache_collections.json"
 import trendings from "../assets/sc_feed_cache_trending_shows.json"
 
@@ -50,47 +44,10 @@ async function fetchShow(id: string): Promise<TeeviShow> {
 
     teeviShow.posterURL =
         tmdbShow?.poster || imdbShow?.image || teeviShow.posterURL
+    teeviShow.backdropURL = tmdbShow?.backdrop || teeviShow.backdropURL
+    teeviShow.logoURL = tmdbShow?.logo || teeviShow.logoURL
 
-    const isSeries = show.type !== "movie"
-
-    const posterURL =
-        tmdbShow?.poster || imdbShow?.image || scFindImageURL(show.images, "poster")
-
-    const backdropURL =
-        tmdbShow?.backdrop ||
-        scFindImageURL(show.images, "background") ||
-        scFindImageURL(show.images, "cover_mobile") ||
-        scFindImageURL(show.images, "cover")
-
-    const logoURL = tmdbShow?.logo || scFindImageURL(show.images, "logo")
-
-    let rating =
-        typeof show.score === "string" ? parseFloat(show.score) : show.score
-
-    const seasons = show.seasons?.map((s) => ({
-        number: s.number,
-        name: s.name,
-    }))
-
-    return {
-        id,
-        kind: isSeries ? "series" : "movie",
-        title: show.name,
-        overview: show.plot,
-        genres: show.genres.map((g) => g.name),
-        duration: (show.runtime || 0) * 60,
-        releaseDate: show.release_date,
-        seasons: isSeries ? seasons : undefined,
-        posterURL: posterURL,
-        backdropURL: backdropURL,
-        logoURL: logoURL,
-        rating: rating,
-        status: mapSCShowStatusToTeeviShowStatus(show.status),
-        relatedShows: show.related?.map((relatedShow) =>
-            mapSCShowEntryToTeeviShowEntry(relatedShow)
-        ),
-        language: "it",
-    }
+    return teeviShow
 }
 
 async function fetchEpisodes(

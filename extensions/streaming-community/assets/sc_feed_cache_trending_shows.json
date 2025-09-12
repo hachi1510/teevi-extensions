@@ -1,128 +1,246 @@
 [
   {
-    "kind": "movie",
-    "id": "11527-flow",
-    "title": "Flow",
-    "posterURL": "https://image.tmdb.org/t/p/w780/sS71Tn4IFAuiKkpXKqs9w7gaq4x.jpg",
-    "backdropURL": "https://image.tmdb.org/t/p/w1280/id17sSzMcV2q0wDEFiILj4iP5RX.jpg",
-    "logoURL": "https://image.tmdb.org/t/p/w500/vlFyxv76qifbH2ApYBnrjKxCYSe.png",
-    "overview": "Condividete la bellezza dello stare insieme",
-    "releaseDate": "2024-11-22",
+    "id": "4828-only-murders-in-the-building",
+    "kind": "series",
+    "title": "Only Murders in the Building",
+    "overview": "Dopo la scoperta di un'orribile morte in un palazzo dell'Upper West Side, tre inquilini dell'edificio estranei tra loro sospettano subito che si tratti di omicidio, e si uniscono per indagare sull'accaduto. Mentre registrano un podcast per documentare il caso, i tre scoprono i segreti del palazzo, che riguardano eventi accaduti molto tempo prima.",
     "genres": [
-      "Animazione"
+      "Crime",
+      "Mistero",
+      "Commedia"
     ],
-    "duration": 0
+    "duration": 0,
+    "releaseDate": "2021-08-31",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": null
+      },
+      {
+        "number": 3,
+        "name": null
+      },
+      {
+        "number": 4,
+        "name": null
+      },
+      {
+        "number": 5,
+        "name": "Stagione 5"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/jw4OsAkccZMu6mIebnp95rZ5Ugo.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.online/images/21f8b9f1-e6db-4745-a3e2-8100503ad53d.webp",
+    "logoURL": "https://cdn.streamingcommunityz.online/images/363e0deb-d18d-480e-9be5-4b9114f7b9e3.svg",
+    "rating": 8.6,
+    "status": "airing",
+    "language": "it"
   },
   {
-    "kind": "movie",
-    "id": "11473-anora",
-    "title": "Anora",
-    "posterURL": "https://image.tmdb.org/t/p/w780/aqXHtuq9Ns6dqxwNUTkas9PsvdI.jpg",
-    "backdropURL": "https://image.tmdb.org/t/p/w1280/kEYWal656zP5Q2Tohm91aw6orlT.jpg",
-    "logoURL": "https://image.tmdb.org/t/p/w500/dYVsBFfGLSCAZ9HqwOfkpgWUwTw.png",
-    "overview": "Love is a hustle",
-    "releaseDate": "2024-10-18",
+    "id": "10417-the-walking-dead-daryl-dixon",
+    "kind": "series",
+    "title": "The Walking Dead: Daryl Dixon",
+    "overview": "Daryl approda in Francia e fatica a ricostruire come è arrivato lì e perché. La serie segue il suo viaggio attraverso una Francia distrutta ma resistente mentre spera di trovare un modo per tornare a casa. Durante il viaggio, però, le connessioni che forma lungo il percorso complicano il suo piano finale.",
+    "genres": [
+      "Dramma",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "duration": 0,
+    "releaseDate": "2025-05-31",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": null
+      },
+      {
+        "number": 3,
+        "name": "Stagione 3"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/tXWyjS1r7qvPHCG6ftRkUFsthwh.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.online/images/afe5aa3b-474f-467f-b5b6-d1822a7cc63a.webp",
+    "logoURL": "https://cdn.streamingcommunityz.online/images/a23d26bc-8a36-4d45-8046-37409dd54d6a.webp",
+    "rating": 8.2,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "7010-uno-splendido-errore",
+    "kind": "series",
+    "title": "Uno splendido errore",
+    "overview": "Dopo un tragico evento una ragazzina va a vivere assieme alla famiglia numerosa della sua tutrice legale in una piccola città, dove impara molte cose su amore, speranza e amicizia.",
     "genres": [
       "Dramma"
     ],
-    "duration": 0
-  },
-  {
-    "kind": "movie",
-    "id": "391-spider-man-un-nuovo-universo",
-    "title": "Spider-Man - Un nuovo universo",
-    "posterURL": "https://image.tmdb.org/t/p/w780/2HmMlcQmPepzRx2xcJLM1yw4D0w.jpg",
-    "backdropURL": "https://image.tmdb.org/t/p/w1280/8mnXR9rey5uQ08rZAvzojKWbDQS.jpg",
-    "logoURL": "https://image.tmdb.org/t/p/w500/hOSJGmh7FET9PdjlIuVTUUbi51S.png",
-    "overview": "More than one wears the mask",
-    "releaseDate": "2018-12-14",
-    "genres": [
-      "Animation"
+    "duration": 0,
+    "releaseDate": "2023-12-07",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": "Stagione 2"
+      }
     ],
-    "duration": 0
+    "posterURL": "https://image.tmdb.org/t/p/w780/4rEjGH08D2xWtb0fBtIOw2oPGqs.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.online/images/645af33f-5d67-4810-b4c8-be9386c051e7.webp",
+    "logoURL": "https://cdn.streamingcommunityz.online/images/c83a1ddc-b2f5-4a89-8773-5bd67aa8e6d5.webp",
+    "rating": 7.8,
+    "status": "airing",
+    "language": "it"
   },
   {
-    "kind": "movie",
-    "id": "3441-casino-royale",
-    "title": "Casino Royale",
-    "posterURL": "https://image.tmdb.org/t/p/w780/u5Hk3FSdRtbN59YsqBY3XpYmhhJ.jpg",
-    "backdropURL": "https://image.tmdb.org/t/p/w1280/6vt7uXxyhMp1sk56UX7eaH1w8g2.jpg",
-    "logoURL": "https://image.tmdb.org/t/p/w500/e0DBt4YpJFiEjghZF5GcQ92Mo5e.png",
-    "overview": "Everyone has a past. Every legend has a beginning",
-    "releaseDate": "2006-11-17",
-    "genres": [
-      "Thriller"
-    ],
-    "duration": 0
-  },
-  {
+    "id": "4508-peacemaker",
     "kind": "series",
-    "id": "4835-slow-horses",
-    "title": "Slow Horses",
-    "posterURL": "https://image.tmdb.org/t/p/w780/s6n49WngI07RplpzwFW3gHpVxuR.jpg",
-    "backdropURL": "https://image.tmdb.org/t/p/w1280/qhXdYysiamRu6moMGMZPQ4oVLvd.jpg",
-    "logoURL": "https://image.tmdb.org/t/p/w500/c1Gcf12DFh4cEMShrYAjcu32GX4.png",
-    "overview": "Non si scappa dalle ombre del passato",
-    "releaseDate": "2022-04-01",
+    "title": "Peacemaker",
+    "overview": "Continua la storia di Peacemaker – un uomo vanaglorioso che insegue la pace a ogni costo e con ogni mezzo, senza riguardo per quante persone deve uccidere per raggiungere il suo obiettivo - negli eventi successivi al film The Suicide Squad.",
     "genres": [
-      "Crime"
+      "Dramma",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
     ],
-    "duration": 0
+    "duration": 0,
+    "releaseDate": "2022-01-13",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": "Stagione 2"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/4trVWELLpLioJYoACiWUmEJf38d.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.online/images/67f43d01-f160-4c74-b14e-e5ad4f4b7d57.webp",
+    "logoURL": "https://cdn.streamingcommunityz.online/images/488f272f-10af-4140-a1ec-669340110db2.webp",
+    "rating": 8.3,
+    "status": "airing",
+    "language": "it"
   },
   {
+    "id": "4223-invasion",
     "kind": "series",
-    "id": "11520-daredevil-rinascita",
-    "title": "Daredevil: Rinascita",
-    "posterURL": "https://image.tmdb.org/t/p/w780/qXxqIIr3ip12MTOtRw9XWEHvfj6.jpg",
-    "backdropURL": "https://image.tmdb.org/t/p/w1280/hrsRczdsAHBLTDzlIqt82bxY0Tt.jpg",
-    "logoURL": "https://image.tmdb.org/t/p/w500/npN4ppBzR1SULVA0aAwHiKzm8VZ.png",
-    "overview": "La missione di Daredevil non ha mai fine",
-    "releaseDate": "2025-03-04",
+    "title": "Invasion",
+    "overview": "L'arrivo di una specie aliena sulla Terra minaccia l'umanità. La narrazione si svolge in tempo reale attraverso lo sguardo di cinque persone comuni sparse per il mondo, sconvolti testimoni del caos dilagante.",
     "genres": [
-      "Dramma"
-    ],
-    "duration": 0
-  },
-  {
-    "kind": "series",
-    "id": "4937-scissione",
-    "title": "Scissione",
-    "posterURL": "https://image.tmdb.org/t/p/w780/rDFpBfO70Z8UyXDvmXeGy486NLm.jpg",
-    "backdropURL": "https://image.tmdb.org/t/p/w1280/ixgFmf1X59PUZam2qbAfskx2gQr.jpg",
-    "logoURL": "https://image.tmdb.org/t/p/w500/so5Bn3opFgPUhVwDHffcqmeaZwD.png",
-    "overview": "There's more to work than life",
-    "releaseDate": "2022-02-17",
-    "genres": [
-      "Dramma"
-    ],
-    "duration": 0
-  },
-  {
-    "kind": "series",
-    "id": "2098-doctor-who",
-    "title": "Doctor Who",
-    "posterURL": "https://image.tmdb.org/t/p/w780/6ecjWh9uUUnsOLzCWIukHVLWnRH.jpg",
-    "backdropURL": "https://image.tmdb.org/t/p/w1280/9mWQltOeRimE8LSZm3cRcQkqrj2.jpg",
-    "logoURL": "https://image.tmdb.org/t/p/w500/8i8Zsy0IkaHkxNjOdPRowhy85hi.png",
-    "overview": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel",
-    "releaseDate": "2005-03-26",
-    "genres": [
+      "Dramma",
       "Sci-Fi & Fantasy"
     ],
-    "duration": 0
+    "duration": 0,
+    "releaseDate": "2021-10-21",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": null
+      },
+      {
+        "number": 3,
+        "name": "Stagione 3"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/miSn2Q0UhG18Skyfjz1pfiYtCIB.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.online/images/7da69290-23a5-48f0-b23a-3e0c4f7691b3.webp",
+    "logoURL": "https://cdn.streamingcommunityz.online/images/327245d3-0dfc-444c-92b4-67ce27f4c8c1.webp",
+    "rating": 6.9,
+    "status": "airing",
+    "language": "it"
   },
   {
+    "id": "6569-fascino-fatale",
     "kind": "series",
-    "id": "7874-shogun",
-    "title": "Shōgun",
-    "posterURL": "https://image.tmdb.org/t/p/w780/23wScEz9Tr5N1cE58K9FAtN00y4.jpg",
-    "backdropURL": "https://image.tmdb.org/t/p/w1280/qauHZuVYmpbjw456y3BHcmZy8nO.jpg",
-    "logoURL": "https://image.tmdb.org/t/p/w500/zjKGNDF2Kr6RQvONfiM0t2tm92T.png",
-    "overview": "An epic saga of war, passion, and power set in Feudal Japan",
-    "releaseDate": "2024-02-27",
+    "title": "Fascino fatale",
+    "overview": "Una professoressa sposata inizia una relazione appassionata con un uomo più giovane da cui scaturisce una serie di tragedie e tradimenti per le persone a lei care.",
     "genres": [
-      "War & Politics"
+      "Dramma",
+      "Crime",
+      "Mistero"
     ],
-    "duration": 0
+    "duration": 0,
+    "releaseDate": "2023-07-07",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": "Stagione 2"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/k98kivV3e8G0s6u2mdRXNhwoCQw.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.online/images/59d4e914-2bbe-4012-a34c-1787ebf0687f.webp",
+    "logoURL": "https://cdn.streamingcommunityz.online/images/ad3babac-8674-4204-a565-367fd7960d01.webp",
+    "rating": 6.3,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "12847-alien-pianeta-terra",
+    "kind": "series",
+    "title": "Alien: Pianeta Terra",
+    "overview": "Quando una misteriosa nave spaziale si schianta sulla Terra, una giovane donna (Sydney Chandler) e un gruppo di soldati tattici fanno una scoperta fatidica che li mette faccia a faccia con la più grande minaccia per il pianeta.",
+    "genres": [
+      "Dramma",
+      "Sci-Fi & Fantasy"
+    ],
+    "duration": 0,
+    "releaseDate": "2025-08-12",
+    "seasons": [
+      {
+        "number": 1,
+        "name": "Stagione 1"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/oW3kyDa5QFA5iNJ2rv1goLWFft1.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.online/images/99a238ef-221e-4f82-989d-a64d23ee102f.webp",
+    "logoURL": "https://cdn.streamingcommunityz.online/images/716367cf-ee6f-43f5-b901-438f8c62b0ef.webp",
+    "rating": 7.9,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "5865-mercoledi",
+    "kind": "series",
+    "title": "Mercoledì",
+    "overview": "La famiglia Addams ritorna in una nuova serie firmata da Tim Burton. Ripercorre gli anni di Mercoledì come studentessa presso la Nevermore Academy, dei suoi tentativi di controllare i suoi poteri paranormali e di sventare una mostruosa serie di omicidi.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Mistero",
+      "Commedia"
+    ],
+    "duration": 0,
+    "releaseDate": "2022-11-23",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": "Stagione 2"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/rX0qhJbXK5YJan7nes4RNtYef1z.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.online/images/f9185f7b-51ac-4966-a014-1ae83d36f656.webp",
+    "logoURL": "https://cdn.streamingcommunityz.online/images/e7d85e03-1a9d-4bf8-a3ce-6c049d8ce42c.webp",
+    "rating": 8.5,
+    "status": "airing",
+    "language": "it"
   }
 ]
