@@ -10,7 +10,7 @@
     },
     "extensions/anime-unity": {
       "name": "yakan.animeunity",
-      "version": "0.4.11",
+      "version": "0.10.0",
       "dependencies": {
         "@hachi/html-scraper": "workspace:*",
         "@hachi/vixcloud-scraper": "workspace:*",
@@ -23,7 +23,7 @@
     },
     "extensions/streaming-community": {
       "name": "yakan.streamingcommunity",
-      "version": "0.10.0",
+      "version": "0.10.1",
       "dependencies": {
         "@hachi/html-scraper": "workspace:*",
         "@hachi/vixcloud-scraper": "workspace:*",
