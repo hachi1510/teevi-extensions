@@ -242,5 +242,24 @@
     "rating": 8.5,
     "status": "airing",
     "language": "it"
+  },
+  {
+    "id": "10810-death-of-a-unicorn",
+    "kind": "movie",
+    "title": "Death of a Unicorn",
+    "overview": "La coppia padre-figlia, Ridley e Elliot, investe un unicorno con la loro macchina e lo porta nel rifugio deserto di un mega-ricco amministratore delegato di un'azienda farmaceutica.",
+    "genres": [
+      "Horror",
+      "Fantasy",
+      "Commedia"
+    ],
+    "duration": 6420,
+    "releaseDate": "2025-08-01",
+    "posterURL": "https://image.tmdb.org/t/p/w780/oLZXhA0c9j7GdwcwsNILEHqegCx.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.online/images/8a870853-45f3-4585-9833-445a5bb92efa.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/yumy3enQh3Ag14WFCp0MtWBROtU.png",
+    "rating": 6.5,
+    "status": "upcoming",
+    "language": "it"
   }
 ]
