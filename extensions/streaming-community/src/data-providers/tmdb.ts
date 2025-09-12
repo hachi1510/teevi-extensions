@@ -139,9 +139,16 @@ export async function fetchImages(options: {
             break
     }
 
-    const images = html("ul.images li div.image_content a")
-    const hrefs = images.map((_, el) => html(el).attr("href")).get();
-    return hrefs
+    const data = html.extract({
+        images: [
+            {
+                selector: "ul.images li div.image_content a",
+                value: "href",
+            }
+        ]
+    })
+
+    return data.images
         .filter(url => !url.endsWith(".svg"))
         .map((item) =>
             updateResolutionInUrl(item, resolution)

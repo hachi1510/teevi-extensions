@@ -1,8 +1,9 @@
-import {fetchShowsFromArchive, type SCArchiveRequest, SCGenres} from "../api.ts";
-import type {TeeviFeedCategory, TeeviFeedCollection} from "@teeviapp/core";
-import {mapSCShowEntryToTeeviShowEntry} from "../mappers.ts";
+import {fetchShow, fetchShowsFromArchive, type SCArchiveRequest, SCGenres} from "../api.ts";
+import type {TeeviFeedCategory, TeeviFeedCollection, TeeviShow} from "@teeviapp/core";
+import {mapSCShowEntryToTeeviShowEntry, mapSCShowToTeeviShow} from "../mappers.ts";
 import {mkdir} from "node:fs/promises";
 import {dirname} from "node:path";
+import {fetchImages} from "../data-providers/tmdb.ts";
 
 type CollectionRequest = {
     name: string
@@ -174,14 +175,62 @@ const topRequests: CollectionRequest[] = [
     },
 ]
 
-async function generateCollections() {
-    async function write(data: any, path: string) {
-        await mkdir(dirname(path), {recursive: true})
-        if (typeof data !== "string") {
-            data = JSON.stringify(data, null, 2)
-        }
+async function write(data: any, path: string) {
+    await mkdir(dirname(path), {recursive: true})
+    if (typeof data !== "string") {
+        data = JSON.stringify(data, null, 2)
+    }
 
-        await Bun.write(path, data)
+    await Bun.write(path, data)
+}
+
+async function fetchAndWriteTrendingShows() {
+    const shows = await fetchShowsFromArchive({
+        sorting: "last_air_date",
+        minimumViews: "100k",
+        maximumPagesToFetch: 1
+    })
+
+    const trending: TeeviShow[] = []
+
+    for (const show of shows.slice(0, 10).map(show => mapSCShowEntryToTeeviShowEntry(show))) {
+        const scShow = await fetchShow(show.id)
+        const {relatedShows, ...teeviShow} = mapSCShowToTeeviShow(show.id, scShow)
+        if (scShow.tmdb_id) {
+            const [posters, logos] = await Promise.all([
+                fetchImages({kind: scShow.type, id: scShow.tmdb_id, type: "posters", language: "xx"}),
+                fetchImages({kind: scShow.type, id: scShow.tmdb_id, type: "logos", language: "en"}),
+            ])
+            if (posters.length > 0) {
+                teeviShow.posterURL = posters[0]
+                teeviShow.logoURL = logos.length > 0 ? logos[0] : teeviShow.logoURL
+                trending.push(teeviShow)
+            }
+        }
+    }
+
+    await write(trending, "assets/feed_trending_shows_cache.json")
+}
+
+async function fetchAndWriteCollections() {
+    async function fetchCollection(
+        request: CollectionRequest
+    ): Promise<TeeviFeedCollection> {
+        const {sorting, maximumPagesToFetch, ...rest} = request
+        const shows = await fetchShowsFromArchive({
+            ...rest,
+            sorting: sorting ?? "score",
+            maximumPagesToFetch: maximumPagesToFetch ?? 2,
+        })
+
+        return {
+            name: request.name,
+            id: `hachi-sc-${request.type}-${request.name.toLowerCase().replace(/\s/g, "-")}`,
+            category: request.category,
+            shows: shows.map((show) => {
+                return mapSCShowEntryToTeeviShowEntry(show)
+            }),
+        }
     }
 
     const collections = []
@@ -195,36 +244,13 @@ async function generateCollections() {
     for (const request of requests) {
         const collection = await fetchCollection(request)
         collections.push(collection)
-        console.log(
-            `Fetched collection: ${request.type} ${request.name} (shows count: ${collection.shows.length})`
-        )
         const delay = Math.floor(Math.random() * (3000 - 2000 + 1)) + 2000 // Random delay
-        console.log(`Waiting ${delay / 1000} seconds...`)
         await new Promise((resolve) => setTimeout(resolve, delay))
     }
 
-    await write(collections, "assets/sc_feed_cache_collections.json")
+    await write(collections, "assets/feed_collections_cache.json")
 }
 
-async function fetchCollection(
-    request: CollectionRequest
-): Promise<TeeviFeedCollection> {
-    const {minimumViews, sorting, maximumPagesToFetch, ...rest} = request
-    const shows = await fetchShowsFromArchive({
-        ...rest,
-        sorting: sorting ?? "score",
-        maximumPagesToFetch: maximumPagesToFetch ?? 2,
-        minimumViews: minimumViews,
-    })
-   
-    return {
-        name: request.name,
-        id: `hachi-sc-${request.type}-${request.name.toLowerCase().replace(/\s/g, "-")}`,
-        category: request.category,
-        shows: shows.map((show) => {
-            return mapSCShowEntryToTeeviShowEntry(show)
-        }),
-    }
-}
 
-generateCollections()
+fetchAndWriteTrendingShows()
+fetchAndWriteCollections()

@@ -17,8 +17,8 @@ import {
 import {fetchShow as imdbFetchShow, type IMDBShow,} from "./data-providers/imdb"
 import {fetchShow as tmdbFetchShow, type TMDBShow,} from "./data-providers/tmdb"
 import {mapSCEpisodeToTeeviShowEpisode, mapSCShowEntryToTeeviShowEntry, mapSCShowToTeeviShow,} from "./mappers"
-import collections from "../assets/sc_feed_cache_collections.json"
-import trendings from "../assets/sc_feed_cache_trending_shows.json"
+import collections from "../assets/feed_collections_cache.json"
+import trendingShows from "../assets/feed_trending_shows_cache.json"
 
 async function fetchShowsByQuery(query: string): Promise<TeeviShowEntry[]> {
     const shows = await scFetchShowsByQuery(query)
@@ -80,7 +80,7 @@ async function fetchFeedCollections(): Promise<TeeviFeedCollection[]> {
 }
 
 async function fetchTrendingShows(): Promise<TeeviShow[]> {
-    return trendings as TeeviShow[]
+    return trendingShows as TeeviShow[]
 }
 
 export default {

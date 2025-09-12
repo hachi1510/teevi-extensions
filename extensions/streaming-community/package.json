@@ -8,8 +8,7 @@
   "license": "ISC",
   "scripts": {
     "build": "vite build",
-    "make-collections": "bun src/scripts/make-collections.ts",
-    "make-trending": "bun src/scripts/make-trending.ts"
+    "update-feed-cache": "bun src/scripts/update-feed-cache.ts"
   },
   "dependencies": {
     "@hachi/html-scraper": "workspace:*",

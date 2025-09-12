@@ -1,0 +1,46 @@
+name: Streaming-Community - Update Feed Cache
+
+on:
+  schedule:
+    - cron: "0 0 1,15 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Bun
+        uses: oven-sh/setup-bun@v2
+
+      - name: Install dependencies
+        run: bun ci
+
+      - name: Update Feed
+        run: |
+          bun --cwd=extensions/streaming-community run update-feed-cache
+
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          git commit -am "chore(streaming-community): update feed cache"
+          
+          bun pm version patch --workspace extensions/streaming-community
+          git commit -am "chore(streaming-community): update version"
+          
+          git push
+
+      - name: Send repository_dispatch event
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          event-type: deploy-extensions
