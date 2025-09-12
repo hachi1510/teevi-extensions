@@ -35,8 +35,7 @@ jobs:
           
           git commit -am "chore(streaming-community): update feed cache"
           
-          bun pm version patch --workspace extensions/streaming-community
-          git commit -am "chore(streaming-community): update version"
+          bun --cwd=extensions/streaming-community pm version patch
           
           git push
 
