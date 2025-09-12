@@ -4,7 +4,7 @@
   "version": "0.10.1",
   "description": "Estensione per Teevi che abilita l'integrazione con StreamingCommunity",
   "author": "Hachi",
-  "hash": "40d3c08eee62e3982e56f058e87991effce6e3e0296378e1b766d2ac41225325",
+  "hash": "f3b8b6baeec3520b1be616703f516abe1a9f310e2f9e8589f73b5ac52d8ab5e8",
   "capabilities": [
     "metadata",
     "video",
