@@ -18,7 +18,7 @@ jobs:
 
       - name: Set up Bun
         uses: oven-sh/setup-bun@v2
-        
+
       - name: Read VITE_API_URL from .env
         id: read_env
         run: |
@@ -51,12 +51,15 @@ jobs:
           echo "Redirect → update VITE_API_URL=$CLEAN_URL"
 
           sed -i "s|^VITE_API_URL=.*|VITE_API_URL=${NEW_URL}|" extensions/streaming-community/.env
-
-          bun pm version patch --workspace extensions/streaming-community
           
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          
           git commit -am "chore(streaming-community): update API_URL"
+          
+          bun --cwd=extensions/streaming-community pm version patch --no-git-tag-version
+          git commit -am "chore(streaming-community): update version"
+          
           git push
 
       - name: Send repository_dispatch event
