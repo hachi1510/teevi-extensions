@@ -69,8 +69,26 @@
     "posterURL": "https://image.tmdb.org/t/p/w780/tXWyjS1r7qvPHCG6ftRkUFsthwh.jpg",
     "backdropURL": "https://cdn.streamingcommunityz.online/images/afe5aa3b-474f-467f-b5b6-d1822a7cc63a.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/ggeeJM93cx7iKkAVoRamai1RIsK.png",
-    "rating": 8.2,
+    "rating": 8.1,
     "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "12114-warfare",
+    "kind": "movie",
+    "title": "Warfare",
+    "overview": "Le esperienze incredibili e indicibili che Ray Mendoza, veterano delle forze speciali della marina statunitense (i Navy SEAL), ha vissuto durante il periodo che ha trascorso in prima linea in Iraq.",
+    "genres": [
+      "Azione",
+      "Guerra"
+    ],
+    "duration": 5760,
+    "releaseDate": "2025-08-31",
+    "posterURL": "https://image.tmdb.org/t/p/w780/oRV5KR7RegDhbgG5QcnZ3sAKvlW.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.online/images/f4c8e8ec-d6db-4076-a1fa-05148e38f317.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/xgpzUUc2MMLez7p2wFX0yvhw1Vc.png",
+    "rating": 7.3,
+    "status": "ended",
     "language": "it"
   },
   {
@@ -210,7 +228,7 @@
     "posterURL": "https://image.tmdb.org/t/p/w780/oW3kyDa5QFA5iNJ2rv1goLWFft1.jpg",
     "backdropURL": "https://cdn.streamingcommunityz.online/images/99a238ef-221e-4f82-989d-a64d23ee102f.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/nfbM3cGKv4DyF9zRq1Vlo7ehRPI.png",
-    "rating": 7.9,
+    "rating": 7.8,
     "status": "airing",
     "language": "it"
   },
