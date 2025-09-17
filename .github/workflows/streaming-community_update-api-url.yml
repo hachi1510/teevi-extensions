@@ -50,7 +50,7 @@ jobs:
           
           echo "Redirect → update VITE_API_URL=$CLEAN_URL"
 
-          sed -i "s|^VITE_API_URL=.*|VITE_API_URL=${NEW_URL}|" extensions/streaming-community/.env
+          sed -i "s|^VITE_API_URL=.*|VITE_API_URL=${CLEAN_URL}|" extensions/streaming-community/.env
           
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
