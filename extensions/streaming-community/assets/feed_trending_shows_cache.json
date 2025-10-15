@@ -1,16 +1,16 @@
 [
   {
-    "id": "4828-only-murders-in-the-building",
+    "id": "79-stranger-things",
     "kind": "series",
-    "title": "Only Murders in the Building",
-    "overview": "Dopo la scoperta di un'orribile morte in un palazzo dell'Upper West Side, tre inquilini dell'edificio estranei tra loro sospettano subito che si tratti di omicidio, e si uniscono per indagare sull'accaduto. Mentre registrano un podcast per documentare il caso, i tre scoprono i segreti del palazzo, che riguardano eventi accaduti molto tempo prima.",
+    "title": "Stranger Things",
+    "overview": "La scomparsa di un ragazzino in una cittadina porta alla luce un mistero in cui si mescolano esperimenti segreti, spaventose forze soprannaturali e una strana bambina.",
     "genres": [
-      "Crime",
-      "Mistero",
-      "Commedia"
+      "Dramma",
+      "Sci-Fi & Fantasy",
+      "Mistero"
     ],
     "duration": 0,
-    "releaseDate": "2021-08-31",
+    "releaseDate": "2016-01-01",
     "seasons": [
       {
         "number": 1,
@@ -33,74 +33,48 @@
         "name": "Stagione 5"
       }
     ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/jw4OsAkccZMu6mIebnp95rZ5Ugo.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.online/images/21f8b9f1-e6db-4745-a3e2-8100503ad53d.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/vNM4L9w45PIiXd8ErSPqPjDHhF0.png",
-    "rating": 8.6,
+    "posterURL": "https://image.tmdb.org/t/p/w780/uhFL71Ki2YIrhEq5Gsg2tTLa9eW.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.it/images/9a5cdc6d-4164-483e-9251-e9874b15c233.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/uyVM5qGksUzCgwo6UU0UrHex8Oj.png",
+    "rating": 8.9,
     "status": "airing",
     "language": "it"
   },
   {
-    "id": "10417-the-walking-dead-daryl-dixon",
+    "id": "23026-monster-la-storia-di-ed-gein",
     "kind": "series",
-    "title": "The Walking Dead: Daryl Dixon",
-    "overview": "Daryl approda in Francia e fatica a ricostruire come è arrivato lì e perché. La serie segue il suo viaggio attraverso una Francia distrutta ma resistente mentre spera di trovare un modo per tornare a casa. Durante il viaggio, però, le connessioni che forma lungo il percorso complicano il suo piano finale.",
+    "title": "Monster: La storia di Ed Gein",
+    "overview": "Leatherface. Buffalo Bill. Norman Bates. Questi iconici assassini hollywoodiani traggono tutti ispirazione da un terrificante killer realmente esistito: Ed Gein.",
     "genres": [
       "Dramma",
-      "Sci-Fi & Fantasy",
-      "Action & Adventure"
+      "Crime"
     ],
     "duration": 0,
-    "releaseDate": "2025-05-31",
+    "releaseDate": "2025-10-03",
     "seasons": [
       {
         "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": null
-      },
-      {
-        "number": 3,
-        "name": "Stagione 3"
+        "name": "Monster: La storia di Ed Gein"
       }
     ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/tXWyjS1r7qvPHCG6ftRkUFsthwh.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.online/images/afe5aa3b-474f-467f-b5b6-d1822a7cc63a.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/ggeeJM93cx7iKkAVoRamai1RIsK.png",
-    "rating": 8.1,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "12114-warfare",
-    "kind": "movie",
-    "title": "Warfare",
-    "overview": "Le esperienze incredibili e indicibili che Ray Mendoza, veterano delle forze speciali della marina statunitense (i Navy SEAL), ha vissuto durante il periodo che ha trascorso in prima linea in Iraq.",
-    "genres": [
-      "Azione",
-      "Guerra"
-    ],
-    "duration": 5760,
-    "releaseDate": "2025-08-31",
-    "posterURL": "https://image.tmdb.org/t/p/w780/oRV5KR7RegDhbgG5QcnZ3sAKvlW.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.online/images/f4c8e8ec-d6db-4076-a1fa-05148e38f317.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/xgpzUUc2MMLez7p2wFX0yvhw1Vc.png",
-    "rating": 7.3,
+    "posterURL": "https://image.tmdb.org/t/p/w780/k2kxfbWLhOSKD9iHlYWF4HkzWL6.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.it/images/305c23e9-2ec5-4173-b6ed-f5f58a1d4b22.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/yzim5Aghuyv3VAeYxl7FDBvHQHM.png",
+    "rating": 8.3,
     "status": "ended",
     "language": "it"
   },
   {
-    "id": "7010-uno-splendido-errore",
+    "id": "5714-billy-the-kid",
     "kind": "series",
-    "title": "Uno splendido errore",
-    "overview": "Dopo un tragico evento una ragazzina va a vivere assieme alla famiglia numerosa della sua tutrice legale in una piccola città, dove impara molte cose su amore, speranza e amicizia.",
+    "title": "Billy the Kid",
+    "overview": "Un'epica serie di avventure romantiche basata sulla vita del famoso fuorilegge americano Billy the Kid, dalle sue umili radici irlandesi, ai suoi primi giorni come cowboy e pistolero nella frontiera americana, al suo ruolo fondamentale nella guerra della contea di Lincoln e oltre.",
     "genres": [
-      "Dramma"
+      "Dramma",
+      "Western"
     ],
     "duration": 0,
-    "releaseDate": "2023-12-07",
+    "releaseDate": "2022-04-24",
     "seasons": [
       {
         "number": 1,
@@ -108,56 +82,33 @@
       },
       {
         "number": 2,
-        "name": "Stagione 2"
+        "name": "Season 2"
+      },
+      {
+        "number": 3,
+        "name": "Stagione 3"
       }
     ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/4rEjGH08D2xWtb0fBtIOw2oPGqs.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.online/images/645af33f-5d67-4810-b4c8-be9386c051e7.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/98ro979EumxLzNo8ET77OErNiG4.png",
+    "posterURL": "https://image.tmdb.org/t/p/w780/8mdvJQcJLXe2rB7yWWmtBcSkkdt.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.it/images/5c97e01c-666c-4ed6-86b6-5a45a035776f.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/chDBlMoy2IYWoBMoGDWc14pySXy.png",
     "rating": 7.8,
     "status": "airing",
     "language": "it"
   },
   {
-    "id": "4508-peacemaker",
+    "id": "2615-alice-in-borderland",
     "kind": "series",
-    "title": "Peacemaker",
-    "overview": "Continua la storia di Peacemaker – un uomo vanaglorioso che insegue la pace a ogni costo e con ogni mezzo, senza riguardo per quante persone deve uccidere per raggiungere il suo obiettivo - negli eventi successivi al film The Suicide Squad.",
+    "title": "Alice in borderland",
+    "overview": "Un giovane ossessionato dai videogiochi si ritrova in un'insolita Tokyo dove partecipa a giochi pericolosi per sopravvivere assieme ai suoi due amici.",
     "genres": [
       "Dramma",
       "Sci-Fi & Fantasy",
+      "Mistero",
       "Action & Adventure"
     ],
     "duration": 0,
-    "releaseDate": "2022-01-13",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": "Stagione 2"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/4trVWELLpLioJYoACiWUmEJf38d.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.online/images/67f43d01-f160-4c74-b14e-e5ad4f4b7d57.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/mbumwpiewLgL0RFws2qx3BdrXtS.png",
-    "rating": 8.3,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "4223-invasion",
-    "kind": "series",
-    "title": "Invasion",
-    "overview": "L'arrivo di una specie aliena sulla Terra minaccia l'umanità. La narrazione si svolge in tempo reale attraverso lo sguardo di cinque persone comuni sparse per il mondo, sconvolti testimoni del caos dilagante.",
-    "genres": [
-      "Dramma",
-      "Sci-Fi & Fantasy"
-    ],
-    "duration": 0,
-    "releaseDate": "2021-10-21",
+    "releaseDate": "2020-12-10",
     "seasons": [
       {
         "number": 1,
@@ -172,25 +123,24 @@
         "name": "Stagione 3"
       }
     ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/miSn2Q0UhG18Skyfjz1pfiYtCIB.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.online/images/7da69290-23a5-48f0-b23a-3e0c4f7691b3.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/9GVYsIKN0gL5B9dnwHXM1JH3THv.png",
-    "rating": 6.9,
-    "status": "airing",
+    "posterURL": "https://image.tmdb.org/t/p/w780/4fTXs19rxtnISAfPpZbFEZl6f5.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.it/images/282482c4-6465-466b-bcda-71a9b1ff5594.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/epePp3mrs9zCRoYQuJHIQGcpfr9.png",
+    "rating": 8.4,
+    "status": "ended",
     "language": "it"
   },
   {
-    "id": "6569-fascino-fatale",
+    "id": "4835-slow-horses",
     "kind": "series",
-    "title": "Fascino fatale",
-    "overview": "Una professoressa sposata inizia una relazione appassionata con un uomo più giovane da cui scaturisce una serie di tragedie e tradimenti per le persone a lei care.",
+    "title": "Slow Horses",
+    "overview": "Questa arguta spy story segue le vicende di una disfunzionale squadra di agenti dell'MI5 e del loro odioso capo, il famigerato Jackson Lamb, mentre navigano tra le luci e le ombre del mondo dello spionaggio per difendere l'Inghilterra da forze sinistre.",
     "genres": [
       "Dramma",
-      "Crime",
-      "Mistero"
+      "Crime"
     ],
     "duration": 0,
-    "releaseDate": "2023-07-07",
+    "releaseDate": "2022-03-31",
     "seasons": [
       {
         "number": 1,
@@ -198,52 +148,39 @@
       },
       {
         "number": 2,
-        "name": "Stagione 2"
+        "name": null
+      },
+      {
+        "number": 3,
+        "name": null
+      },
+      {
+        "number": 4,
+        "name": null
+      },
+      {
+        "number": 5,
+        "name": "Stagione 5"
       }
     ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/k98kivV3e8G0s6u2mdRXNhwoCQw.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.online/images/59d4e914-2bbe-4012-a34c-1787ebf0687f.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/yE7umSPyzjt3QUCcnh67WcFK8TX.png",
-    "rating": 6.3,
+    "posterURL": "https://image.tmdb.org/t/p/w780/w5r3VW8KRCB7ZfmRIaDaMb1ggPK.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.it/images/d177695d-0a18-432e-a177-9162277b062a.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/peE0Gab2MWjXPlAYhakxjHciNPr.png",
+    "rating": 8.4,
     "status": "airing",
     "language": "it"
   },
   {
-    "id": "12847-alien-pianeta-terra",
+    "id": "6004-tulsa-king",
     "kind": "series",
-    "title": "Alien: Pianeta Terra",
-    "overview": "Quando una misteriosa nave spaziale si schianta sulla Terra, una giovane donna (Sydney Chandler) e un gruppo di soldati tattici fanno una scoperta fatidica che li mette faccia a faccia con la più grande minaccia per il pianeta.",
+    "title": "Tulsa King",
+    "overview": "Tulsa King segue il capo della mafia newyorkese Dwight \"Il Generale\" Manfredi, appena uscito di prigione dopo 25 anni ed esiliato a Tulsa, in Oklahoma. Rendendosi conto che la sua famiglia mafiosa potrebbe non avere in mente i suoi interessi, Dwight costruisce lentamente una \"banda\" composta da un gruppo di personaggi improbabili, per aiutarlo a stabilire un nuovo impero criminale.",
     "genres": [
       "Dramma",
-      "Sci-Fi & Fantasy"
+      "Crime"
     ],
     "duration": 0,
-    "releaseDate": "2025-08-12",
-    "seasons": [
-      {
-        "number": 1,
-        "name": "Stagione 1"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/oW3kyDa5QFA5iNJ2rv1goLWFft1.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.online/images/99a238ef-221e-4f82-989d-a64d23ee102f.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/nfbM3cGKv4DyF9zRq1Vlo7ehRPI.png",
-    "rating": 7.8,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "5865-mercoledi",
-    "kind": "series",
-    "title": "Mercoledì",
-    "overview": "La famiglia Addams ritorna in una nuova serie firmata da Tim Burton. Ripercorre gli anni di Mercoledì come studentessa presso la Nevermore Academy, dei suoi tentativi di controllare i suoi poteri paranormali e di sventare una mostruosa serie di omicidi.",
-    "genres": [
-      "Sci-Fi & Fantasy",
-      "Mistero",
-      "Commedia"
-    ],
-    "duration": 0,
-    "releaseDate": "2022-11-23",
+    "releaseDate": "2022-11-13",
     "seasons": [
       {
         "number": 1,
@@ -251,33 +188,139 @@
       },
       {
         "number": 2,
-        "name": "Stagione 2"
+        "name": null
+      },
+      {
+        "number": 3,
+        "name": "Season 3"
       }
     ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/rX0qhJbXK5YJan7nes4RNtYef1z.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.online/images/f9185f7b-51ac-4966-a014-1ae83d36f656.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/tfFLrJbiv64mo8PANcTSI2kuhM8.png",
+    "posterURL": "https://image.tmdb.org/t/p/w780/5JNDP8fgCSN5VbQyW555jziqkx5.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.it/images/7b164ebf-93dc-4588-9787-73b6e809683c.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/gZ4nvRFjJZXswKlsD5zCFpHBXv4.png",
     "rating": 8.5,
     "status": "airing",
     "language": "it"
   },
   {
-    "id": "10810-death-of-a-unicorn",
-    "kind": "movie",
-    "title": "Death of a Unicorn",
-    "overview": "La coppia padre-figlia, Ridley e Elliot, investe un unicorno con la loro macchina e lo porta nel rifugio deserto di un mega-ricco amministratore delegato di un'azienda farmaceutica.",
+    "id": "6719-gen-v",
+    "kind": "series",
+    "title": "Gen V",
+    "overview": "Nell'unico college americano per supereroi, gli studenti dotati mettono alla prova i loro limiti morali, gareggiando per il primo posto nell'università e per avere la possibilità di unirsi ai Seven, la squadra d'élite di supereroi della Vought International. Quando gli oscuri segreti della scuola vengono alla luce, devono decidere che tipo di eroi vogliono diventare.",
     "genres": [
-      "Horror",
-      "Fantasy",
-      "Commedia"
+      "Dramma",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
     ],
-    "duration": 6420,
-    "releaseDate": "2025-08-01",
-    "posterURL": "https://image.tmdb.org/t/p/w780/oLZXhA0c9j7GdwcwsNILEHqegCx.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.online/images/8a870853-45f3-4585-9833-445a5bb92efa.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/yumy3enQh3Ag14WFCp0MtWBROtU.png",
-    "rating": 6.5,
-    "status": "upcoming",
+    "duration": 0,
+    "releaseDate": "2023-09-28",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": "Stagione 2"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/7ZWMM4f0K6NSI1JLAu6cIq8xX8f.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.it/images/69c4cc1a-6f23-400c-acf7-b2a949d52a9e.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/h2v8T4iQKwcobsNuuHPw1fp4mhb.png",
+    "rating": 8,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "11105-high-potential",
+    "kind": "series",
+    "title": "High Potential",
+    "overview": "Scritto da Drew Goddard (“The Good Place”, “Sopravvissuto - The Martian”) e con protagonista Kaitlin Olson, “High Potential” segue una madre single con una mente eccezionale, il cui talento speciale per la risoluzione dei crimini porta a una collaborazione insolita e inarrestabile con un detective esperto ligio alle regole (Daniel Sunjata). Basato sulla popolare serie francese “Haut Potentiel Intellectuel (HPI),” “High Potential” ha come protagonisti Kaitlin Olson nei panni di Morgan, Daniel Sunjata nei panni di Karadec, Javicia Leslie nei panni di Daphne, Deniz Akdeniz nei panni di Lev “Oz” Ozdil, Amirah J nei panni di Ava, Matthew Lamb nei panni di Elliot e Judy Reyes nei panni di Selena.\n\nAlcune sequenze di immagini ed effetti di luce lampeggiante potrebbero avere conseguenze sugli spettatori fotosensibili.",
+    "genres": [
+      "Dramma",
+      "Crime"
+    ],
+    "duration": 0,
+    "releaseDate": "2024-11-17",
+    "seasons": [
+      {
+        "number": 1,
+        "name": "Stagione 1"
+      },
+      {
+        "number": 2,
+        "name": "Stagione 2"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/fJgQbphTnjl6FaJeSV8DOkemtYL.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.it/images/a9acaa78-4d55-48a5-b16a-223e7ba10dfe.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/210qR9vmrILDxAj8poEQJOyingD.png",
+    "rating": 8.2,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "1665-the-morning-show",
+    "kind": "series",
+    "title": "The Morning Show",
+    "overview": "Si alza il sipario sui programmi televisivi del mattino. Questa serie con protagonisti Reese Witherspoon, Jennifer Aniston e Steve Carell mostra, senza alcun filtro, il mondo del lavoro dal punto di vista di chi, ogni mattina, accompagna il risveglio dell’America.",
+    "genres": [
+      "Dramma"
+    ],
+    "duration": 0,
+    "releaseDate": "2019-11-01",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": null
+      },
+      {
+        "number": 3,
+        "name": null
+      },
+      {
+        "number": 4,
+        "name": "Stagione 4"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/gsTWmPPukDJruRrnYBE0GSq1YBb.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.it/images/06bf0adc-39d7-4ec9-9eca-5db8ad5c6074.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/y4YLhgLwlIfdVGiwvcNa2yW6GW6.png",
+    "rating": 7.8,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "10337-i-maghi-di-waverly-ritorno-a-waverly-place",
+    "kind": "series",
+    "title": "I Maghi di Waverly: Ritorno a  Waverly Place",
+    "overview": "Billie, una potente maga al centro di una misteriosa profezia, viene mandata a vivere nel mondo dei mortali con l'unico mago insegnante che può aiutarla a controllare i suoi poteri: Justin Russo.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Commedia",
+      "Famiglia"
+    ],
+    "duration": 0,
+    "releaseDate": "2024-10-29",
+    "seasons": [
+      {
+        "number": 1,
+        "name": "Stagione 1"
+      },
+      {
+        "number": 2,
+        "name": "Stagione 2"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/fR8k25t6KX0h0KPb8lgzDgAVgm5.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.it/images/6ad5dc33-c257-4733-ae3a-ce0b14f8a474.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/amDlmPpEcEpvzm8pB2Q7uN9Yg6I.png",
+    "rating": 8,
+    "status": "airing",
     "language": "it"
   }
 ]
