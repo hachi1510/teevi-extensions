@@ -1,274 +1,43 @@
 [
   {
-    "id": "79-stranger-things",
+    "id": "9808-respira",
     "kind": "series",
-    "title": "Stranger Things",
-    "overview": "La scomparsa di un ragazzino in una cittadina porta alla luce un mistero in cui si mescolano esperimenti segreti, spaventose forze soprannaturali e una strana bambina.",
-    "genres": [
-      "Dramma",
-      "Sci-Fi & Fantasy",
-      "Mistero"
-    ],
-    "duration": 0,
-    "releaseDate": "2016-01-01",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": null
-      },
-      {
-        "number": 3,
-        "name": null
-      },
-      {
-        "number": 4,
-        "name": null
-      },
-      {
-        "number": 5,
-        "name": "Stagione 5"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/uhFL71Ki2YIrhEq5Gsg2tTLa9eW.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.it/images/9a5cdc6d-4164-483e-9251-e9874b15c233.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/uyVM5qGksUzCgwo6UU0UrHex8Oj.png",
-    "rating": 8.9,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "23026-monster-la-storia-di-ed-gein",
-    "kind": "series",
-    "title": "Monster: La storia di Ed Gein",
-    "overview": "Leatherface. Buffalo Bill. Norman Bates. Questi iconici assassini hollywoodiani traggono tutti ispirazione da un terrificante killer realmente esistito: Ed Gein.",
-    "genres": [
-      "Dramma",
-      "Crime"
-    ],
-    "duration": 0,
-    "releaseDate": "2025-10-03",
-    "seasons": [
-      {
-        "number": 1,
-        "name": "Monster: La storia di Ed Gein"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/k2kxfbWLhOSKD9iHlYWF4HkzWL6.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.it/images/305c23e9-2ec5-4173-b6ed-f5f58a1d4b22.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/yzim5Aghuyv3VAeYxl7FDBvHQHM.png",
-    "rating": 8.3,
-    "status": "ended",
-    "language": "it"
-  },
-  {
-    "id": "5714-billy-the-kid",
-    "kind": "series",
-    "title": "Billy the Kid",
-    "overview": "Un'epica serie di avventure romantiche basata sulla vita del famoso fuorilegge americano Billy the Kid, dalle sue umili radici irlandesi, ai suoi primi giorni come cowboy e pistolero nella frontiera americana, al suo ruolo fondamentale nella guerra della contea di Lincoln e oltre.",
-    "genres": [
-      "Dramma",
-      "Western"
-    ],
-    "duration": 0,
-    "releaseDate": "2022-04-24",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": "Season 2"
-      },
-      {
-        "number": 3,
-        "name": "Stagione 3"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/8mdvJQcJLXe2rB7yWWmtBcSkkdt.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.it/images/5c97e01c-666c-4ed6-86b6-5a45a035776f.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/chDBlMoy2IYWoBMoGDWc14pySXy.png",
-    "rating": 7.8,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "2615-alice-in-borderland",
-    "kind": "series",
-    "title": "Alice in borderland",
-    "overview": "Un giovane ossessionato dai videogiochi si ritrova in un'insolita Tokyo dove partecipa a giochi pericolosi per sopravvivere assieme ai suoi due amici.",
-    "genres": [
-      "Dramma",
-      "Sci-Fi & Fantasy",
-      "Mistero",
-      "Action & Adventure"
-    ],
-    "duration": 0,
-    "releaseDate": "2020-12-10",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": null
-      },
-      {
-        "number": 3,
-        "name": "Stagione 3"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/4fTXs19rxtnISAfPpZbFEZl6f5.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.it/images/282482c4-6465-466b-bcda-71a9b1ff5594.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/epePp3mrs9zCRoYQuJHIQGcpfr9.png",
-    "rating": 8.4,
-    "status": "ended",
-    "language": "it"
-  },
-  {
-    "id": "4835-slow-horses",
-    "kind": "series",
-    "title": "Slow Horses",
-    "overview": "Questa arguta spy story segue le vicende di una disfunzionale squadra di agenti dell'MI5 e del loro odioso capo, il famigerato Jackson Lamb, mentre navigano tra le luci e le ombre del mondo dello spionaggio per difendere l'Inghilterra da forze sinistre.",
-    "genres": [
-      "Dramma",
-      "Crime"
-    ],
-    "duration": 0,
-    "releaseDate": "2022-03-31",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": null
-      },
-      {
-        "number": 3,
-        "name": null
-      },
-      {
-        "number": 4,
-        "name": null
-      },
-      {
-        "number": 5,
-        "name": "Stagione 5"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/w5r3VW8KRCB7ZfmRIaDaMb1ggPK.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.it/images/d177695d-0a18-432e-a177-9162277b062a.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/peE0Gab2MWjXPlAYhakxjHciNPr.png",
-    "rating": 8.4,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "6004-tulsa-king",
-    "kind": "series",
-    "title": "Tulsa King",
-    "overview": "Tulsa King segue il capo della mafia newyorkese Dwight \"Il Generale\" Manfredi, appena uscito di prigione dopo 25 anni ed esiliato a Tulsa, in Oklahoma. Rendendosi conto che la sua famiglia mafiosa potrebbe non avere in mente i suoi interessi, Dwight costruisce lentamente una \"banda\" composta da un gruppo di personaggi improbabili, per aiutarlo a stabilire un nuovo impero criminale.",
-    "genres": [
-      "Dramma",
-      "Crime"
-    ],
-    "duration": 0,
-    "releaseDate": "2022-11-13",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": null
-      },
-      {
-        "number": 3,
-        "name": "Season 3"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/5JNDP8fgCSN5VbQyW555jziqkx5.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.it/images/7b164ebf-93dc-4588-9787-73b6e809683c.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/gZ4nvRFjJZXswKlsD5zCFpHBXv4.png",
-    "rating": 8.5,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "6719-gen-v",
-    "kind": "series",
-    "title": "Gen V",
-    "overview": "Nell'unico college americano per supereroi, gli studenti dotati mettono alla prova i loro limiti morali, gareggiando per il primo posto nell'università e per avere la possibilità di unirsi ai Seven, la squadra d'élite di supereroi della Vought International. Quando gli oscuri segreti della scuola vengono alla luce, devono decidere che tipo di eroi vogliono diventare.",
-    "genres": [
-      "Dramma",
-      "Sci-Fi & Fantasy",
-      "Action & Adventure"
-    ],
-    "duration": 0,
-    "releaseDate": "2023-09-28",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": "Stagione 2"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/7ZWMM4f0K6NSI1JLAu6cIq8xX8f.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.it/images/69c4cc1a-6f23-400c-acf7-b2a949d52a9e.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/h2v8T4iQKwcobsNuuHPw1fp4mhb.png",
-    "rating": 8,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "11105-high-potential",
-    "kind": "series",
-    "title": "High Potential",
-    "overview": "Scritto da Drew Goddard (“The Good Place”, “Sopravvissuto - The Martian”) e con protagonista Kaitlin Olson, “High Potential” segue una madre single con una mente eccezionale, il cui talento speciale per la risoluzione dei crimini porta a una collaborazione insolita e inarrestabile con un detective esperto ligio alle regole (Daniel Sunjata). Basato sulla popolare serie francese “Haut Potentiel Intellectuel (HPI),” “High Potential” ha come protagonisti Kaitlin Olson nei panni di Morgan, Daniel Sunjata nei panni di Karadec, Javicia Leslie nei panni di Daphne, Deniz Akdeniz nei panni di Lev “Oz” Ozdil, Amirah J nei panni di Ava, Matthew Lamb nei panni di Elliot e Judy Reyes nei panni di Selena.\n\nAlcune sequenze di immagini ed effetti di luce lampeggiante potrebbero avere conseguenze sugli spettatori fotosensibili.",
-    "genres": [
-      "Dramma",
-      "Crime"
-    ],
-    "duration": 0,
-    "releaseDate": "2024-11-17",
-    "seasons": [
-      {
-        "number": 1,
-        "name": "Stagione 1"
-      },
-      {
-        "number": 2,
-        "name": "Stagione 2"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/fJgQbphTnjl6FaJeSV8DOkemtYL.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.it/images/a9acaa78-4d55-48a5-b16a-223e7ba10dfe.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/210qR9vmrILDxAj8poEQJOyingD.png",
-    "rating": 8.2,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "1665-the-morning-show",
-    "kind": "series",
-    "title": "The Morning Show",
-    "overview": "Si alza il sipario sui programmi televisivi del mattino. Questa serie con protagonisti Reese Witherspoon, Jennifer Aniston e Steve Carell mostra, senza alcun filtro, il mondo del lavoro dal punto di vista di chi, ogni mattina, accompagna il risveglio dell’America.",
+    "title": "Respira",
+    "overview": "Un'appassionata équipe medica è determinata a salvare vite in un caotico ospedale pubblico dove le tensioni e le storie d'amore fanno alzare la pressione.",
     "genres": [
       "Dramma"
     ],
     "duration": 0,
-    "releaseDate": "2019-11-01",
+    "releaseDate": "2024-08-30",
+    "seasons": [
+      {
+        "number": 1,
+        "name": "Respira"
+      },
+      {
+        "number": 2,
+        "name": "Stagione 2"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/wHe4NJZTSfAixkliXiZpFEK7ffa.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.ch/images/3c93d08b-e66f-4acc-9ed0-2aa47617ed51.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/6HNjemN8HsiEIX0Z0L7pPRwvxki.png",
+    "rating": 7.5,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "67-the-witcher",
+    "kind": "series",
+    "title": "The Witcher",
+    "overview": "Geralt di Rivia, un cacciatore di mostri mutante, viaggia verso il suo destino in un mondo turbolento in cui le persone spesso si dimostrano più perverse delle bestie.",
+    "genres": [
+      "Dramma",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "duration": 0,
+    "releaseDate": "2019-12-20",
     "seasons": [
       {
         "number": 1,
@@ -287,40 +56,233 @@
         "name": "Stagione 4"
       }
     ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/gsTWmPPukDJruRrnYBE0GSq1YBb.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.it/images/06bf0adc-39d7-4ec9-9eca-5db8ad5c6074.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/y4YLhgLwlIfdVGiwvcNa2yW6GW6.png",
-    "rating": 7.8,
+    "posterURL": "https://image.tmdb.org/t/p/w780/eEDadRyYO8q6nTb24u7cOD4COb7.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.ch/images/b681adf3-fb33-4dfa-88ed-0e8a29ef024a.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/vqpt6XBp8VQu3Xy4YQsvZaTbxjl.png",
+    "rating": 8.3,
     "status": "airing",
     "language": "it"
   },
   {
-    "id": "10337-i-maghi-di-waverly-ritorno-a-waverly-place",
+    "id": "7540-hazbin-hotel",
     "kind": "series",
-    "title": "I Maghi di Waverly: Ritorno a  Waverly Place",
-    "overview": "Billie, una potente maga al centro di una misteriosa profezia, viene mandata a vivere nel mondo dei mortali con l'unico mago insegnante che può aiutarla a controllare i suoi poteri: Justin Russo.",
+    "title": "Hazbin Hotel",
+    "overview": "Charlie. Stella del Mattino, la Principessa dell'Inferno, fatica a convincere sia i demoni che gli angeli che ogni anima possa essere redenta. Cantate e imprecate con noi in questa commedia musicale animata per adulti sul tema delle seconde chance.",
     "genres": [
-      "Sci-Fi & Fantasy",
       "Commedia",
-      "Famiglia"
+      "Animazione"
     ],
     "duration": 0,
-    "releaseDate": "2024-10-29",
+    "releaseDate": "2024-01-18",
     "seasons": [
       {
         "number": 1,
-        "name": "Stagione 1"
+        "name": null
       },
       {
         "number": 2,
         "name": "Stagione 2"
       }
     ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/fR8k25t6KX0h0KPb8lgzDgAVgm5.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.it/images/6ad5dc33-c257-4733-ae3a-ce0b14f8a474.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/amDlmPpEcEpvzm8pB2Q7uN9Yg6I.png",
-    "rating": 8,
+    "posterURL": "https://image.tmdb.org/t/p/w780/3RILC1Qnl3lYgemxeVmKMszQijV.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.ch/images/ca6cbc7b-4d05-4d23-bc35-cef0aafd33b4.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/r91aVEvQjmbR3NTbTPvqrziInHv.png",
+    "rating": 8.6,
     "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "29354-it-welcome-to-derry",
+    "kind": "series",
+    "title": "IT: Welcome to Derry",
+    "overview": "Prequel di IT che inizia negli anni '60 e copre anche le origini di Pennywise il Clown.",
+    "genres": [
+      "Dramma",
+      "Mistero"
+    ],
+    "duration": 0,
+    "releaseDate": "2025-10-26",
+    "seasons": [
+      {
+        "number": 1,
+        "name": "Stagione 1"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/nGgnUa003euWULRRByA440LM5dR.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.ch/images/0c498548-29c2-429f-a53b-1b9a170a3d60.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/4DDyzHtmZifj5EAV1Ucw7Ebcmrc.png",
+    "rating": 7.4,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "5611-mayor-of-kingstown",
+    "kind": "series",
+    "title": "Mayor of Kingstown",
+    "overview": "In una piccola città del Michigan dove l'attività carceraria è l'unica fiorente industria, la famiglia McClusky è l'intermediario tra polizia, criminali, detenuti, guardie carcerarie e politici in una città completamente dipendente dalle prigioni e dai prigionieri che contengono.",
+    "genres": [
+      "Dramma",
+      "Crime"
+    ],
+    "duration": 0,
+    "releaseDate": "2021-11-14",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": null
+      },
+      {
+        "number": 3,
+        "name": null
+      },
+      {
+        "number": 4,
+        "name": "Stagione 4"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/e9m4hHEL5kgrl1hm9Uj1ArYZ8A3.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.ch/images/d8177670-29db-4e52-a785-28b996e54dff.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/rFezHYbfNNrhfQUT2cKtTK8dAfd.png",
+    "rating": 8.3,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "9987-nobody-wants-this",
+    "kind": "series",
+    "title": "Nobody Wants This",
+    "overview": "Una podcaster agnostica che parla di sesso e un rabbino da poco single si innamorano. Riuscirà la loro storia a sopravvivere a stili di vita opposti e famiglie impiccione?",
+    "genres": [
+      "Commedia"
+    ],
+    "duration": 0,
+    "releaseDate": "2024-09-26",
+    "seasons": [
+      {
+        "number": 1,
+        "name": "Nobody Wants This"
+      },
+      {
+        "number": 2,
+        "name": "Stagione 2"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/6tl4qX7VUIyMgkSPl0jJoX2dFrX.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.ch/images/eb751fba-8ba4-4530-9cdb-e493c6aa7c08.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/yoIDGAhWvPFxPknG3pgQSdvnVAr.png",
+    "rating": 7.9,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "4900-the-kardashians",
+    "kind": "series",
+    "title": "The Kardashians",
+    "overview": "Le telecamere sono tornate e girano con la famiglia preferita di tutti. Stanno affrontando la loro nuova normalità: l'essere madre, le relazioni e gli obiettivi di carriera. Mentre la famiglia festeggia nuove imprese, un video del passato riaffiora e minaccia di aprire vecchie ferite.",
+    "genres": [
+      "Reality"
+    ],
+    "duration": 0,
+    "releaseDate": "2022-04-14",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": null
+      },
+      {
+        "number": 3,
+        "name": null
+      },
+      {
+        "number": 4,
+        "name": null
+      },
+      {
+        "number": 5,
+        "name": null
+      },
+      {
+        "number": 6,
+        "name": "Stagione 6"
+      },
+      {
+        "number": 7,
+        "name": "Stagione 7"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/2J3CF0tuEPK0CuK6oiXDZcsID9u.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.ch/images/774cbe7c-f47e-4e9b-9f4a-599472a3417e.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/yd17TqEcvP9FcbtRNtZpcLCOhFj.png",
+    "rating": 7.2,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "8180-gialappashow",
+    "kind": "series",
+    "title": "GialappaShow",
+    "overview": "Accanto a Marco Santin e Giorgio Gherarducci, il Mago Forest, volti storici come Ubaldo Pantani, Marcello Cesena e tanti nuovi comici che prenderanno in giro MasterChef Italia, X Factor, Pechino Express, Ex On the beach e i più importanti eventi sportivi e tormentoni del web.",
+    "genres": [
+      "Commedia"
+    ],
+    "duration": 0,
+    "releaseDate": "2023-05-21",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": null
+      },
+      {
+        "number": 3,
+        "name": null
+      },
+      {
+        "number": 4,
+        "name": null
+      },
+      {
+        "number": 5,
+        "name": null
+      },
+      {
+        "number": 6,
+        "name": "Stagione 6"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/gczG92zbCmVDI2ahOpchGzr6895.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.ch/images/32c4a69c-7d38-402f-9232-60b7d6fd80c8.webp",
+    "rating": 8.7,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "27106-e-colpa-nostra",
+    "kind": "movie",
+    "title": "È colpa nostra?",
+    "overview": "Il matrimonio di Jenna e Lion costringe finalmente Noah e Nick a rivedersi dopo la rottura. L'incapacità di Nick di perdonare Noah, diventa una barriera insormontabile. Lui, erede dell'azienda del nonno, e lei, all'inizio della sua vita professionale, cercano di non alimentare una fiamma ancora viva. Ma ora che le loro strade si incrociano di nuovo, l'amore sarà più forte del risentimento?",
+    "genres": [
+      "Dramma",
+      "Romance"
+    ],
+    "duration": 6780,
+    "releaseDate": "2025-10-15",
+    "posterURL": "https://image.tmdb.org/t/p/w780/tlZojBX7L3KiaMLgWO2166cl6Us.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.ch/images/d5fc4ca9-b4b8-4a15-b9f8-a58c42fe6860.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/8I9SMdRxN1pOCR51wD4zEgb3I6.png",
+    "rating": 7.1,
+    "status": "ended",
     "language": "it"
   }
 ]
