@@ -4,7 +4,7 @@
   "version": "0.10.0",
   "description": "Estensione per Teevi che abilita l'integrazione con AnimeUnity",
   "author": "Hachi",
-  "hash": "319a72b1094cdb9878420002a77a2b6db6fa6e1f4b7ec22346fcb1617965d19d",
+  "hash": "99121e4517b8383a9512a750ee9e78d3ea7d2ffd9740dabb64af5c878022f7f0",
   "capabilities": [
     "metadata",
     "video",
