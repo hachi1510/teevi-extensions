@@ -1,5 +1,64 @@
 [
   {
+    "id": "4622-power-book-iv-force",
+    "kind": "series",
+    "title": "Power Book IV: Force",
+    "overview": "Nuovo spin-off di Power, il dramma criminale Power Book IV: Force si concentra sulle vicende di Tommy Egan. Tommy Egan ha lasciato New York chiudendo quel capitolo della sua vita dopo la morte di Ghost. Si trasferisce a Chicago per una breve visita e per chiudere una vecchia ferita, ma non riesce a cambiare vita e anche qui riprende a operare all'interno del crimine organizzato aspirando a diventare il più importante spacciatore della città. Così la breve visita diventa un soggiorno in cui lui diventa il perno tra le due più potenti bande della città.",
+    "genres": [
+      "Dramma",
+      "Crime"
+    ],
+    "duration": 0,
+    "releaseDate": "2022-02-06",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": null
+      },
+      {
+        "number": 3,
+        "name": "Stagione 3"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/bwDlHBZDkh2tCk9PRV5oDSJV548.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.bet/images/ad83b8a0-9f45-4c6d-8d90-5ec573d6c393.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/hFNc9CoOjJneb5VcBhrMh1vw0mK.png",
+    "rating": 8.5,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "6898-squid-game-la-sfida",
+    "kind": "series",
+    "title": "Squid Game: La sfida",
+    "overview": "Immersi nel mondo di \"Squid Game\", 456 concorrenti reali mettono alla prova le loro abilità e il loro carattere per aggiudicarsi un premio di 4,56 milioni di dollari.",
+    "genres": [
+      "Reality"
+    ],
+    "duration": 0,
+    "releaseDate": "2023-11-22",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": "Stagione 2"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/yor4qGt9fQT1mHnmXl9I04IuueQ.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.bet/images/62466d33-8dae-4a37-8096-4bdb6b01db9a.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/5YhbneGursZXMOSbRiQ17XakkQv.png",
+    "rating": 6.4,
+    "status": "airing",
+    "language": "it"
+  },
+  {
     "id": "9808-respira",
     "kind": "series",
     "title": "Respira",
@@ -20,7 +79,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/wHe4NJZTSfAixkliXiZpFEK7ffa.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.ch/images/3c93d08b-e66f-4acc-9ed0-2aa47617ed51.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.bet/images/3c93d08b-e66f-4acc-9ed0-2aa47617ed51.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/6HNjemN8HsiEIX0Z0L7pPRwvxki.png",
     "rating": 7.5,
     "status": "airing",
@@ -57,7 +116,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/eEDadRyYO8q6nTb24u7cOD4COb7.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.ch/images/b681adf3-fb33-4dfa-88ed-0e8a29ef024a.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.bet/images/b681adf3-fb33-4dfa-88ed-0e8a29ef024a.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/vqpt6XBp8VQu3Xy4YQsvZaTbxjl.png",
     "rating": 8.3,
     "status": "airing",
@@ -85,7 +144,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/3RILC1Qnl3lYgemxeVmKMszQijV.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.ch/images/ca6cbc7b-4d05-4d23-bc35-cef0aafd33b4.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.bet/images/ca6cbc7b-4d05-4d23-bc35-cef0aafd33b4.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/r91aVEvQjmbR3NTbTPvqrziInHv.png",
     "rating": 8.6,
     "status": "airing",
@@ -109,9 +168,9 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/nGgnUa003euWULRRByA440LM5dR.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.ch/images/0c498548-29c2-429f-a53b-1b9a170a3d60.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/4DDyzHtmZifj5EAV1Ucw7Ebcmrc.png",
-    "rating": 7.4,
+    "backdropURL": "https://cdn.streamingcommunityz.bet/images/0c498548-29c2-429f-a53b-1b9a170a3d60.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/zitWHYRTBbEPCrLH1Cc6hnoeeYw.png",
+    "rating": 7.2,
     "status": "airing",
     "language": "it"
   },
@@ -145,9 +204,9 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/e9m4hHEL5kgrl1hm9Uj1ArYZ8A3.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.ch/images/d8177670-29db-4e52-a785-28b996e54dff.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.bet/images/d8177670-29db-4e52-a785-28b996e54dff.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/rFezHYbfNNrhfQUT2cKtTK8dAfd.png",
-    "rating": 8.3,
+    "rating": 8.4,
     "status": "airing",
     "language": "it"
   },
@@ -172,9 +231,9 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/6tl4qX7VUIyMgkSPl0jJoX2dFrX.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.ch/images/eb751fba-8ba4-4530-9cdb-e493c6aa7c08.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.bet/images/eb751fba-8ba4-4530-9cdb-e493c6aa7c08.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/yoIDGAhWvPFxPknG3pgQSdvnVAr.png",
-    "rating": 7.9,
+    "rating": 7.8,
     "status": "airing",
     "language": "it"
   },
@@ -219,70 +278,10 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/2J3CF0tuEPK0CuK6oiXDZcsID9u.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.ch/images/774cbe7c-f47e-4e9b-9f4a-599472a3417e.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.bet/images/774cbe7c-f47e-4e9b-9f4a-599472a3417e.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/yd17TqEcvP9FcbtRNtZpcLCOhFj.png",
     "rating": 7.2,
     "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "8180-gialappashow",
-    "kind": "series",
-    "title": "GialappaShow",
-    "overview": "Accanto a Marco Santin e Giorgio Gherarducci, il Mago Forest, volti storici come Ubaldo Pantani, Marcello Cesena e tanti nuovi comici che prenderanno in giro MasterChef Italia, X Factor, Pechino Express, Ex On the beach e i più importanti eventi sportivi e tormentoni del web.",
-    "genres": [
-      "Commedia"
-    ],
-    "duration": 0,
-    "releaseDate": "2023-05-21",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": null
-      },
-      {
-        "number": 3,
-        "name": null
-      },
-      {
-        "number": 4,
-        "name": null
-      },
-      {
-        "number": 5,
-        "name": null
-      },
-      {
-        "number": 6,
-        "name": "Stagione 6"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/gczG92zbCmVDI2ahOpchGzr6895.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.ch/images/32c4a69c-7d38-402f-9232-60b7d6fd80c8.webp",
-    "rating": 8.7,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "27106-e-colpa-nostra",
-    "kind": "movie",
-    "title": "È colpa nostra?",
-    "overview": "Il matrimonio di Jenna e Lion costringe finalmente Noah e Nick a rivedersi dopo la rottura. L'incapacità di Nick di perdonare Noah, diventa una barriera insormontabile. Lui, erede dell'azienda del nonno, e lei, all'inizio della sua vita professionale, cercano di non alimentare una fiamma ancora viva. Ma ora che le loro strade si incrociano di nuovo, l'amore sarà più forte del risentimento?",
-    "genres": [
-      "Dramma",
-      "Romance"
-    ],
-    "duration": 6780,
-    "releaseDate": "2025-10-15",
-    "posterURL": "https://image.tmdb.org/t/p/w780/tlZojBX7L3KiaMLgWO2166cl6Us.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.ch/images/d5fc4ca9-b4b8-4a15-b9f8-a58c42fe6860.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/8I9SMdRxN1pOCR51wD4zEgb3I6.png",
-    "rating": 7.1,
-    "status": "ended",
     "language": "it"
   }
 ]
