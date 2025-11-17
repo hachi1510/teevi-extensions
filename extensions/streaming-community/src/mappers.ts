@@ -1,15 +1,20 @@
 import type {TeeviShow, TeeviShowEntry, TeeviShowEpisode, TeeviShowStatus,} from "@teeviapp/core"
-import {findImageURL, type SCEpisode, type SCShow, type SCShowEntry,} from "./api"
+import {findImageURL, type SCEpisode, type SCShow, type SCShowEntry, findTranslation} from "./api"
 
 export function mapSCShowEntryToTeeviShowEntry(
     show: SCShowEntry
 ): TeeviShowEntry {
+    const dateString =
+        show.last_air_date ??
+        findTranslation(show, "release_date", "it")?.value ??
+        findTranslation(show, "last_air_date", "it")?.value;
+
     return {
         kind: show.type == "movie" ? "movie" : "series",
         id: `${show.id}-${show.slug}`,
         title: show.name,
         posterURL: findImageURL(show.images, "poster"),
-        year: new Date(show.last_air_date).getFullYear(),
+        year: parseYear(dateString),
         language: "it",
     } satisfies TeeviShowEntry
 }
@@ -85,4 +90,13 @@ export function mapSCShowToTeeviShow(id: string, show: SCShow): TeeviShow {
         ),
         language: "it",
     }
+}
+
+function parseYear(dateString?: string): number | undefined {
+  if (!dateString) return undefined;
+
+  const date = new Date(dateString);
+  if (isNaN(date.getTime())) return undefined;
+
+  return date.getFullYear();
 }

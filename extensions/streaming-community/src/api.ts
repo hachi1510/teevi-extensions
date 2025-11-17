@@ -36,8 +36,27 @@ export type SCShowEntry = {
     id: number
     slug: string
     type: SCShowType
-    last_air_date: string // YYYY-MM-DD
+    last_air_date?: string // YYYY-MM-DD
     images: SCImage[]
+    translations: SCShowEntryTranslationItem[]
+}
+
+export type SCShowTranslationKey = "last_air_date" | "name" | "plot" | "release_date"
+
+export type SCShowEntryTranslationItem = {
+    locale: string
+    key: SCShowTranslationKey | string
+    value: string
+}
+
+export function findTranslation(
+  entry: SCShowEntry,
+  key: SCShowTranslationKey,
+  locale: string
+): SCShowEntryTranslationItem | undefined {
+  return entry.translations.find(
+    (t) => t.key === key && t.locale === locale
+  )
 }
 
 export type SCShow = {
