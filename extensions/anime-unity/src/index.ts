@@ -241,8 +241,11 @@ async function fetchShow(id: string): Promise<TeeviShow> {
         backdropURL: backdropURL && backdropURL.trim() ? backdropURL : undefined,
         rating: rating,
         status: mapStatus(show.status),
-        relatedShows: show.related?.map((relatedShow) =>
-            mapShowToEntry(relatedShow)
+        relatedShows: show.suggested?.map((show) =>
+            mapShowToEntry(show)
+        ),
+        franchiseShows: show.related?.map((show) =>
+            mapShowToEntry(show)
         ),
         language: parseShowLanguage(show.title_eng),
     }

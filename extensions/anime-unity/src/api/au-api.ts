@@ -83,7 +83,7 @@ export async function fetchAUShowsByQuery(query: string): Promise<AUShow[]> {
 
 export async function fetchAUShow(
     id: string
-): Promise<AUShow & { related?: AUShow[] }> {
+): Promise<AUShow & { related?: AUShow[], suggested?: AUShow[] }> {
     type AnimeData = AUShow & {
         related?: AUShow[]
     }
@@ -99,23 +99,20 @@ export async function fetchAUShow(
 
     const {related, ...anime} = JSON.parse(animeJson) as AnimeData
 
-    let suggestions = related || []
+    let suggested: AUShow[] | undefined
 
     // Recommendations
     const recommendedJson = html("div.recommended layout-items[items-json]").attr(
         "items-json"
     )
     if (recommendedJson) {
-        const recommended = JSON.parse(recommendedJson) as AUShow[]
-        const uniqueMap = new Map<number, AUShow>()
-        suggestions.forEach((show) => uniqueMap.set(show.id, show))
-        recommended.forEach((show) => uniqueMap.set(show.id, show))
-        suggestions = Array.from(uniqueMap.values())
+        suggested = JSON.parse(recommendedJson) as AUShow[]
     }
 
     return {
         ...anime,
-        related: suggestions,
+        related: related,
+        suggested: suggested,
         episodes_count: Number(dataBlock.attr("episodes_count")),
     }
 }
