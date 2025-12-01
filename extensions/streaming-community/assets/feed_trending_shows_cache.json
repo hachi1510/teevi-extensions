@@ -1,5 +1,112 @@
 [
   {
+    "id": "79-stranger-things",
+    "kind": "series",
+    "title": "Stranger Things",
+    "overview": "Benvenuti a Hawkins in Indiana: una piccola città con grandi misteri, strani avvistamenti, segreti governativi e una forza oscura che mette tutto sottosopra.",
+    "genres": [
+      "Dramma",
+      "Sci-Fi & Fantasy",
+      "Mistero"
+    ],
+    "duration": 0,
+    "releaseDate": "2016-01-01",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": null
+      },
+      {
+        "number": 3,
+        "name": null
+      },
+      {
+        "number": 4,
+        "name": null
+      },
+      {
+        "number": 5,
+        "name": "Stagione 5"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/6ZzFtA0304kTPXOzNczwUmVnfhE.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.ltd/images/636dd50b-5a4e-4fef-8ea2-b5d83913e112.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/uyVM5qGksUzCgwo6UU0UrHex8Oj.png",
+    "rating": 8.9,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "8582-jurassic-world-teoria-del-caos",
+    "kind": "series",
+    "title": "Jurassic World: Teoria del caos",
+    "overview": "Il gruppo del Campo Cretaceo si riunisce per risolvere un mistero quando scopre un complotto globale che mette in pericolo i dinosauri... e loro stessi.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Action & Adventure",
+      "Famiglia",
+      "Animazione",
+      "Kids"
+    ],
+    "duration": 0,
+    "releaseDate": "2024-05-24",
+    "seasons": [
+      {
+        "number": 1,
+        "name": "Stagione 1"
+      },
+      {
+        "number": 2,
+        "name": null
+      },
+      {
+        "number": 3,
+        "name": null
+      },
+      {
+        "number": 4,
+        "name": "Stagione 4"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/934JVRWysIPhRIdOYkuWSSZDx2t.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.ltd/images/fa1075fe-749f-428c-b62a-4780fca5a614.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/bViJwyK61FDAZ9LnX2wSLy0U4TI.png",
+    "rating": 8.3,
+    "status": "ended",
+    "language": "it"
+  },
+  {
+    "id": "10504-landman",
+    "kind": "series",
+    "title": "Landman",
+    "overview": "Nelle città in rapida espansione del Texas occidentale, dove irrefrenabili miliardari stanno alimentando il più grande boom economico della storia, Tommy Norris (il premio Oscar Billy Bob Thornton) è un anonimo gestore di crisi per la compagnia petrolifera di Monty Miller (Jon Hamm, Mad Men), un titano del locale sistema industriale con il quale ha una lunga relazione personale e professionale che coinvolge anche la moglie di quest'ultimo, Cami (Demi Moore, Feud).",
+    "genres": [
+      "Dramma"
+    ],
+    "duration": 0,
+    "releaseDate": "2024-11-17",
+    "seasons": [
+      {
+        "number": 1,
+        "name": "Stagione 1"
+      },
+      {
+        "number": 2,
+        "name": "Stagione 2"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/xD5b3sNxGcQr65gRprmru4TKZf7.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.ltd/images/95b3c3ea-8b19-40fc-adad-4c2c38db3732.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/13lJnfO3oExZ2ECzAR6WDyShzlV.png",
+    "rating": 8.4,
+    "status": "airing",
+    "language": "it"
+  },
+  {
     "id": "4622-power-book-iv-force",
     "kind": "series",
     "title": "Power Book IV: Force",
@@ -25,8 +132,32 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/bwDlHBZDkh2tCk9PRV5oDSJV548.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.bet/images/ad83b8a0-9f45-4c6d-8d90-5ec573d6c393.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.ltd/images/ad83b8a0-9f45-4c6d-8d90-5ec573d6c393.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/hFNc9CoOjJneb5VcBhrMh1vw0mK.png",
+    "rating": 8.5,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "34579-pluribus",
+    "kind": "series",
+    "title": "Pluribus",
+    "overview": "La persona più disperata del pianeta deve salvare il mondo dalla felicità.",
+    "genres": [
+      "Dramma",
+      "Sci-Fi & Fantasy"
+    ],
+    "duration": 0,
+    "releaseDate": "2025-11-06",
+    "seasons": [
+      {
+        "number": 1,
+        "name": "Stagione 1"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/os1oQkTMZXiFP7KdEv3o03eshGC.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.ltd/images/a09d5293-32f5-4d32-bd07-af0d884124d9.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/qUMaG3ZB32GXtXMMjz7pkxehz26.png",
     "rating": 8.5,
     "status": "airing",
     "language": "it"
@@ -52,7 +183,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/yor4qGt9fQT1mHnmXl9I04IuueQ.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.bet/images/62466d33-8dae-4a37-8096-4bdb6b01db9a.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.ltd/images/62466d33-8dae-4a37-8096-4bdb6b01db9a.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/5YhbneGursZXMOSbRiQ17XakkQv.png",
     "rating": 6.4,
     "status": "airing",
@@ -79,7 +210,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/wHe4NJZTSfAixkliXiZpFEK7ffa.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.bet/images/3c93d08b-e66f-4acc-9ed0-2aa47617ed51.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.ltd/images/3c93d08b-e66f-4acc-9ed0-2aa47617ed51.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/6HNjemN8HsiEIX0Z0L7pPRwvxki.png",
     "rating": 7.5,
     "status": "airing",
@@ -116,171 +247,9 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/eEDadRyYO8q6nTb24u7cOD4COb7.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.bet/images/b681adf3-fb33-4dfa-88ed-0e8a29ef024a.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.ltd/images/b681adf3-fb33-4dfa-88ed-0e8a29ef024a.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/vqpt6XBp8VQu3Xy4YQsvZaTbxjl.png",
     "rating": 8.3,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "7540-hazbin-hotel",
-    "kind": "series",
-    "title": "Hazbin Hotel",
-    "overview": "Charlie. Stella del Mattino, la Principessa dell'Inferno, fatica a convincere sia i demoni che gli angeli che ogni anima possa essere redenta. Cantate e imprecate con noi in questa commedia musicale animata per adulti sul tema delle seconde chance.",
-    "genres": [
-      "Commedia",
-      "Animazione"
-    ],
-    "duration": 0,
-    "releaseDate": "2024-01-18",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": "Stagione 2"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/3RILC1Qnl3lYgemxeVmKMszQijV.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.bet/images/ca6cbc7b-4d05-4d23-bc35-cef0aafd33b4.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/r91aVEvQjmbR3NTbTPvqrziInHv.png",
-    "rating": 8.6,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "29354-it-welcome-to-derry",
-    "kind": "series",
-    "title": "IT: Welcome to Derry",
-    "overview": "Prequel di IT che inizia negli anni '60 e copre anche le origini di Pennywise il Clown.",
-    "genres": [
-      "Dramma",
-      "Mistero"
-    ],
-    "duration": 0,
-    "releaseDate": "2025-10-26",
-    "seasons": [
-      {
-        "number": 1,
-        "name": "Stagione 1"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/nGgnUa003euWULRRByA440LM5dR.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.bet/images/0c498548-29c2-429f-a53b-1b9a170a3d60.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/zitWHYRTBbEPCrLH1Cc6hnoeeYw.png",
-    "rating": 7.2,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "5611-mayor-of-kingstown",
-    "kind": "series",
-    "title": "Mayor of Kingstown",
-    "overview": "In una piccola città del Michigan dove l'attività carceraria è l'unica fiorente industria, la famiglia McClusky è l'intermediario tra polizia, criminali, detenuti, guardie carcerarie e politici in una città completamente dipendente dalle prigioni e dai prigionieri che contengono.",
-    "genres": [
-      "Dramma",
-      "Crime"
-    ],
-    "duration": 0,
-    "releaseDate": "2021-11-14",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": null
-      },
-      {
-        "number": 3,
-        "name": null
-      },
-      {
-        "number": 4,
-        "name": "Stagione 4"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/e9m4hHEL5kgrl1hm9Uj1ArYZ8A3.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.bet/images/d8177670-29db-4e52-a785-28b996e54dff.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/rFezHYbfNNrhfQUT2cKtTK8dAfd.png",
-    "rating": 8.4,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "9987-nobody-wants-this",
-    "kind": "series",
-    "title": "Nobody Wants This",
-    "overview": "Una podcaster agnostica che parla di sesso e un rabbino da poco single si innamorano. Riuscirà la loro storia a sopravvivere a stili di vita opposti e famiglie impiccione?",
-    "genres": [
-      "Commedia"
-    ],
-    "duration": 0,
-    "releaseDate": "2024-09-26",
-    "seasons": [
-      {
-        "number": 1,
-        "name": "Nobody Wants This"
-      },
-      {
-        "number": 2,
-        "name": "Stagione 2"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/6tl4qX7VUIyMgkSPl0jJoX2dFrX.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.bet/images/eb751fba-8ba4-4530-9cdb-e493c6aa7c08.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/yoIDGAhWvPFxPknG3pgQSdvnVAr.png",
-    "rating": 7.8,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "4900-the-kardashians",
-    "kind": "series",
-    "title": "The Kardashians",
-    "overview": "Le telecamere sono tornate e girano con la famiglia preferita di tutti. Stanno affrontando la loro nuova normalità: l'essere madre, le relazioni e gli obiettivi di carriera. Mentre la famiglia festeggia nuove imprese, un video del passato riaffiora e minaccia di aprire vecchie ferite.",
-    "genres": [
-      "Reality"
-    ],
-    "duration": 0,
-    "releaseDate": "2022-04-14",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": null
-      },
-      {
-        "number": 3,
-        "name": null
-      },
-      {
-        "number": 4,
-        "name": null
-      },
-      {
-        "number": 5,
-        "name": null
-      },
-      {
-        "number": 6,
-        "name": "Stagione 6"
-      },
-      {
-        "number": 7,
-        "name": "Stagione 7"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/2J3CF0tuEPK0CuK6oiXDZcsID9u.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.bet/images/774cbe7c-f47e-4e9b-9f4a-599472a3417e.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/yd17TqEcvP9FcbtRNtZpcLCOhFj.png",
-    "rating": 7.2,
     "status": "airing",
     "language": "it"
   }
