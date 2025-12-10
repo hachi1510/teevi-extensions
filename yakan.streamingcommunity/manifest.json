@@ -1,10 +1,10 @@
 {
   "id": "yakan.streamingcommunity",
   "name": "StreamingCommunity",
-  "version": "0.10.31",
+  "version": "0.10.32",
   "description": "Estensione per Teevi che abilita l'integrazione con StreamingCommunity",
   "author": "Hachi",
-  "hash": "dfc21107ff1fba8f018168b0ddbb89f9735d2b5c7eaba62bcfa73e6bbe2a4589",
+  "hash": "ddd823c66db01b6fea1935736f9ada81c4fc4c0dc45fb1a99ec750a8c69399f8",
   "capabilities": [
     "metadata",
     "video",
