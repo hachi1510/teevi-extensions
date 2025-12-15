@@ -1,5 +1,59 @@
 [
   {
+    "id": "7166-percy-jackson-e-gli-dei-dellolimpo",
+    "kind": "series",
+    "title": "Percy Jackson e gli dei dell'Olimpo",
+    "overview": "Percy Jackson deve affrontare un’impresa pericolosa. Sfuggendo a mostri e superando in astuzia gli dei, dovrà attraversare l'America per restituire a Zeus la sua Folgore e sventare una guerra totale. Con l'aiuto dei suoi compagni di ventura Annabeth e Grover, il viaggio di Percy lo porterà più vicino alle risposte che cerca: come trovare il suo posto in un mondo in cui si sente un estraneo e scoprire chi è destinato ad essere.",
+    "genres": [
+      "Dramma",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure",
+      "Famiglia"
+    ],
+    "duration": 0,
+    "releaseDate": "2023-12-20",
+    "seasons": [
+      {
+        "number": 1,
+        "name": "Stagione 1"
+      },
+      {
+        "number": 2,
+        "name": "Stagione 2"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/rXobL9REZMyD9UUaEYz7HkjNjqJ.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.digital/images/7889e6d4-6f35-41e1-9c3e-a56d01903771.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/iYxjFCbqSJyDDmAytShRw2n5ZgF.png",
+    "rating": 7.6,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "43923-sicilia-express",
+    "kind": "series",
+    "title": "Sicilia Express",
+    "overview": "Con il Natale alle porte, due maldestri amici siciliani che lavorano a Milano scoprono un cassonetto dei rifiuti che li trasporta dalle loro famiglie in pochi secondi.",
+    "genres": [
+      "Commedia",
+      "Famiglia"
+    ],
+    "duration": 0,
+    "releaseDate": "2025-12-05",
+    "seasons": [
+      {
+        "number": 1,
+        "name": "Stagione 1"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/j6GFGIERE0MLWDoVfPLo1kR3CNn.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.digital/images/0e8dd149-8838-4576-b2a9-5959d1fc434f.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/afMtV5NgsO4t9WwcVcOCUzUw21w.png",
+    "rating": 7.3,
+    "status": "airing",
+    "language": "it"
+  },
+  {
     "id": "79-stranger-things",
     "kind": "series",
     "title": "Stranger Things",
@@ -34,10 +88,45 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/6ZzFtA0304kTPXOzNczwUmVnfhE.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.ltd/images/636dd50b-5a4e-4fef-8ea2-b5d83913e112.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.digital/images/636dd50b-5a4e-4fef-8ea2-b5d83913e112.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/uyVM5qGksUzCgwo6UU0UrHex8Oj.png",
     "rating": 8.9,
     "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "5256-bel-air",
+    "kind": "series",
+    "title": "Bel-Air",
+    "overview": "Quando Will, un ragazzo sveglio e in gamba che vive nel quartiere di Filadelfia Ovest, viene coinvolto per sbaglio in una situazione pericolosa, la sua famiglia decide che l'unico modo per tenerlo al sicuro è di allontanarlo dalla città. Costretto a lasciare i suoi amici e i suoi cari, si trasferisce a Los Angeles nel lussuoso quartiere residenziale di Bel-Air.",
+    "genres": [
+      "Dramma"
+    ],
+    "duration": 0,
+    "releaseDate": "2022-02-13",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": null
+      },
+      {
+        "number": 3,
+        "name": "Stagione 3"
+      },
+      {
+        "number": 4,
+        "name": "Stagione 4"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/dR2ClwPVLCkfVE4lwpa437bjXtu.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.digital/images/9a91c4ef-7145-4752-be89-9995b701900d.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/xn5dvuK97c9Go3VJwpYViAfoOQC.png",
+    "rating": 7.6,
+    "status": "ended",
     "language": "it"
   },
   {
@@ -73,7 +162,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/934JVRWysIPhRIdOYkuWSSZDx2t.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.ltd/images/fa1075fe-749f-428c-b62a-4780fca5a614.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.digital/images/fa1075fe-749f-428c-b62a-4780fca5a614.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/bViJwyK61FDAZ9LnX2wSLy0U4TI.png",
     "rating": 8.3,
     "status": "ended",
@@ -99,11 +188,29 @@
         "name": "Stagione 2"
       }
     ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/xD5b3sNxGcQr65gRprmru4TKZf7.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.ltd/images/95b3c3ea-8b19-40fc-adad-4c2c38db3732.webp",
+    "posterURL": "https://image.tmdb.org/t/p/w780/aflw1oclZWkYYyn3T1mkoQcdLjS.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.digital/images/95b3c3ea-8b19-40fc-adad-4c2c38db3732.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/13lJnfO3oExZ2ECzAR6WDyShzlV.png",
     "rating": 8.4,
     "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "12823-lillusione-perfetta-now-you-see-me-now-you-dont",
+    "kind": "movie",
+    "title": "L'illusione perfetta - Now You See Me: Now You Don't",
+    "overview": "The Four Horsemen return along with a new generation of illusionists performing mind-melding twists, turns, surprises, and magic unlike anything ever captured on film.",
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "duration": 6720,
+    "releaseDate": "2025-11-12",
+    "posterURL": "https://image.tmdb.org/t/p/w780/cy8izDkz4r1kAJ1T32xQTJGhmWz.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.digital/images/f702ee5f-8164-4ebc-be0c-b7e4b8966f8c.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/8eC8rFXPjaGUl4U4sVcqBPXXfSd.png",
+    "rating": 7,
+    "status": "upcoming",
     "language": "it"
   },
   {
@@ -132,124 +239,9 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/bwDlHBZDkh2tCk9PRV5oDSJV548.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.ltd/images/ad83b8a0-9f45-4c6d-8d90-5ec573d6c393.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.digital/images/ad83b8a0-9f45-4c6d-8d90-5ec573d6c393.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/hFNc9CoOjJneb5VcBhrMh1vw0mK.png",
     "rating": 8.5,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "34579-pluribus",
-    "kind": "series",
-    "title": "Pluribus",
-    "overview": "La persona più disperata del pianeta deve salvare il mondo dalla felicità.",
-    "genres": [
-      "Dramma",
-      "Sci-Fi & Fantasy"
-    ],
-    "duration": 0,
-    "releaseDate": "2025-11-06",
-    "seasons": [
-      {
-        "number": 1,
-        "name": "Stagione 1"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/os1oQkTMZXiFP7KdEv3o03eshGC.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.ltd/images/a09d5293-32f5-4d32-bd07-af0d884124d9.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/qUMaG3ZB32GXtXMMjz7pkxehz26.png",
-    "rating": 8.5,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "6898-squid-game-la-sfida",
-    "kind": "series",
-    "title": "Squid Game: La sfida",
-    "overview": "Immersi nel mondo di \"Squid Game\", 456 concorrenti reali mettono alla prova le loro abilità e il loro carattere per aggiudicarsi un premio di 4,56 milioni di dollari.",
-    "genres": [
-      "Reality"
-    ],
-    "duration": 0,
-    "releaseDate": "2023-11-22",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": "Stagione 2"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/yor4qGt9fQT1mHnmXl9I04IuueQ.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.ltd/images/62466d33-8dae-4a37-8096-4bdb6b01db9a.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/5YhbneGursZXMOSbRiQ17XakkQv.png",
-    "rating": 6.4,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "9808-respira",
-    "kind": "series",
-    "title": "Respira",
-    "overview": "Un'appassionata équipe medica è determinata a salvare vite in un caotico ospedale pubblico dove le tensioni e le storie d'amore fanno alzare la pressione.",
-    "genres": [
-      "Dramma"
-    ],
-    "duration": 0,
-    "releaseDate": "2024-08-30",
-    "seasons": [
-      {
-        "number": 1,
-        "name": "Respira"
-      },
-      {
-        "number": 2,
-        "name": "Stagione 2"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/wHe4NJZTSfAixkliXiZpFEK7ffa.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.ltd/images/3c93d08b-e66f-4acc-9ed0-2aa47617ed51.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/6HNjemN8HsiEIX0Z0L7pPRwvxki.png",
-    "rating": 7.5,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "67-the-witcher",
-    "kind": "series",
-    "title": "The Witcher",
-    "overview": "Geralt di Rivia, un cacciatore di mostri mutante, viaggia verso il suo destino in un mondo turbolento in cui le persone spesso si dimostrano più perverse delle bestie.",
-    "genres": [
-      "Dramma",
-      "Sci-Fi & Fantasy",
-      "Action & Adventure"
-    ],
-    "duration": 0,
-    "releaseDate": "2019-12-20",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": null
-      },
-      {
-        "number": 3,
-        "name": null
-      },
-      {
-        "number": 4,
-        "name": "Stagione 4"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/eEDadRyYO8q6nTb24u7cOD4COb7.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.ltd/images/b681adf3-fb33-4dfa-88ed-0e8a29ef024a.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/vqpt6XBp8VQu3Xy4YQsvZaTbxjl.png",
-    "rating": 8.3,
     "status": "airing",
     "language": "it"
   }
