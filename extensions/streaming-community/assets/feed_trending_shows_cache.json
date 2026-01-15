@@ -1,17 +1,96 @@
 [
   {
-    "id": "7166-percy-jackson-e-gli-dei-dellolimpo",
+    "id": "6558-hijack-sette-ore-in-alta-quota",
     "kind": "series",
-    "title": "Percy Jackson e gli dei dell'Olimpo",
-    "overview": "Percy Jackson deve affrontare un’impresa pericolosa. Sfuggendo a mostri e superando in astuzia gli dei, dovrà attraversare l'America per restituire a Zeus la sua Folgore e sventare una guerra totale. Con l'aiuto dei suoi compagni di ventura Annabeth e Grover, il viaggio di Percy lo porterà più vicino alle risposte che cerca: come trovare il suo posto in un mondo in cui si sente un estraneo e scoprire chi è destinato ad essere.",
+    "title": "Hijack - Sette ore in alta quota",
+    "overview": "Quando il volo KA29 viene dirottato durante il suo viaggio di sette ore da Dubai a Londra, Sam Nelson, un abile negoziatore aziendale, cerca di usare le sue capacità professionali per salvare tutti a bordo. Questa strategia ad alto rischio sarà la sua rovina?",
     "genres": [
-      "Dramma",
-      "Sci-Fi & Fantasy",
-      "Action & Adventure",
-      "Famiglia"
+      "Dramma"
     ],
     "duration": 0,
-    "releaseDate": "2023-12-20",
+    "releaseDate": "2023-06-28",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": "Stagione 2"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/pIsEAt3IOBpsWwYitPzj0P3UESm.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.green/images/38a5430c-d5f6-4f1f-8c73-455179872e19.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/6bd6s380VDuzNhdxWYAdBNVmdU6.png",
+    "rating": 7.9,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "5846-tell-me-lies",
+    "kind": "series",
+    "title": "Tell Me Lies",
+    "overview": "Quando Lucy Albright arriva nel campus del suo piccolo college, lontana da sua madre che non ha mai perdonato per un atto di tradimento nei suoi primi anni dell'adolescenza, Lucy abbraccia la vita del college e tutto ciò che ha da offrire. Ma tutto cambia quando incontra Stephen DeMarco, che ha un suo passato misterioso. Il loro avvincente intreccio avrà conseguenze che non avrebbero mai potuto immaginare.",
+    "genres": [
+      "Dramma"
+    ],
+    "duration": 0,
+    "releaseDate": "2022-09-07",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": "Stagione 2"
+      },
+      {
+        "number": 3,
+        "name": "Stagione 3"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/mL3Tzj54WnOhQdvf5zFYBqTPLeV.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.green/images/ecf53360-f543-4046-bf49-df007c0dc455.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/6kBhF019Z371LLnwOPNEPmwauOp.png",
+    "rating": 7.5,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "50246-gomorra-le-origini",
+    "kind": "series",
+    "title": "Gomorra - Le origini",
+    "overview": "La serie esplora la giovinezza di Pietro Savastano negli Anni Settanta, in una Napoli in piena trasformazione, povera e segnata dal contrabbando di sigarette.",
+    "genres": [
+      "Dramma",
+      "Crime"
+    ],
+    "duration": 0,
+    "releaseDate": "2026-01-09",
+    "seasons": [
+      {
+        "number": 1,
+        "name": "Stagione 1"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/m75TEeoZUVi9rTOVEwHq6SOyXT7.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.green/images/7fc3029f-5bcd-489c-aeb0-e90941804141.webp",
+    "logoURL": "https://cdn.streamingcommunityz.green/images/3b0208f8-2d58-4a6d-acf6-b02ae6529c50.webp",
+    "rating": 6.5,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "15021-the-pitt",
+    "kind": "series",
+    "title": "The Pitt",
+    "overview": "Lo staff del Trauma Medical Center di Pittsburgh lavora ininterrottamente per salvare vite in un reparto di emergenza sovraffollato e senza fondi.",
+    "genres": [
+      "Dramma"
+    ],
+    "duration": 0,
+    "releaseDate": "2025-09-24",
     "seasons": [
       {
         "number": 1,
@@ -22,49 +101,51 @@
         "name": "Stagione 2"
       }
     ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/rXobL9REZMyD9UUaEYz7HkjNjqJ.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.digital/images/7889e6d4-6f35-41e1-9c3e-a56d01903771.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/iYxjFCbqSJyDDmAytShRw2n5ZgF.png",
-    "rating": 7.6,
+    "posterURL": "https://image.tmdb.org/t/p/w780/7QCebBfdrOjsQ1ozz6EvCPxaQ27.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.green/images/2232609c-569b-4091-b391-bc8de4f043b3.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/zqsePGDhPnk5KpSjlZFpmZyy8h6.png",
+    "rating": 8.9,
     "status": "airing",
     "language": "it"
   },
   {
-    "id": "43923-sicilia-express",
+    "id": "10811-beast-games",
     "kind": "series",
-    "title": "Sicilia Express",
-    "overview": "Con il Natale alle porte, due maldestri amici siciliani che lavorano a Milano scoprono un cassonetto dei rifiuti che li trasporta dalle loro famiglie in pochi secondi.",
+    "title": "Beast Games",
+    "overview": "Ben 1.000 concorrenti competeranno in sfide fisiche e mentali da brivido, cercando di vincere l'incredibile somma di 5 milioni di dollari. Settimana dopo settimana, i concorrenti useranno la loro forza e il loro ingegno per rimanere in gioco, nella speranza di diventare multimilionari!",
     "genres": [
-      "Commedia",
-      "Famiglia"
+      "Reality"
     ],
     "duration": 0,
-    "releaseDate": "2025-12-05",
+    "releaseDate": "2024-12-19",
     "seasons": [
       {
         "number": 1,
         "name": "Stagione 1"
+      },
+      {
+        "number": 2,
+        "name": "Stagione 2"
       }
     ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/j6GFGIERE0MLWDoVfPLo1kR3CNn.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.digital/images/0e8dd149-8838-4576-b2a9-5959d1fc434f.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/afMtV5NgsO4t9WwcVcOCUzUw21w.png",
+    "posterURL": "https://image.tmdb.org/t/p/w780/9qO5kxTZ9vM6WUrslrTcYkw9Ddg.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.green/images/7ca96c35-10bd-4248-a730-f8a2d0fb3b92.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/29l60qZ4l4kyhIvQPHP0olTZQnz.png",
     "rating": 7.3,
     "status": "airing",
     "language": "it"
   },
   {
-    "id": "79-stranger-things",
+    "id": "2270-emily-in-paris",
     "kind": "series",
-    "title": "Stranger Things",
-    "overview": "Benvenuti a Hawkins in Indiana: una piccola città con grandi misteri, strani avvistamenti, segreti governativi e una forza oscura che mette tutto sottosopra.",
+    "title": "Emily in Paris",
+    "overview": "Originaria di Chicago, l'ambiziosa direttrice marketing Emily ottiene inaspettatamente l'impiego dei sogni a Parigi e si tuffa in una nuova vita di lavoro, amici e amori.",
     "genres": [
       "Dramma",
-      "Sci-Fi & Fantasy",
-      "Mistero"
+      "Commedia"
     ],
     "duration": 0,
-    "releaseDate": "2016-01-01",
+    "releaseDate": "2020-10-02",
     "seasons": [
       {
         "number": 1,
@@ -80,169 +161,38 @@
       },
       {
         "number": 4,
-        "name": null
+        "name": "Stagione 4"
       },
       {
         "number": 5,
         "name": "Stagione 5"
       }
     ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/6ZzFtA0304kTPXOzNczwUmVnfhE.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.digital/images/636dd50b-5a4e-4fef-8ea2-b5d83913e112.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/uyVM5qGksUzCgwo6UU0UrHex8Oj.png",
-    "rating": 8.9,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "5256-bel-air",
-    "kind": "series",
-    "title": "Bel-Air",
-    "overview": "Quando Will, un ragazzo sveglio e in gamba che vive nel quartiere di Filadelfia Ovest, viene coinvolto per sbaglio in una situazione pericolosa, la sua famiglia decide che l'unico modo per tenerlo al sicuro è di allontanarlo dalla città. Costretto a lasciare i suoi amici e i suoi cari, si trasferisce a Los Angeles nel lussuoso quartiere residenziale di Bel-Air.",
-    "genres": [
-      "Dramma"
-    ],
-    "duration": 0,
-    "releaseDate": "2022-02-13",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": null
-      },
-      {
-        "number": 3,
-        "name": "Stagione 3"
-      },
-      {
-        "number": 4,
-        "name": "Stagione 4"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/dR2ClwPVLCkfVE4lwpa437bjXtu.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.digital/images/9a91c4ef-7145-4752-be89-9995b701900d.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/xn5dvuK97c9Go3VJwpYViAfoOQC.png",
+    "posterURL": "https://image.tmdb.org/t/p/w780/bEaRI3PZ0dqmDNoZ8xfHdbWMYKJ.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.green/images/0ef35710-10c1-43c8-bfb1-1785bd0def8a.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/jn93XAf60Ro2SLGKCdXXru1f45t.png",
     "rating": 7.6,
-    "status": "ended",
-    "language": "it"
-  },
-  {
-    "id": "8582-jurassic-world-teoria-del-caos",
-    "kind": "series",
-    "title": "Jurassic World: Teoria del caos",
-    "overview": "Il gruppo del Campo Cretaceo si riunisce per risolvere un mistero quando scopre un complotto globale che mette in pericolo i dinosauri... e loro stessi.",
-    "genres": [
-      "Sci-Fi & Fantasy",
-      "Action & Adventure",
-      "Famiglia",
-      "Animazione",
-      "Kids"
-    ],
-    "duration": 0,
-    "releaseDate": "2024-05-24",
-    "seasons": [
-      {
-        "number": 1,
-        "name": "Stagione 1"
-      },
-      {
-        "number": 2,
-        "name": null
-      },
-      {
-        "number": 3,
-        "name": null
-      },
-      {
-        "number": 4,
-        "name": "Stagione 4"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/934JVRWysIPhRIdOYkuWSSZDx2t.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.digital/images/fa1075fe-749f-428c-b62a-4780fca5a614.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/bViJwyK61FDAZ9LnX2wSLy0U4TI.png",
-    "rating": 8.3,
-    "status": "ended",
-    "language": "it"
-  },
-  {
-    "id": "10504-landman",
-    "kind": "series",
-    "title": "Landman",
-    "overview": "Nelle città in rapida espansione del Texas occidentale, dove irrefrenabili miliardari stanno alimentando il più grande boom economico della storia, Tommy Norris (il premio Oscar Billy Bob Thornton) è un anonimo gestore di crisi per la compagnia petrolifera di Monty Miller (Jon Hamm, Mad Men), un titano del locale sistema industriale con il quale ha una lunga relazione personale e professionale che coinvolge anche la moglie di quest'ultimo, Cami (Demi Moore, Feud).",
-    "genres": [
-      "Dramma"
-    ],
-    "duration": 0,
-    "releaseDate": "2024-11-17",
-    "seasons": [
-      {
-        "number": 1,
-        "name": "Stagione 1"
-      },
-      {
-        "number": 2,
-        "name": "Stagione 2"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/aflw1oclZWkYYyn3T1mkoQcdLjS.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.digital/images/95b3c3ea-8b19-40fc-adad-4c2c38db3732.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/13lJnfO3oExZ2ECzAR6WDyShzlV.png",
-    "rating": 8.4,
     "status": "airing",
     "language": "it"
   },
   {
-    "id": "12823-lillusione-perfetta-now-you-see-me-now-you-dont",
+    "id": "12943-avatar-fuoco-e-cenere",
     "kind": "movie",
-    "title": "L'illusione perfetta - Now You See Me: Now You Don't",
-    "overview": "The Four Horsemen return along with a new generation of illusionists performing mind-melding twists, turns, surprises, and magic unlike anything ever captured on film.",
+    "title": "Avatar - Fuoco e cenere",
+    "overview": "In seguito alla devastante guerra contro la RDA e alla perdita del loro figlio maggiore, Jake Sully e Neytiri affrontano una nuova minaccia su Pandora: il Popolo della Cenere, una tribù Na'vi violenta e assetata di potere guidata dagli spietati Varang. La famiglia di Jake deve lottare per la propria sopravvivenza e per il futuro di Pandora in un conflitto che li spinge ai loro limiti emotivi e fisici.",
     "genres": [
-      "Crime",
-      "Thriller"
+      "Azione",
+      "Fantasy",
+      "Fantascienza",
+      "Avventura"
     ],
-    "duration": 6720,
-    "releaseDate": "2025-11-12",
-    "posterURL": "https://image.tmdb.org/t/p/w780/cy8izDkz4r1kAJ1T32xQTJGhmWz.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.digital/images/f702ee5f-8164-4ebc-be0c-b7e4b8966f8c.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/8eC8rFXPjaGUl4U4sVcqBPXXfSd.png",
-    "rating": 7,
+    "duration": 11520,
+    "releaseDate": "2025-12-23",
+    "posterURL": "https://image.tmdb.org/t/p/w780/nbkxEZBulwQLg8e1LR3vX6v94FY.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.green/images/a9804ac2-f503-4ed4-98bb-e19bf12cd128.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/qzuSPiHF08bUZXPaXST24ANfoqK.png",
+    "rating": 6.9,
     "status": "upcoming",
-    "language": "it"
-  },
-  {
-    "id": "4622-power-book-iv-force",
-    "kind": "series",
-    "title": "Power Book IV: Force",
-    "overview": "Nuovo spin-off di Power, il dramma criminale Power Book IV: Force si concentra sulle vicende di Tommy Egan. Tommy Egan ha lasciato New York chiudendo quel capitolo della sua vita dopo la morte di Ghost. Si trasferisce a Chicago per una breve visita e per chiudere una vecchia ferita, ma non riesce a cambiare vita e anche qui riprende a operare all'interno del crimine organizzato aspirando a diventare il più importante spacciatore della città. Così la breve visita diventa un soggiorno in cui lui diventa il perno tra le due più potenti bande della città.",
-    "genres": [
-      "Dramma",
-      "Crime"
-    ],
-    "duration": 0,
-    "releaseDate": "2022-02-06",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": null
-      },
-      {
-        "number": 3,
-        "name": "Stagione 3"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/bwDlHBZDkh2tCk9PRV5oDSJV548.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.digital/images/ad83b8a0-9f45-4c6d-8d90-5ec573d6c393.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/hFNc9CoOjJneb5VcBhrMh1vw0mK.png",
-    "rating": 8.5,
-    "status": "airing",
     "language": "it"
   }
 ]
