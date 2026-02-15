@@ -1,5 +1,147 @@
 [
   {
+    "id": "54394-love-me-love-me",
+    "kind": "movie",
+    "title": "Love Me Love Me",
+    "overview": "Dopo la morte del fratello, June si trasferisce a Milano e trova conforto in Will, lo studente modello della sua nuova scuola internazionale. Ma quando James, il migliore amico di Will e campione di combattimenti clandestini di MMA, scatena una rivalità che si trasforma in un'attrazione irresistibile, June deve scegliere tra la sicurezza e un amore che sconvolge tutto ciò che pensava di volere.",
+    "genres": [
+      "Dramma",
+      "Romance"
+    ],
+    "duration": 5940,
+    "releaseDate": "2026-02-12",
+    "posterURL": "https://image.tmdb.org/t/p/w780/zF4O7giUZO801EAXdP4yY8TUIId.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.money/images/7bfdb621-363e-4786-acfd-983415d7cea0.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/cn6DZaISoL4fAuhrO10nuD27rg0.png",
+    "rating": 8,
+    "status": "ended",
+    "language": "it"
+  },
+  {
+    "id": "10475-alex-cross",
+    "kind": "series",
+    "title": "Alex Cross",
+    "overview": "Un poliziesco drammatico, che segue Alex Cross, un brillante detective della Omicidi di Washington D.C., i cui problemi personali rischiano di far deragliare la sua carriera e la sua vita.",
+    "genres": [
+      "Crime",
+      "Mistero"
+    ],
+    "duration": 0,
+    "releaseDate": "2024-11-14",
+    "seasons": [
+      {
+        "number": 1,
+        "name": "Stagione 1"
+      },
+      {
+        "number": 2,
+        "name": "Stagione 2"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/1exnP7UIyQtQmhowsjWrJNXS9Rm.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.money/images/d0d7ed93-6819-4815-b9e2-2ebb0f6479f7.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/7bMlHayTFER3SMiOY6rqZOHaA4v.png",
+    "rating": 7.7,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "7190-the-artful-dodger",
+    "kind": "series",
+    "title": "The Artful Dodger",
+    "overview": "Un irriverente seguito di \"Oliver Twist\", che esplora la doppia vita da adulto del famoso principe dei ladri ideato da Charles Dickens. Intorno al 1850, nella vivace colonia australiana di Port Victory, Jack Dawkins, alias \"Artful Dodger\", utilizza le sue abili dita da borseggiatore reinventandosi chirurgo. Il passato di Dodger torna a perseguitarlo con l'arrivo di Fagin, che lo attira di nuovo nel mondo del crimine. Una minaccia ancora maggiore, per il cuore di Dodger, è Lady Belle, figlia del governatore e determinata a diventare la prima donna chirurgo della colonia. Rapine, interventi chirurgici disperati, serate eleganti e violenza di strada la rendono una singolare storia di reinvenzione, tradimento, redenzione e amore.",
+    "genres": [
+      "Dramma",
+      "Crime",
+      "Action & Adventure"
+    ],
+    "duration": 0,
+    "releaseDate": "2024-01-17",
+    "seasons": [
+      {
+        "number": 1,
+        "name": "Stagione 1"
+      },
+      {
+        "number": 2,
+        "name": "Stagione 2"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/qjq2060WIPc7xBHuh0pkRtvVzWE.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.money/images/d62dfe82-cd70-4b50-8335-25dc791b1c3e.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/cWyoGzW9tIayiq57lzgsz4kSZoo.png",
+    "rating": 8.5,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "5030-avvocato-di-difesa",
+    "kind": "series",
+    "title": "Avvocato di difesa",
+    "overview": "Dopo un incidente, il fenomenale avvocato di Los Angeles Mickey Haller si riappropria della carriera (e della sua inconfondibile Lincoln) accettando un caso di omicidio.",
+    "genres": [
+      "Dramma",
+      "Crime"
+    ],
+    "duration": 0,
+    "releaseDate": "2022-01-01",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": null
+      },
+      {
+        "number": 3,
+        "name": null
+      },
+      {
+        "number": 4,
+        "name": "Stagione 4"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/5hvAN253yy71W4jSC54fu9vukaP.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.money/images/7bd10c1c-603c-4dcc-97b2-5ba0774a9a65.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/qMc97xLzxCMq09MQpnahRXWqxiF.png",
+    "rating": 8.2,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "7953-italia-shore",
+    "kind": "series",
+    "title": "Italia Shore",
+    "overview": "Un gruppo di ragazzi si scatena in una vacanza indimenticabile: adrenalina, party sfrenati e relazioni esplosive nei luoghi più cool d'Italia! Un mix di divertimento, drama e personalità scintillanti... tra risate e duro lavoro!",
+    "genres": [
+      "Reality"
+    ],
+    "duration": 0,
+    "releaseDate": "2024-01-01",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": null
+      },
+      {
+        "number": 3,
+        "name": null
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/4YUgA4zTXwQyxIXFGNZyc89QwHb.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.money/images/3c97af45-746d-43cb-91c1-cb2e0ff7fd89.webp",
+    "logoURL": "https://cdn.streamingcommunityz.money/images/6662b6f5-448e-4826-acc9-5aae65b35dcf.webp",
+    "rating": 6.6,
+    "status": "airing",
+    "language": "it"
+  },
+  {
     "id": "2644-bridgerton",
     "kind": "series",
     "title": "Bridgerton",
@@ -28,9 +170,40 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/tBduPohZZ5G8GGYGBmOCsfd9qvM.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.land/images/106ca68f-a3d2-4492-bf81-6caf5efac9b3.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.money/images/106ca68f-a3d2-4492-bf81-6caf5efac9b3.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/bNWjCKZJTDKce8fuyRHSQ3B78ph.png",
     "rating": 8.2,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "6540-school-spirits",
+    "kind": "series",
+    "title": "School Spirits",
+    "overview": "Maddie, un'adolescente bloccata nell'aldilà che indaga sulla propria scomparsa, intraprende un viaggio per risolvere un crimine mentre si adatta al purgatorio del liceo.",
+    "genres": [
+      "Dramma"
+    ],
+    "duration": 0,
+    "releaseDate": "2023-03-09",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": null
+      },
+      {
+        "number": 3,
+        "name": "Stagione 3"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/p2Xvnn3Zg7wp1kQ9biAeW9cJqbE.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.money/images/1ae6bad9-5b3f-4b90-80af-3ce69f7be496.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/n3deCNZ4f4Lx7uqxViJ5XJeZMPw.png",
+    "rating": 8,
     "status": "airing",
     "language": "it"
   },
@@ -59,9 +232,9 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/wlOd1KWv91efhHaDYa8YmKHZpzu.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.land/images/91212cdb-4bb6-4790-80ec-c6f8e5f52938.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.money/images/91212cdb-4bb6-4790-80ec-c6f8e5f52938.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/lVkj9F9l9BQyUgasd55dIt9KkQe.png",
-    "rating": 7.4,
+    "rating": 7.3,
     "status": "airing",
     "language": "it"
   },
@@ -99,7 +272,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/gNyIuWurLyV1Wr0Vq2NRkxL5ena.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.land/images/cc5209cd-f115-461b-aaa9-232467f3a1a6.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.money/images/cc5209cd-f115-461b-aaa9-232467f3a1a6.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/7PirAZMGCb53CXuk2cfSHGtWqbk.png",
     "rating": 7.9,
     "status": "airing",
@@ -123,218 +296,9 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/2sddK6rP3VaoETfa7ADE2KCkfpj.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.land/images/a13682b3-9c29-4cfc-a92c-202561a95d60.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.money/images/a13682b3-9c29-4cfc-a92c-202561a95d60.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/rF0yV5u8l0pmRgQloZok8VDxAcM.png",
     "rating": 8.5,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "8703-geordie-shore",
-    "kind": "series",
-    "title": "Geordie Shore",
-    "overview": "La risposta britannica al già celeberrimo Jersey Shore! L'essere\ncoatti non ha nazionalità",
-    "genres": [
-      "Dramma",
-      "Reality"
-    ],
-    "duration": 0,
-    "releaseDate": "2011-05-24",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": null
-      },
-      {
-        "number": 3,
-        "name": null
-      },
-      {
-        "number": 4,
-        "name": null
-      },
-      {
-        "number": 5,
-        "name": null
-      },
-      {
-        "number": 6,
-        "name": null
-      },
-      {
-        "number": 7,
-        "name": null
-      },
-      {
-        "number": 8,
-        "name": null
-      },
-      {
-        "number": 9,
-        "name": null
-      },
-      {
-        "number": 10,
-        "name": null
-      },
-      {
-        "number": 11,
-        "name": null
-      },
-      {
-        "number": 12,
-        "name": null
-      },
-      {
-        "number": 13,
-        "name": null
-      },
-      {
-        "number": 14,
-        "name": null
-      },
-      {
-        "number": 15,
-        "name": null
-      },
-      {
-        "number": 16,
-        "name": null
-      },
-      {
-        "number": 17,
-        "name": null
-      },
-      {
-        "number": 18,
-        "name": null
-      },
-      {
-        "number": 19,
-        "name": null
-      },
-      {
-        "number": 20,
-        "name": null
-      },
-      {
-        "number": 21,
-        "name": null
-      },
-      {
-        "number": 22,
-        "name": null
-      },
-      {
-        "number": 23,
-        "name": null
-      },
-      {
-        "number": 24,
-        "name": null
-      },
-      {
-        "number": 25,
-        "name": "Stagione 25"
-      },
-      {
-        "number": 26,
-        "name": "Stagione 26"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/2GfXIXWDVgh9USe6YzrHuz0GEgi.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.land/images/208d2e40-3859-41b7-aeff-e320727c1672.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/9mqKNZVrFYlp7wWBLHXSVH4JodW.png",
-    "rating": 6.9,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "6558-hijack-sette-ore-in-alta-quota",
-    "kind": "series",
-    "title": "Hijack - Sette ore in alta quota",
-    "overview": "Quando il volo KA29 viene dirottato durante il suo viaggio di sette ore da Dubai a Londra, Sam Nelson, un abile negoziatore aziendale, cerca di usare le sue capacità professionali per salvare tutti a bordo. Questa strategia ad alto rischio sarà la sua rovina?",
-    "genres": [
-      "Dramma"
-    ],
-    "duration": 0,
-    "releaseDate": "2023-06-28",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": "Stagione 2"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/pIsEAt3IOBpsWwYitPzj0P3UESm.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.land/images/38a5430c-d5f6-4f1f-8c73-455179872e19.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/6bd6s380VDuzNhdxWYAdBNVmdU6.png",
-    "rating": 7.9,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "5846-tell-me-lies",
-    "kind": "series",
-    "title": "Tell Me Lies",
-    "overview": "Quando Lucy Albright arriva nel campus del suo piccolo college, lontana da sua madre che non ha mai perdonato per un atto di tradimento nei suoi primi anni dell'adolescenza, Lucy abbraccia la vita del college e tutto ciò che ha da offrire. Ma tutto cambia quando incontra Stephen DeMarco, che ha un suo passato misterioso. Il loro avvincente intreccio avrà conseguenze che non avrebbero mai potuto immaginare.",
-    "genres": [
-      "Dramma"
-    ],
-    "duration": 0,
-    "releaseDate": "2022-09-07",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": "Stagione 2"
-      },
-      {
-        "number": 3,
-        "name": "Stagione 3"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/mL3Tzj54WnOhQdvf5zFYBqTPLeV.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.land/images/ecf53360-f543-4046-bf49-df007c0dc455.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/6kBhF019Z371LLnwOPNEPmwauOp.png",
-    "rating": 7.5,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "15021-the-pitt",
-    "kind": "series",
-    "title": "The Pitt",
-    "overview": "Lo staff del Trauma Medical Center di Pittsburgh lavora ininterrottamente per salvare vite in un reparto di emergenza sovraffollato e senza fondi.",
-    "genres": [
-      "Dramma"
-    ],
-    "duration": 0,
-    "releaseDate": "2025-09-24",
-    "seasons": [
-      {
-        "number": 1,
-        "name": "Stagione 1"
-      },
-      {
-        "number": 2,
-        "name": "Stagione 2"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/7QCebBfdrOjsQ1ozz6EvCPxaQ27.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.land/images/2232609c-569b-4091-b391-bc8de4f043b3.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/zqsePGDhPnk5KpSjlZFpmZyy8h6.png",
-    "rating": 8.9,
     "status": "airing",
     "language": "it"
   }
