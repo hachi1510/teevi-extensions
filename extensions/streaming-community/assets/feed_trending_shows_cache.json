@@ -1,5 +1,253 @@
 [
   {
+    "id": "2265-formula-1-drive-to-survive",
+    "kind": "series",
+    "title": "Formula 1: Drive to Survive",
+    "overview": "Piloti, dirigenti e proprietari di team vivono la vita sulla corsia di sorpasso - sia dentro che fuori pista - durante una stagione spietata delle corse di Formula 1.",
+    "genres": [
+      "Documentario"
+    ],
+    "duration": 0,
+    "releaseDate": "2019-03-08",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": null
+      },
+      {
+        "number": 3,
+        "name": null
+      },
+      {
+        "number": 4,
+        "name": null
+      },
+      {
+        "number": 5,
+        "name": null
+      },
+      {
+        "number": 6,
+        "name": null
+      },
+      {
+        "number": 7,
+        "name": null
+      },
+      {
+        "number": 8,
+        "name": "Stagione 8"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/clx5AbE7rJr0aTuAjvyIpv45jCJ.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.gives/images/beb55bfd-d588-4d29-ac59-c0f7de5dc861.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/frWdXFHVRF4cUD5AWRWRg5C6ODX.png",
+    "rating": 8.7,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "6962-monarch-legacy-of-monsters",
+    "kind": "series",
+    "title": "Monarch: Legacy of Monsters",
+    "overview": "Sopravvissuta all'attacco di Godzilla a San Francisco, Cate è ancora una volta scossa da un segreto sconvolgente. Tra terrificanti minacce intraprende un'avventura in giro per il mondo che le farà conoscere la verità sulla sua famiglia e sulla misteriosa organizzazione nota come Monarch.",
+    "genres": [
+      "Dramma",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "duration": 0,
+    "releaseDate": "2023-11-16",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": "Stagione 2"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/os5Yv0CBlz3lYptYizsbMK8g9PB.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.gives/images/5617ee10-75dc-48e3-be10-0bee348b9b45.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/huxc9pQjPNppvCLyVq1Qu6BUBFx.png",
+    "rating": 7.7,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "11143-paradise",
+    "kind": "series",
+    "title": "Paradise",
+    "overview": "\"Paradise\" è ambientato in una tranquilla comunità abitata da alcuni degli individui più prominenti del mondo. Ma questa tranquillità svanisce quando si verifica uno sconvolgente omicidio e ne consegue un'indagine di alto profilo.",
+    "genres": [
+      "Dramma",
+      "Crime"
+    ],
+    "duration": 0,
+    "releaseDate": "2025-01-26",
+    "seasons": [
+      {
+        "number": 1,
+        "name": "Stagione 1"
+      },
+      {
+        "number": 2,
+        "name": "Stagione 2"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/pVEt73YgxSQsZkN1LURHLLxd4xD.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.gives/images/a41b99b9-028e-4983-8c11-251b421d57b6.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/ybiNhb3KAsgOd0ou272yFEdio86.png",
+    "rating": 7.9,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "1478-american-dad",
+    "kind": "series",
+    "title": "American Dad!",
+    "overview": "La serie si concentra su una sconclusionata famiglia americana, gli Smith, padre madre (Francine), figlia universitaria e figlio adolescente e Stan, l'inquilino. Il padre è una caricatura di agente della CIA in perenne lotta con i figli e salvato dal buon senso della moglie...",
+    "genres": [
+      "Commedia",
+      "Animazione"
+    ],
+    "duration": 0,
+    "releaseDate": "2005-02-06",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": null
+      },
+      {
+        "number": 3,
+        "name": null
+      },
+      {
+        "number": 4,
+        "name": null
+      },
+      {
+        "number": 5,
+        "name": null
+      },
+      {
+        "number": 6,
+        "name": null
+      },
+      {
+        "number": 7,
+        "name": null
+      },
+      {
+        "number": 8,
+        "name": null
+      },
+      {
+        "number": 9,
+        "name": null
+      },
+      {
+        "number": 10,
+        "name": null
+      },
+      {
+        "number": 11,
+        "name": null
+      },
+      {
+        "number": 12,
+        "name": null
+      },
+      {
+        "number": 13,
+        "name": null
+      },
+      {
+        "number": 14,
+        "name": null
+      },
+      {
+        "number": 15,
+        "name": null
+      },
+      {
+        "number": 16,
+        "name": null
+      },
+      {
+        "number": 17,
+        "name": null
+      },
+      {
+        "number": 18,
+        "name": null
+      },
+      {
+        "number": 19,
+        "name": null
+      },
+      {
+        "number": 20,
+        "name": "Stagione 20"
+      },
+      {
+        "number": 21,
+        "name": "Stagione 21"
+      },
+      {
+        "number": 22,
+        "name": "Stagione 22"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/kcNBPMuhg73VxKuHHnFgFJK7pUo.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.gives/images/6da01035-cc9e-476c-84a6-cdf8ade08d61.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/chsje6mcnELTJrM2tVlaHQ8dLpk.png",
+    "rating": 7.8,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "6192-the-night-agent",
+    "kind": "series",
+    "title": "The Night Agent",
+    "overview": "Durante il monitoraggio di una linea di emergenza un agente dell'FBI risponde a una chiamata che lo trascina in una cospirazione letale riguardante una talpa alla Casa Bianca.",
+    "genres": [
+      "Dramma",
+      "Mistero"
+    ],
+    "duration": 0,
+    "releaseDate": "2023-03-23",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": null
+      },
+      {
+        "number": 3,
+        "name": "Stagione 3"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/u5eQvA72oiW6AMATjwFXgab6hB2.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.gives/images/664d2174-c6b0-404b-b617-ca64619456aa.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/u83OiUSbweslejrl3jxYhDUgcXD.png",
+    "rating": 8,
+    "status": "airing",
+    "language": "it"
+  },
+  {
     "id": "54394-love-me-love-me",
     "kind": "movie",
     "title": "Love Me Love Me",
@@ -11,9 +259,27 @@
     "duration": 5940,
     "releaseDate": "2026-02-12",
     "posterURL": "https://image.tmdb.org/t/p/w780/zF4O7giUZO801EAXdP4yY8TUIId.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.money/images/7bfdb621-363e-4786-acfd-983415d7cea0.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.gives/images/7bfdb621-363e-4786-acfd-983415d7cea0.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/cn6DZaISoL4fAuhrO10nuD27rg0.png",
     "rating": 8,
+    "status": "ended",
+    "language": "it"
+  },
+  {
+    "id": "54624-cime-tempestose",
+    "kind": "movie",
+    "title": "Cime tempestose",
+    "overview": "Una storia d'amore appassionata e tumultuosa ambientata sullo sfondo delle brughiere dello Yorkshire, che esplora la relazione intensa e distruttiva tra Heathcliff e Catherine Earnshaw.",
+    "genres": [
+      "Dramma",
+      "Romance"
+    ],
+    "duration": 8160,
+    "releaseDate": "2026-02-11",
+    "posterURL": "https://image.tmdb.org/t/p/w780/ov0Wqu2I8EzaV1zuoaTnAnHVejY.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.gives/images/4c13d772-ec1e-400f-b0eb-6ef6bf89997b.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/8kk7zOKnBZ4M71WwthEvdF4IQDA.png",
+    "rating": 6.8,
     "status": "ended",
     "language": "it"
   },
@@ -39,7 +305,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/1exnP7UIyQtQmhowsjWrJNXS9Rm.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.money/images/d0d7ed93-6819-4815-b9e2-2ebb0f6479f7.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.gives/images/d0d7ed93-6819-4815-b9e2-2ebb0f6479f7.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/7bMlHayTFER3SMiOY6rqZOHaA4v.png",
     "rating": 7.7,
     "status": "airing",
@@ -68,7 +334,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/qjq2060WIPc7xBHuh0pkRtvVzWE.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.money/images/d62dfe82-cd70-4b50-8335-25dc791b1c3e.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.gives/images/d62dfe82-cd70-4b50-8335-25dc791b1c3e.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/cWyoGzW9tIayiq57lzgsz4kSZoo.png",
     "rating": 8.5,
     "status": "airing",
@@ -103,202 +369,10 @@
         "name": "Stagione 4"
       }
     ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/5hvAN253yy71W4jSC54fu9vukaP.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.money/images/7bd10c1c-603c-4dcc-97b2-5ba0774a9a65.webp",
+    "posterURL": "https://image.tmdb.org/t/p/w780/8sqWxbUNjCvEnuGHHEAIpRsV8p7.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.gives/images/7bd10c1c-603c-4dcc-97b2-5ba0774a9a65.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/qMc97xLzxCMq09MQpnahRXWqxiF.png",
     "rating": 8.2,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "7953-italia-shore",
-    "kind": "series",
-    "title": "Italia Shore",
-    "overview": "Un gruppo di ragazzi si scatena in una vacanza indimenticabile: adrenalina, party sfrenati e relazioni esplosive nei luoghi più cool d'Italia! Un mix di divertimento, drama e personalità scintillanti... tra risate e duro lavoro!",
-    "genres": [
-      "Reality"
-    ],
-    "duration": 0,
-    "releaseDate": "2024-01-01",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": null
-      },
-      {
-        "number": 3,
-        "name": null
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/4YUgA4zTXwQyxIXFGNZyc89QwHb.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.money/images/3c97af45-746d-43cb-91c1-cb2e0ff7fd89.webp",
-    "logoURL": "https://cdn.streamingcommunityz.money/images/6662b6f5-448e-4826-acc9-5aae65b35dcf.webp",
-    "rating": 6.6,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "2644-bridgerton",
-    "kind": "series",
-    "title": "Bridgerton",
-    "overview": "Tratta dai bestseller sulla potente famiglia Bridgerton, la serie segue le vicende di questi otto fratelli molto uniti in cerca dell'amore.",
-    "genres": [
-      "Dramma"
-    ],
-    "duration": 0,
-    "releaseDate": "2020-12-25",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": null
-      },
-      {
-        "number": 3,
-        "name": null
-      },
-      {
-        "number": 4,
-        "name": "Stagione 4"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/tBduPohZZ5G8GGYGBmOCsfd9qvM.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.money/images/106ca68f-a3d2-4492-bf81-6caf5efac9b3.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/bNWjCKZJTDKce8fuyRHSQ3B78ph.png",
-    "rating": 8.2,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "6540-school-spirits",
-    "kind": "series",
-    "title": "School Spirits",
-    "overview": "Maddie, un'adolescente bloccata nell'aldilà che indaga sulla propria scomparsa, intraprende un viaggio per risolvere un crimine mentre si adatta al purgatorio del liceo.",
-    "genres": [
-      "Dramma"
-    ],
-    "duration": 0,
-    "releaseDate": "2023-03-09",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": null
-      },
-      {
-        "number": 3,
-        "name": "Stagione 3"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/p2Xvnn3Zg7wp1kQ9biAeW9cJqbE.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.money/images/1ae6bad9-5b3f-4b90-80af-3ce69f7be496.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/n3deCNZ4f4Lx7uqxViJ5XJeZMPw.png",
-    "rating": 8,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "6196-shrinking",
-    "kind": "series",
-    "title": "Shrinking",
-    "overview": "Jimmy cerca di superare la sofferenza per la perdita della moglie: è impegnato a fare il padre, l'amico o lo psicoterapeuta. Decide di provare un nuovo approccio con tutte le persone che incontra: essere brutalmente sincero, senza alcun filtro. Riuscirà ad aiutare sé stesso aiutando gli altri? Questo modo di agire lo riporterà alla luce?",
-    "genres": [
-      "Commedia"
-    ],
-    "duration": 0,
-    "releaseDate": "2023-01-26",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": null
-      },
-      {
-        "number": 3,
-        "name": "Stagione 3"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/wlOd1KWv91efhHaDYa8YmKHZpzu.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.money/images/91212cdb-4bb6-4790-80ec-c6f8e5f52938.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/lVkj9F9l9BQyUgasd55dIt9KkQe.png",
-    "rating": 7.3,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "4413-linferno-dei-single",
-    "kind": "series",
-    "title": "L'inferno dei single",
-    "overview": "Alcuni single in cerca dell'amore sono pronti a socializzare tra loro su un'isola deserta, da cui possono andarsene solo in coppia per serate romantiche in paradiso.",
-    "genres": [
-      "Reality",
-      "Korean drama"
-    ],
-    "duration": 0,
-    "releaseDate": "2021-12-18",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": null
-      },
-      {
-        "number": 3,
-        "name": null
-      },
-      {
-        "number": 4,
-        "name": null
-      },
-      {
-        "number": 5,
-        "name": "Stagione 5"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/gNyIuWurLyV1Wr0Vq2NRkxL5ena.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.money/images/cc5209cd-f115-461b-aaa9-232467f3a1a6.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/7PirAZMGCb53CXuk2cfSHGtWqbk.png",
-    "rating": 7.9,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "46957-a-knight-of-the-seven-kingdoms",
-    "kind": "series",
-    "title": "A Knight of the Seven Kingdoms",
-    "overview": "Un secolo prima degli eventi de Il Trono di Spade, due eroi improbabili vagavano per Westeros: un giovane, ingenuo ma coraggioso cavaliere, Ser Duncan l'Alto, e il suo minuscolo scudiero, Egg. Ambientato in un'epoca in cui la linea Targaryen detiene ancora il Trono di Spade e l'ultimo drago non è ancora scomparso dalla memoria dei vivi, grandi destini, potenti nemici e pericolose imprese attendono questi amici improbabili e incomparabili.",
-    "genres": [
-      "Dramma",
-      "Sci-Fi & Fantasy"
-    ],
-    "duration": 0,
-    "releaseDate": "2026-01-18",
-    "seasons": [
-      {
-        "number": 1,
-        "name": "Stagione 1"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/2sddK6rP3VaoETfa7ADE2KCkfpj.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.money/images/a13682b3-9c29-4cfc-a92c-202561a95d60.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/rF0yV5u8l0pmRgQloZok8VDxAcM.png",
-    "rating": 8.5,
     "status": "airing",
     "language": "it"
   }
