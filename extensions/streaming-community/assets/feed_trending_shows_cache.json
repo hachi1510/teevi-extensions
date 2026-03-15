@@ -1,5 +1,134 @@
 [
   {
+    "id": "1787-virgin-river",
+    "kind": "series",
+    "title": "Virgin River",
+    "overview": "In cerca di un nuovo inizio, un'infermiera specializzata lascia Los Angeles per trasferirsi in una remota cittadina a nord che si rivelerà piena di sorprese.",
+    "genres": [
+      "Dramma"
+    ],
+    "duration": 0,
+    "releaseDate": "2019-12-06",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": null
+      },
+      {
+        "number": 3,
+        "name": null
+      },
+      {
+        "number": 4,
+        "name": null
+      },
+      {
+        "number": 5,
+        "name": null
+      },
+      {
+        "number": 6,
+        "name": null
+      },
+      {
+        "number": 7,
+        "name": "Stagione 7"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/cbrFsyHj8xAkkhhtFam0gMC4dlD.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.link/images/353bd831-f652-41b0-9bd1-b9d11072d34c.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/kr5lA4cdwD7TMK5g5L0iy8lJgds.png",
+    "rating": 8.2,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "6654-one-piece",
+    "kind": "series",
+    "title": "ONE PIECE",
+    "overview": "La storia segue le avventure di Monkey D. Rufy, un ragazzo il cui corpo ha assunto le proprietà della gomma dopo aver inavvertitamente ingerito un frutto del diavolo. Reclutando compagni per formare una ciurma, Rufy esplora la Rotta Maggiore in cerca del leggendario tesoro One Piece e inseguendo il sogno di diventare il nuovo Re dei pirati.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "duration": 0,
+    "releaseDate": "2023-08-31",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": "Stagione 2"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/xhal3gJY4VelXcrH5KmSrqFgxyk.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.link/images/1bb1eea7-963a-4ecc-8611-eb5225ac4b15.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/abWBV78tddBE7HW9pUeVkfbU3SF.png",
+    "rating": 8.5,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "2459-outlander",
+    "kind": "series",
+    "title": "Outlander",
+    "overview": "Claire Randall, una donna sposata e un’infermiera della Seconda Guerra Mondiale, finisce misteriosamente in un’epoca passata, nel 1743, dove resta coinvolta velocemente in un mondo a lei estraneo ed eventi che mettono in pericolo la sua vita. Quando è costretta a sposare Jamie, un giovane guerriero scozzese galante e romantico, Claire è inebriata da questo nuovo amore passionale, il quale però si contrappone al suo primo matrimonio con Frank. Ed è così che il cuore di Claire si ritrova diviso tra due uomini molto diversi in due vite inconciliabili.",
+    "genres": [
+      "Dramma",
+      "Fantasy",
+      "Avventura",
+      "Romance"
+    ],
+    "duration": 0,
+    "releaseDate": "2014-08-09",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": null
+      },
+      {
+        "number": 3,
+        "name": null
+      },
+      {
+        "number": 4,
+        "name": null
+      },
+      {
+        "number": 5,
+        "name": null
+      },
+      {
+        "number": 6,
+        "name": null
+      },
+      {
+        "number": 7,
+        "name": null
+      },
+      {
+        "number": 8,
+        "name": "Stagione 8"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/waLsi24ZpjBCeSX6oGm1vIz1wVS.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.link/images/7d857753-b8c6-431a-b92f-92bf8e47be09.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/719jwF5q5QCxdZpIN5q7NUQtaj2.png",
+    "rating": 8.6,
+    "status": "airing",
+    "language": "it"
+  },
+  {
     "id": "2265-formula-1-drive-to-survive",
     "kind": "series",
     "title": "Formula 1: Drive to Survive",
@@ -44,7 +173,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/clx5AbE7rJr0aTuAjvyIpv45jCJ.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.gives/images/beb55bfd-d588-4d29-ac59-c0f7de5dc861.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.link/images/beb55bfd-d588-4d29-ac59-c0f7de5dc861.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/frWdXFHVRF4cUD5AWRWRg5C6ODX.png",
     "rating": 8.7,
     "status": "airing",
@@ -73,7 +202,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/os5Yv0CBlz3lYptYizsbMK8g9PB.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.gives/images/5617ee10-75dc-48e3-be10-0bee348b9b45.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.link/images/5617ee10-75dc-48e3-be10-0bee348b9b45.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/huxc9pQjPNppvCLyVq1Qu6BUBFx.png",
     "rating": 7.7,
     "status": "airing",
@@ -101,7 +230,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/pVEt73YgxSQsZkN1LURHLLxd4xD.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.gives/images/a41b99b9-028e-4983-8c11-251b421d57b6.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.link/images/a41b99b9-028e-4983-8c11-251b421d57b6.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/ybiNhb3KAsgOd0ou272yFEdio86.png",
     "rating": 7.9,
     "status": "airing",
@@ -209,7 +338,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/kcNBPMuhg73VxKuHHnFgFJK7pUo.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.gives/images/6da01035-cc9e-476c-84a6-cdf8ade08d61.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.link/images/6da01035-cc9e-476c-84a6-cdf8ade08d61.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/chsje6mcnELTJrM2tVlaHQ8dLpk.png",
     "rating": 7.8,
     "status": "airing",
@@ -241,139 +370,35 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/u5eQvA72oiW6AMATjwFXgab6hB2.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.gives/images/664d2174-c6b0-404b-b617-ca64619456aa.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.link/images/664d2174-c6b0-404b-b617-ca64619456aa.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/u83OiUSbweslejrl3jxYhDUgcXD.png",
     "rating": 8,
     "status": "airing",
     "language": "it"
   },
   {
-    "id": "54394-love-me-love-me",
-    "kind": "movie",
-    "title": "Love Me Love Me",
-    "overview": "Dopo la morte del fratello, June si trasferisce a Milano e trova conforto in Will, lo studente modello della sua nuova scuola internazionale. Ma quando James, il migliore amico di Will e campione di combattimenti clandestini di MMA, scatena una rivalità che si trasforma in un'attrazione irresistibile, June deve scegliere tra la sicurezza e un amore che sconvolge tutto ciò che pensava di volere.",
-    "genres": [
-      "Dramma",
-      "Romance"
-    ],
-    "duration": 5940,
-    "releaseDate": "2026-02-12",
-    "posterURL": "https://image.tmdb.org/t/p/w780/zF4O7giUZO801EAXdP4yY8TUIId.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.gives/images/7bfdb621-363e-4786-acfd-983415d7cea0.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/cn6DZaISoL4fAuhrO10nuD27rg0.png",
-    "rating": 8,
-    "status": "ended",
-    "language": "it"
-  },
-  {
-    "id": "54624-cime-tempestose",
-    "kind": "movie",
-    "title": "Cime tempestose",
-    "overview": "Una storia d'amore appassionata e tumultuosa ambientata sullo sfondo delle brughiere dello Yorkshire, che esplora la relazione intensa e distruttiva tra Heathcliff e Catherine Earnshaw.",
-    "genres": [
-      "Dramma",
-      "Romance"
-    ],
-    "duration": 8160,
-    "releaseDate": "2026-02-11",
-    "posterURL": "https://image.tmdb.org/t/p/w780/ov0Wqu2I8EzaV1zuoaTnAnHVejY.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.gives/images/4c13d772-ec1e-400f-b0eb-6ef6bf89997b.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/8kk7zOKnBZ4M71WwthEvdF4IQDA.png",
-    "rating": 6.8,
-    "status": "ended",
-    "language": "it"
-  },
-  {
-    "id": "10475-alex-cross",
+    "id": "54646-56-giorni",
     "kind": "series",
-    "title": "Alex Cross",
-    "overview": "Un poliziesco drammatico, che segue Alex Cross, un brillante detective della Omicidi di Washington D.C., i cui problemi personali rischiano di far deragliare la sua carriera e la sua vita.",
+    "title": "56 giorni",
+    "overview": "Quando viene rinvenuto un corpo non identificato nel lussuoso appartamento collegato a Oliver Kennedy e alla sua fidanzata Ciara Wyse, i detective Lee Reardon e Karl Connolly ricostruiscono i 56 giorni della loro mortale storia d'amore. Con Dove Cameron, Avan Jogia, Karla Souza e Dorian Missick.",
     "genres": [
+      "Dramma",
       "Crime",
       "Mistero"
     ],
     "duration": 0,
-    "releaseDate": "2024-11-14",
+    "releaseDate": "2026-02-18",
     "seasons": [
       {
         "number": 1,
         "name": "Stagione 1"
-      },
-      {
-        "number": 2,
-        "name": "Stagione 2"
       }
     ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/1exnP7UIyQtQmhowsjWrJNXS9Rm.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.gives/images/d0d7ed93-6819-4815-b9e2-2ebb0f6479f7.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/7bMlHayTFER3SMiOY6rqZOHaA4v.png",
-    "rating": 7.7,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "7190-the-artful-dodger",
-    "kind": "series",
-    "title": "The Artful Dodger",
-    "overview": "Un irriverente seguito di \"Oliver Twist\", che esplora la doppia vita da adulto del famoso principe dei ladri ideato da Charles Dickens. Intorno al 1850, nella vivace colonia australiana di Port Victory, Jack Dawkins, alias \"Artful Dodger\", utilizza le sue abili dita da borseggiatore reinventandosi chirurgo. Il passato di Dodger torna a perseguitarlo con l'arrivo di Fagin, che lo attira di nuovo nel mondo del crimine. Una minaccia ancora maggiore, per il cuore di Dodger, è Lady Belle, figlia del governatore e determinata a diventare la prima donna chirurgo della colonia. Rapine, interventi chirurgici disperati, serate eleganti e violenza di strada la rendono una singolare storia di reinvenzione, tradimento, redenzione e amore.",
-    "genres": [
-      "Dramma",
-      "Crime",
-      "Action & Adventure"
-    ],
-    "duration": 0,
-    "releaseDate": "2024-01-17",
-    "seasons": [
-      {
-        "number": 1,
-        "name": "Stagione 1"
-      },
-      {
-        "number": 2,
-        "name": "Stagione 2"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/qjq2060WIPc7xBHuh0pkRtvVzWE.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.gives/images/d62dfe82-cd70-4b50-8335-25dc791b1c3e.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/cWyoGzW9tIayiq57lzgsz4kSZoo.png",
-    "rating": 8.5,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "5030-avvocato-di-difesa",
-    "kind": "series",
-    "title": "Avvocato di difesa",
-    "overview": "Dopo un incidente, il fenomenale avvocato di Los Angeles Mickey Haller si riappropria della carriera (e della sua inconfondibile Lincoln) accettando un caso di omicidio.",
-    "genres": [
-      "Dramma",
-      "Crime"
-    ],
-    "duration": 0,
-    "releaseDate": "2022-01-01",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": null
-      },
-      {
-        "number": 3,
-        "name": null
-      },
-      {
-        "number": 4,
-        "name": "Stagione 4"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/8sqWxbUNjCvEnuGHHEAIpRsV8p7.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.gives/images/7bd10c1c-603c-4dcc-97b2-5ba0774a9a65.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/qMc97xLzxCMq09MQpnahRXWqxiF.png",
-    "rating": 8.2,
-    "status": "airing",
+    "posterURL": "https://image.tmdb.org/t/p/w780/lzF2Dw11hkoLz4ACPqUlwPvCDTM.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.link/images/7127bc91-56af-4557-86ef-3979ba39300d.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/wZD89BX9W5nLwmCwM3rKlNWbi05.png",
+    "rating": 4,
+    "status": "ended",
     "language": "it"
   }
 ]
