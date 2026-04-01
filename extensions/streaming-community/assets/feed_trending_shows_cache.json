@@ -1,5 +1,95 @@
 [
   {
+    "id": "1655-for-all-mankind",
+    "kind": "series",
+    "title": "For All Mankind",
+    "overview": "Immagina un mondo in cui la corsa alla conquista dello spazio non è mai finita. Questa storia alternativa viene raccontata attraverso le vite degli astronauti della NASA, eroi e rockstar del loro tempo, e delle loro famiglie.",
+    "genres": [
+      "Dramma",
+      "Sci-Fi & Fantasy"
+    ],
+    "duration": 0,
+    "releaseDate": "2019-11-01",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": null
+      },
+      {
+        "number": 3,
+        "name": null
+      },
+      {
+        "number": 4,
+        "name": null
+      },
+      {
+        "number": 5,
+        "name": "Stagione 5"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/2dxgM3BLgMWaGUxFwqFrxKNjzpb.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.parts/images/618eb33a-7d63-4c19-b082-8f9b4bb39e77.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/9oXUL0svFOdaG0MXCgbX2wyguEn.png",
+    "rating": 8.2,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "5541-heartbreak-high",
+    "kind": "series",
+    "title": "Heartbreak High",
+    "overview": "Un murale provocatorio svela le relazioni segrete di tutti gli studenti alla Hartley High. L'emarginata autrice si trova ad affrontare le conseguenze delle sue azioni.",
+    "genres": [
+      "Dramma"
+    ],
+    "duration": 0,
+    "releaseDate": "2022-09-14",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": null
+      },
+      {
+        "number": 3,
+        "name": "Stagione 3"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/kx1MZ166pPfufkf56arjLCVgNPO.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.parts/images/e6732e91-8146-4bb8-bc5f-8190a23f791d.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/QIpYP2Krxju3o3728ZpU1teQaj.png",
+    "rating": 7.9,
+    "status": "ended",
+    "language": "it"
+  },
+  {
+    "id": "12703-lultima-missione-project-hail-mary",
+    "kind": "movie",
+    "title": "L'ultima missione: Project Hail Mary",
+    "overview": "L’insegnante di scienze Ryland Grace (Ryan Gosling) si sveglia su un’astronave lontano da casa anni luce e senza alcun ricordo di chi sia o di come sia arrivato lì. Con il riaffiorare della sua memoria, torna alla luce lo scopo della sua missione: risolvere l’enigma della misteriosa sostanza che sta causando il collasso del Sole. Dovrà fare affidamento sia sulle sue conoscenze scientifiche che sulle sue capacità di pensare fuori dagli schemi per salvare dall’estinzione la vita sulla Terra... ma un'inaspettata amicizia gli farà capire che non è solo in questa impresa.",
+    "genres": [
+      "Dramma",
+      "Fantascienza",
+      "Avventura"
+    ],
+    "duration": 9420,
+    "releaseDate": "2026-03-19",
+    "posterURL": "https://image.tmdb.org/t/p/w780/kutdTXxqWJ7KYmnll8nSrtWWsCR.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.parts/images/b1964deb-c7f3-4d02-8447-c7859b37812b.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/4KC5C1I9xI9pgBHH9bWkGOinENN.png",
+    "rating": 8.5,
+    "status": "upcoming",
+    "language": "it"
+  },
+  {
     "id": "1787-virgin-river",
     "kind": "series",
     "title": "Virgin River",
@@ -40,7 +130,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/cbrFsyHj8xAkkhhtFam0gMC4dlD.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.link/images/353bd831-f652-41b0-9bd1-b9d11072d34c.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.parts/images/353bd831-f652-41b0-9bd1-b9d11072d34c.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/kr5lA4cdwD7TMK5g5L0iy8lJgds.png",
     "rating": 8.2,
     "status": "airing",
@@ -68,10 +158,28 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/xhal3gJY4VelXcrH5KmSrqFgxyk.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.link/images/1bb1eea7-963a-4ecc-8611-eb5225ac4b15.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.parts/images/1bb1eea7-963a-4ecc-8611-eb5225ac4b15.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/abWBV78tddBE7HW9pUeVkfbU3SF.png",
     "rating": 8.5,
     "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "48502-peaky-blinders-the-immortal-man",
+    "kind": "movie",
+    "title": "Peaky Blinders: The Immortal Man",
+    "overview": "Birmingham, 1940. Tra il caos della seconda guerra mondiale, Tommy Shelby viene spinto fuori da un autoimposto esilio per affrontare il suo più devastante regolamento dei conti finora. Con il futuro della famiglia e del paese a rischio, Tommy deve affrontare i suoi stessi demoni e scegliere se affrontare la sua eredità o bruciarla fino alle fondamenta.",
+    "genres": [
+      "Dramma",
+      "Crime"
+    ],
+    "duration": 6720,
+    "releaseDate": "2026-03-20",
+    "posterURL": "https://image.tmdb.org/t/p/w780/hAgk9jXsNB1YVKUXiFf46dxyIyK.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.parts/images/bf9d66b2-e8d7-47a5-9526-1b9c77ce8fd1.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/9IpyBrvW5WqAUwiNIqFf7YbqLS4.png",
+    "rating": 7.8,
+    "status": "upcoming",
     "language": "it"
   },
   {
@@ -122,103 +230,47 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/waLsi24ZpjBCeSX6oGm1vIz1wVS.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.link/images/7d857753-b8c6-431a-b92f-92bf8e47be09.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.parts/images/7d857753-b8c6-431a-b92f-92bf8e47be09.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/719jwF5q5QCxdZpIN5q7NUQtaj2.png",
     "rating": 8.6,
     "status": "airing",
     "language": "it"
   },
   {
-    "id": "2265-formula-1-drive-to-survive",
+    "id": "54954-young-sherlock",
     "kind": "series",
-    "title": "Formula 1: Drive to Survive",
-    "overview": "Piloti, dirigenti e proprietari di team vivono la vita sulla corsia di sorpasso - sia dentro che fuori pista - durante una stagione spietata delle corse di Formula 1.",
+    "title": "Young Sherlock",
+    "overview": "Sherlock Holmes è un giovane uomo screditato - crudo e non filtrato - quando si ritrova coinvolto in un caso di omicidio che minaccia la sua libertà. Il suo primo caso di sempre svela una cospirazione che viaggia in tutto il mondo e che cambia per sempre la sua vita.",
     "genres": [
-      "Documentario"
-    ],
-    "duration": 0,
-    "releaseDate": "2019-03-08",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": null
-      },
-      {
-        "number": 3,
-        "name": null
-      },
-      {
-        "number": 4,
-        "name": null
-      },
-      {
-        "number": 5,
-        "name": null
-      },
-      {
-        "number": 6,
-        "name": null
-      },
-      {
-        "number": 7,
-        "name": null
-      },
-      {
-        "number": 8,
-        "name": "Stagione 8"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/clx5AbE7rJr0aTuAjvyIpv45jCJ.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.link/images/beb55bfd-d588-4d29-ac59-c0f7de5dc861.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/frWdXFHVRF4cUD5AWRWRg5C6ODX.png",
-    "rating": 8.7,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "6962-monarch-legacy-of-monsters",
-    "kind": "series",
-    "title": "Monarch: Legacy of Monsters",
-    "overview": "Sopravvissuta all'attacco di Godzilla a San Francisco, Cate è ancora una volta scossa da un segreto sconvolgente. Tra terrificanti minacce intraprende un'avventura in giro per il mondo che le farà conoscere la verità sulla sua famiglia e sulla misteriosa organizzazione nota come Monarch.",
-    "genres": [
-      "Dramma",
-      "Sci-Fi & Fantasy",
+      "Mistero",
       "Action & Adventure"
     ],
     "duration": 0,
-    "releaseDate": "2023-11-16",
+    "releaseDate": "2026-03-04",
     "seasons": [
       {
         "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": "Stagione 2"
+        "name": "Stagione 1"
       }
     ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/os5Yv0CBlz3lYptYizsbMK8g9PB.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.link/images/5617ee10-75dc-48e3-be10-0bee348b9b45.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/huxc9pQjPNppvCLyVq1Qu6BUBFx.png",
-    "rating": 7.7,
+    "posterURL": "https://image.tmdb.org/t/p/w780/fKh5OzpsieNUjlLeIy6iVtsUFI3.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.parts/images/c997a7dc-c423-41c0-843d-66e6cdd441cc.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/fWBgJxuHXRDBrUq0RFuG6DG22rt.png",
+    "rating": 8.1,
     "status": "airing",
     "language": "it"
   },
   {
-    "id": "11143-paradise",
+    "id": "11520-daredevil-rinascita",
     "kind": "series",
-    "title": "Paradise",
-    "overview": "\"Paradise\" è ambientato in una tranquilla comunità abitata da alcuni degli individui più prominenti del mondo. Ma questa tranquillità svanisce quando si verifica uno sconvolgente omicidio e ne consegue un'indagine di alto profilo.",
+    "title": "Daredevil: Rinascita",
+    "overview": "Charlie Cox interpreta un avvocato non vedente con abilità potenziate che combatte per la giustizia attraverso il suo frenetico studio legale, mentre l'ex boss della mafia Wilson Fisk, interpretato da D’Onofrio, persegue i suoi impegni politici a New York.",
     "genres": [
       "Dramma",
       "Crime"
     ],
     "duration": 0,
-    "releaseDate": "2025-01-26",
+    "releaseDate": "2025-03-04",
     "seasons": [
       {
         "number": 1,
@@ -229,176 +281,11 @@
         "name": "Stagione 2"
       }
     ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/pVEt73YgxSQsZkN1LURHLLxd4xD.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.link/images/a41b99b9-028e-4983-8c11-251b421d57b6.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/ybiNhb3KAsgOd0ou272yFEdio86.png",
-    "rating": 7.9,
+    "posterURL": "https://image.tmdb.org/t/p/w780/A46i2ECLE1bVrl9YTWVnfBEWuzh.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.parts/images/175b539e-a623-48c3-9f38-6a45bc8c685d.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/zvX53m1UyTEJ2Vn6bTkJEqvs08t.png",
+    "rating": 8.3,
     "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "1478-american-dad",
-    "kind": "series",
-    "title": "American Dad!",
-    "overview": "La serie si concentra su una sconclusionata famiglia americana, gli Smith, padre madre (Francine), figlia universitaria e figlio adolescente e Stan, l'inquilino. Il padre è una caricatura di agente della CIA in perenne lotta con i figli e salvato dal buon senso della moglie...",
-    "genres": [
-      "Commedia",
-      "Animazione"
-    ],
-    "duration": 0,
-    "releaseDate": "2005-02-06",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": null
-      },
-      {
-        "number": 3,
-        "name": null
-      },
-      {
-        "number": 4,
-        "name": null
-      },
-      {
-        "number": 5,
-        "name": null
-      },
-      {
-        "number": 6,
-        "name": null
-      },
-      {
-        "number": 7,
-        "name": null
-      },
-      {
-        "number": 8,
-        "name": null
-      },
-      {
-        "number": 9,
-        "name": null
-      },
-      {
-        "number": 10,
-        "name": null
-      },
-      {
-        "number": 11,
-        "name": null
-      },
-      {
-        "number": 12,
-        "name": null
-      },
-      {
-        "number": 13,
-        "name": null
-      },
-      {
-        "number": 14,
-        "name": null
-      },
-      {
-        "number": 15,
-        "name": null
-      },
-      {
-        "number": 16,
-        "name": null
-      },
-      {
-        "number": 17,
-        "name": null
-      },
-      {
-        "number": 18,
-        "name": null
-      },
-      {
-        "number": 19,
-        "name": null
-      },
-      {
-        "number": 20,
-        "name": "Stagione 20"
-      },
-      {
-        "number": 21,
-        "name": "Stagione 21"
-      },
-      {
-        "number": 22,
-        "name": "Stagione 22"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/kcNBPMuhg73VxKuHHnFgFJK7pUo.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.link/images/6da01035-cc9e-476c-84a6-cdf8ade08d61.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/chsje6mcnELTJrM2tVlaHQ8dLpk.png",
-    "rating": 7.8,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "6192-the-night-agent",
-    "kind": "series",
-    "title": "The Night Agent",
-    "overview": "Durante il monitoraggio di una linea di emergenza un agente dell'FBI risponde a una chiamata che lo trascina in una cospirazione letale riguardante una talpa alla Casa Bianca.",
-    "genres": [
-      "Dramma",
-      "Mistero"
-    ],
-    "duration": 0,
-    "releaseDate": "2023-03-23",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": null
-      },
-      {
-        "number": 3,
-        "name": "Stagione 3"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/u5eQvA72oiW6AMATjwFXgab6hB2.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.link/images/664d2174-c6b0-404b-b617-ca64619456aa.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/u83OiUSbweslejrl3jxYhDUgcXD.png",
-    "rating": 8,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "54646-56-giorni",
-    "kind": "series",
-    "title": "56 giorni",
-    "overview": "Quando viene rinvenuto un corpo non identificato nel lussuoso appartamento collegato a Oliver Kennedy e alla sua fidanzata Ciara Wyse, i detective Lee Reardon e Karl Connolly ricostruiscono i 56 giorni della loro mortale storia d'amore. Con Dove Cameron, Avan Jogia, Karla Souza e Dorian Missick.",
-    "genres": [
-      "Dramma",
-      "Crime",
-      "Mistero"
-    ],
-    "duration": 0,
-    "releaseDate": "2026-02-18",
-    "seasons": [
-      {
-        "number": 1,
-        "name": "Stagione 1"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/lzF2Dw11hkoLz4ACPqUlwPvCDTM.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.link/images/7127bc91-56af-4557-86ef-3979ba39300d.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/wZD89BX9W5nLwmCwM3rKlNWbi05.png",
-    "rating": 4,
-    "status": "ended",
     "language": "it"
   }
 ]
