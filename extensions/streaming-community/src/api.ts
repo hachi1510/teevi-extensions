@@ -1,5 +1,5 @@
-import {fetchHTMLDocument} from "@hachi/html-scraper"
-import {fetchVixcloudPlaylist} from "@hachi/vixcloud-scraper"
+import { fetchHTMLDocument } from "@hachi/html-scraper"
+import { fetchVixcloudPlaylist } from "@hachi/vixcloud-scraper"
 
 const API_URL = new URL(import.meta.env.VITE_API_URL)
 
@@ -50,13 +50,13 @@ export type SCShowEntryTranslationItem = {
 }
 
 export function findTranslation(
-  entry: SCShowEntry,
-  key: SCShowTranslationKey,
-  locale: string
+    entry: SCShowEntry,
+    key: SCShowTranslationKey,
+    locale: string
 ): SCShowEntryTranslationItem | undefined {
-  return entry.translations.find(
-    (t) => t.key === key && t.locale === locale
-  )
+    return entry.translations.find(
+        (t) => t.key === key && t.locale === locale
+    )
 }
 
 export type SCShow = {
@@ -213,20 +213,23 @@ export async function fetchShowsFromArchive(
 }
 
 export async function fetchShowsByQuery(query: string): Promise<SCShowEntry[]> {
-    const endpoint = new URL("api/search", API_URL)
-    endpoint.searchParams.append("q", query)
-    endpoint.searchParams.append("lang", "it")
-
-    const response = await fetch(endpoint.toString(), {method: "GET"})
-
-    if (!response.ok) {
-        throw new Error(
-            `Failed to fetch shows by query: ${response.status} ${response.statusText}`
-        )
+    type JSONData = {
+        props: {
+            titles: SCShowEntry[]
+        }
     }
 
-    const json: { data: SCShowEntry[] } = await response.json()
-    return json.data
+    const endpoint = new URL(`it/search`, API_URL)
+    endpoint.searchParams.append("q", query)
+    const html = await fetchHTMLDocument(endpoint)
+
+    const json = html("#app").attr("data-page")
+    if (!json) {
+        throw new Error(`Failed to fetch shows by query`)
+    }
+
+    const data = JSON.parse(json) as JSONData
+    return data.props.titles
 }
 
 export async function fetchShow(id: string): Promise<SCShow> {
@@ -252,7 +255,7 @@ export async function fetchShow(id: string): Promise<SCShow> {
     const show = data.props.title
     const related = data.props.sliders.find((s) => s.name === "related")?.titles
 
-    return {...show, related} satisfies SCShow
+    return { ...show, related } satisfies SCShow
 }
 
 export async function fetchEpisodes(
