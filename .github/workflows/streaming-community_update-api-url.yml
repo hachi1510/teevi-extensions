@@ -2,8 +2,13 @@ name: Streaming-Community - Update API URL
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */6 * * *"
   workflow_dispatch:
+    inputs:
+      api_url:
+        description: "New API URL to set directly"
+        required: false
+        type: string
 
 permissions:
   contents: write
@@ -27,6 +32,7 @@ jobs:
 
       - name: Check for redirect
         id: check_redirect
+        if: ${{ github.event.inputs.api_url == '' }}
         run: |
           URL="${{ steps.read_env.outputs.api_url }}"
           echo "Checking $URL"
@@ -40,15 +46,29 @@ jobs:
           echo "status=$STATUS" >> $GITHUB_OUTPUT
           echo "location=$LOCATION" >> $GITHUB_OUTPUT
 
-      - name: Update .env with new URL
-        if: ${{ startsWith(steps.check_redirect.outputs.status, '3') }}
+      - name: Resolve new URL
+        id: resolve_url
         run: |
-          RAW_URL="${{ steps.check_redirect.outputs.location }}"
-          
-          # remove path/query/fragment
+          INPUT_URL="${{ github.event.inputs.api_url }}"
+
+          if [ -n "$INPUT_URL" ]; then
+            RAW_URL="$INPUT_URL"
+            echo "Using API URL provided via workflow input: $RAW_URL"
+          else
+            RAW_URL="${{ steps.check_redirect.outputs.location }}"
+            echo "Using redirect target detected from current API URL: $RAW_URL"
+          fi
+
           CLEAN_URL=$(echo "$RAW_URL" | sed -E 's#(https?://[^/]+).*#\1/#')
+
+          echo "url=$CLEAN_URL" >> $GITHUB_OUTPUT
+
+      - name: Update .env with new URL
+        if: ${{ github.event.inputs.api_url != '' || startsWith(steps.check_redirect.outputs.status, '3') }}
+        run: |
+          CLEAN_URL="${{ steps.resolve_url.outputs.url }}"
           
-          echo "Redirect → update VITE_API_URL=$CLEAN_URL"
+          echo "Updating VITE_API_URL=$CLEAN_URL"
 
           sed -i "s|^VITE_API_URL=.*|VITE_API_URL=${CLEAN_URL}|" extensions/streaming-community/.env
           
@@ -63,7 +83,7 @@ jobs:
           git push
 
       - name: Send repository_dispatch event
-        if: ${{ startsWith(steps.check_redirect.outputs.status, '3') }}
+        if: ${{ github.event.inputs.api_url != '' || startsWith(steps.check_redirect.outputs.status, '3') }}
         uses: peter-evans/repository-dispatch@v3
         with:
           event-type: deploy-extensions

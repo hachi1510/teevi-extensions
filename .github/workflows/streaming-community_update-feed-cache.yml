@@ -2,7 +2,7 @@ name: Streaming-Community - Update Feed Cache
 
 on:
   schedule:
-    - cron: "0 0 1,15 * *"
+    - cron: "0 0 * * 1"
   workflow_dispatch:
 
 permissions:
@@ -32,12 +32,12 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          
+
           git commit -am "chore(streaming-community): update feed cache"
-          
+
           bun --cwd=extensions/streaming-community pm version patch --no-git-tag-version
           git commit -am "chore(streaming-community): update version"
-          
+
           git push
 
       - name: Send repository_dispatch event
