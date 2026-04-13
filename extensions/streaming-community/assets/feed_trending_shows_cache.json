@@ -1,5 +1,273 @@
 [
   {
+    "id": "7821-avatar-la-leggenda-di-aang",
+    "kind": "series",
+    "title": "Avatar - La leggenda di Aang",
+    "overview": "Acqua, terra, fuoco e aria. Un tempo queste quattro nazioni andavano d'accordo, poi tutto è cambiato.",
+    "genres": [
+      "Dramma",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "duration": 0,
+    "releaseDate": "2024-02-22",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": "Stagione 2"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/5diMFKnlh1WyCqpsErLHNDZ8yZp.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.moe/images/219e4aab-e109-4a99-85a8-5992df5b13d6.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/gGdbg6Jwl6rM95BRAlf54EKNgHj.png",
+    "rating": 7.9,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "10240-rivals",
+    "kind": "series",
+    "title": "Rivals",
+    "overview": "È il 1986 e la Gran Bretagna è in pieno fermento. “Rivals” ci immerge a capofitto nel mondo spietato della televisione in cui le acconciature sono enormi e le ambizioni lo sono ancora di più. Gli accordi vengono negoziati sia nella sale riunioni che nelle camere da letto. Nessuno può essere sicuro di chi prevarrà. Mentre ogni uomo e donna pensa per sé, potrà il vero amore sbocciare davvero in questo tanto atteso adattamento del romanzo best seller di Jilly Cooper delle Rutshire Chronicles?",
+    "genres": [
+      "Dramma"
+    ],
+    "duration": 0,
+    "releaseDate": "2024-10-18",
+    "seasons": [
+      {
+        "number": 1,
+        "name": "Stagione 1"
+      },
+      {
+        "number": 2,
+        "name": "Stagione 2"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/7VXn2ma88Yl0pTA5ZTFhdxxd6Z2.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.moe/images/752d380c-8100-419c-9991-469dc10f48aa.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/92IrjFSaKfd6N7IEwxCrn69uaDE.png",
+    "rating": 8,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "5770-from",
+    "kind": "series",
+    "title": "From",
+    "overview": "In una città da incubo nel centro dell’America che intrappola tutti coloro che entrano, i residenti riluttanti combattono per rimanere in vita e cercano una via d’uscita. Ma sono afflitti dalle minacce della foresta circostante, comprese le terrificanti creature notturne.",
+    "genres": [
+      "Dramma",
+      "Sci-Fi & Fantasy",
+      "Mistero"
+    ],
+    "duration": 0,
+    "releaseDate": "2022-02-20",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": null
+      },
+      {
+        "number": 3,
+        "name": null
+      },
+      {
+        "number": 4,
+        "name": "Stagione 4"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/vs9sVZa2gKtY7Pof1I34BJWdENb.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.moe/images/eb47f41e-ce7c-4b4e-b063-338adbaae9d7.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/2re5IimHTCYRIqK2AknUVPGYO2l.png",
+    "rating": 8.3,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "49-euphoria",
+    "kind": "series",
+    "title": "Euphoria",
+    "overview": "Un gruppo di liceali si trova alle prime armi con droghe, sesso, identità, traumi, amore e amicizia.",
+    "genres": [
+      "Dramma"
+    ],
+    "duration": 0,
+    "releaseDate": "2019-06-16",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": null
+      },
+      {
+        "number": 3,
+        "name": "Stagione 3"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/gDGJdZ41jNM8NbOYQY2KKRQOONf.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.moe/images/013d8223-1a1c-4478-a5b1-2cfb414459fe.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/hp9ztcz0fMyztCKeQmNQg0F5dao.png",
+    "rating": 8.5,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "305-the-boys",
+    "kind": "series",
+    "title": "The Boys",
+    "overview": "THE BOYS è uno sguardo irriverente a ciò che succede quando i supereroi, che sono popolari come le celebrità, influenti come i politici e venerati come dei, abusano dei loro superpoteri invece di utilizzarli a fin di bene. Quando i The Boys si lanciano in una missione eroica per svelare la verità riguardo ai \"Sette\" sostenuti dalla Vought, inizia una lotta tra senza poteri e superpotenti.",
+    "genres": [
+      "Dramma",
+      "Commedia"
+    ],
+    "duration": 0,
+    "releaseDate": "2019-01-01",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": null
+      },
+      {
+        "number": 3,
+        "name": null
+      },
+      {
+        "number": 4,
+        "name": null
+      },
+      {
+        "number": 5,
+        "name": "Stagione 5"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/dACU11CzrA2aUWAWvlpuP92nmV7.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.moe/images/77ad0158-7078-443c-9555-d92033012007.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/xawDgfkBQaocXR9CljBMjkYpXNK.png",
+    "rating": 8.8,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "12007-your-friends-neighbors",
+    "kind": "series",
+    "title": "Your Friends & Neighbors",
+    "overview": "Quando un titano della finanza si trova all'improvviso senza lavoro e divorziato, inizia a rubare ai vicini ricchi per restare a galla. Rubare nella sua cerchia sociale stranamente lo esalta, ma rimane sempre più invischiato in una ragnatela mortale.",
+    "genres": [
+      "Dramma"
+    ],
+    "duration": 0,
+    "releaseDate": "2025-04-10",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": "Stagione 2"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/1e8NbJqmfhBVrzI7exgv2q6NPMY.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.moe/images/6cc32479-338f-4a20-87b0-b8159df2be24.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/fwDYvOKcaIs8ghhK8Ecpr2jqHIN.png",
+    "rating": 7.9,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "6322-xo-kitty",
+    "kind": "series",
+    "title": "XO, Kitty",
+    "overview": "Una nuova storia d'amore sboccia quando l'adolescente \"cupido\" Kitty raggiunge il fidanzato nello stesso istituto scolastico che frequentava sua madre.",
+    "genres": [
+      "Dramma"
+    ],
+    "duration": 0,
+    "releaseDate": "2023-01-01",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": "Stagione 2"
+      },
+      {
+        "number": 3,
+        "name": "Stagione 3"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/7Sy3uZCQcQUZN0BbXiBcflKmqoW.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.moe/images/d0940229-023a-4c73-9430-d93c5e777215.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/p9PeeR8JvOvd3pYagu2mpbdHlxr.png",
+    "rating": 7.8,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "8180-gialappashow",
+    "kind": "series",
+    "title": "GialappaShow",
+    "overview": "Accanto a Marco Santin e Giorgio Gherarducci, il Mago Forest, volti storici come Ubaldo Pantani, Marcello Cesena e tanti nuovi comici che prenderanno in giro MasterChef Italia, X Factor, Pechino Express, Ex On the beach e i più importanti eventi sportivi e tormentoni del web.",
+    "genres": [
+      "Commedia"
+    ],
+    "duration": 0,
+    "releaseDate": "2023-05-21",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": null
+      },
+      {
+        "number": 3,
+        "name": null
+      },
+      {
+        "number": 4,
+        "name": null
+      },
+      {
+        "number": 5,
+        "name": null
+      },
+      {
+        "number": 6,
+        "name": "Stagione 6"
+      },
+      {
+        "number": 7,
+        "name": "Stagione 7"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/gczG92zbCmVDI2ahOpchGzr6895.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.moe/images/32c4a69c-7d38-402f-9232-60b7d6fd80c8.webp",
+    "rating": 8.3,
+    "status": "airing",
+    "language": "it"
+  },
+  {
     "id": "1655-for-all-mankind",
     "kind": "series",
     "title": "For All Mankind",
@@ -32,231 +300,10 @@
         "name": "Stagione 5"
       }
     ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/2dxgM3BLgMWaGUxFwqFrxKNjzpb.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.parts/images/618eb33a-7d63-4c19-b082-8f9b4bb39e77.webp",
+    "posterURL": "https://image.tmdb.org/t/p/w780/G4vQyfZzcUWy7odnc041Nfklfz.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.moe/images/618eb33a-7d63-4c19-b082-8f9b4bb39e77.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/9oXUL0svFOdaG0MXCgbX2wyguEn.png",
     "rating": 8.2,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "5541-heartbreak-high",
-    "kind": "series",
-    "title": "Heartbreak High",
-    "overview": "Un murale provocatorio svela le relazioni segrete di tutti gli studenti alla Hartley High. L'emarginata autrice si trova ad affrontare le conseguenze delle sue azioni.",
-    "genres": [
-      "Dramma"
-    ],
-    "duration": 0,
-    "releaseDate": "2022-09-14",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": null
-      },
-      {
-        "number": 3,
-        "name": "Stagione 3"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/kx1MZ166pPfufkf56arjLCVgNPO.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.parts/images/e6732e91-8146-4bb8-bc5f-8190a23f791d.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/QIpYP2Krxju3o3728ZpU1teQaj.png",
-    "rating": 7.9,
-    "status": "ended",
-    "language": "it"
-  },
-  {
-    "id": "12703-lultima-missione-project-hail-mary",
-    "kind": "movie",
-    "title": "L'ultima missione: Project Hail Mary",
-    "overview": "L’insegnante di scienze Ryland Grace (Ryan Gosling) si sveglia su un’astronave lontano da casa anni luce e senza alcun ricordo di chi sia o di come sia arrivato lì. Con il riaffiorare della sua memoria, torna alla luce lo scopo della sua missione: risolvere l’enigma della misteriosa sostanza che sta causando il collasso del Sole. Dovrà fare affidamento sia sulle sue conoscenze scientifiche che sulle sue capacità di pensare fuori dagli schemi per salvare dall’estinzione la vita sulla Terra... ma un'inaspettata amicizia gli farà capire che non è solo in questa impresa.",
-    "genres": [
-      "Dramma",
-      "Fantascienza",
-      "Avventura"
-    ],
-    "duration": 9420,
-    "releaseDate": "2026-03-19",
-    "posterURL": "https://image.tmdb.org/t/p/w780/kutdTXxqWJ7KYmnll8nSrtWWsCR.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.parts/images/b1964deb-c7f3-4d02-8447-c7859b37812b.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/4KC5C1I9xI9pgBHH9bWkGOinENN.png",
-    "rating": 8.5,
-    "status": "upcoming",
-    "language": "it"
-  },
-  {
-    "id": "1787-virgin-river",
-    "kind": "series",
-    "title": "Virgin River",
-    "overview": "In cerca di un nuovo inizio, un'infermiera specializzata lascia Los Angeles per trasferirsi in una remota cittadina a nord che si rivelerà piena di sorprese.",
-    "genres": [
-      "Dramma"
-    ],
-    "duration": 0,
-    "releaseDate": "2019-12-06",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": null
-      },
-      {
-        "number": 3,
-        "name": null
-      },
-      {
-        "number": 4,
-        "name": null
-      },
-      {
-        "number": 5,
-        "name": null
-      },
-      {
-        "number": 6,
-        "name": null
-      },
-      {
-        "number": 7,
-        "name": "Stagione 7"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/cbrFsyHj8xAkkhhtFam0gMC4dlD.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.parts/images/353bd831-f652-41b0-9bd1-b9d11072d34c.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/kr5lA4cdwD7TMK5g5L0iy8lJgds.png",
-    "rating": 8.2,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "6654-one-piece",
-    "kind": "series",
-    "title": "ONE PIECE",
-    "overview": "La storia segue le avventure di Monkey D. Rufy, un ragazzo il cui corpo ha assunto le proprietà della gomma dopo aver inavvertitamente ingerito un frutto del diavolo. Reclutando compagni per formare una ciurma, Rufy esplora la Rotta Maggiore in cerca del leggendario tesoro One Piece e inseguendo il sogno di diventare il nuovo Re dei pirati.",
-    "genres": [
-      "Sci-Fi & Fantasy",
-      "Action & Adventure"
-    ],
-    "duration": 0,
-    "releaseDate": "2023-08-31",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": "Stagione 2"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/xhal3gJY4VelXcrH5KmSrqFgxyk.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.parts/images/1bb1eea7-963a-4ecc-8611-eb5225ac4b15.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/abWBV78tddBE7HW9pUeVkfbU3SF.png",
-    "rating": 8.5,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "48502-peaky-blinders-the-immortal-man",
-    "kind": "movie",
-    "title": "Peaky Blinders: The Immortal Man",
-    "overview": "Birmingham, 1940. Tra il caos della seconda guerra mondiale, Tommy Shelby viene spinto fuori da un autoimposto esilio per affrontare il suo più devastante regolamento dei conti finora. Con il futuro della famiglia e del paese a rischio, Tommy deve affrontare i suoi stessi demoni e scegliere se affrontare la sua eredità o bruciarla fino alle fondamenta.",
-    "genres": [
-      "Dramma",
-      "Crime"
-    ],
-    "duration": 6720,
-    "releaseDate": "2026-03-20",
-    "posterURL": "https://image.tmdb.org/t/p/w780/hAgk9jXsNB1YVKUXiFf46dxyIyK.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.parts/images/bf9d66b2-e8d7-47a5-9526-1b9c77ce8fd1.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/9IpyBrvW5WqAUwiNIqFf7YbqLS4.png",
-    "rating": 7.8,
-    "status": "upcoming",
-    "language": "it"
-  },
-  {
-    "id": "2459-outlander",
-    "kind": "series",
-    "title": "Outlander",
-    "overview": "Claire Randall, una donna sposata e un’infermiera della Seconda Guerra Mondiale, finisce misteriosamente in un’epoca passata, nel 1743, dove resta coinvolta velocemente in un mondo a lei estraneo ed eventi che mettono in pericolo la sua vita. Quando è costretta a sposare Jamie, un giovane guerriero scozzese galante e romantico, Claire è inebriata da questo nuovo amore passionale, il quale però si contrappone al suo primo matrimonio con Frank. Ed è così che il cuore di Claire si ritrova diviso tra due uomini molto diversi in due vite inconciliabili.",
-    "genres": [
-      "Dramma",
-      "Fantasy",
-      "Avventura",
-      "Romance"
-    ],
-    "duration": 0,
-    "releaseDate": "2014-08-09",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": null
-      },
-      {
-        "number": 3,
-        "name": null
-      },
-      {
-        "number": 4,
-        "name": null
-      },
-      {
-        "number": 5,
-        "name": null
-      },
-      {
-        "number": 6,
-        "name": null
-      },
-      {
-        "number": 7,
-        "name": null
-      },
-      {
-        "number": 8,
-        "name": "Stagione 8"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/waLsi24ZpjBCeSX6oGm1vIz1wVS.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.parts/images/7d857753-b8c6-431a-b92f-92bf8e47be09.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/719jwF5q5QCxdZpIN5q7NUQtaj2.png",
-    "rating": 8.6,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "54954-young-sherlock",
-    "kind": "series",
-    "title": "Young Sherlock",
-    "overview": "Sherlock Holmes è un giovane uomo screditato - crudo e non filtrato - quando si ritrova coinvolto in un caso di omicidio che minaccia la sua libertà. Il suo primo caso di sempre svela una cospirazione che viaggia in tutto il mondo e che cambia per sempre la sua vita.",
-    "genres": [
-      "Mistero",
-      "Action & Adventure"
-    ],
-    "duration": 0,
-    "releaseDate": "2026-03-04",
-    "seasons": [
-      {
-        "number": 1,
-        "name": "Stagione 1"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/fKh5OzpsieNUjlLeIy6iVtsUFI3.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.parts/images/c997a7dc-c423-41c0-843d-66e6cdd441cc.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/fWBgJxuHXRDBrUq0RFuG6DG22rt.png",
-    "rating": 8.1,
     "status": "airing",
     "language": "it"
   },
@@ -282,7 +329,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/A46i2ECLE1bVrl9YTWVnfBEWuzh.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.parts/images/175b539e-a623-48c3-9f38-6a45bc8c685d.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.moe/images/175b539e-a623-48c3-9f38-6a45bc8c685d.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/zvX53m1UyTEJ2Vn6bTkJEqvs08t.png",
     "rating": 8.3,
     "status": "airing",
