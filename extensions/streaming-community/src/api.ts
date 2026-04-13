@@ -1,12 +1,12 @@
-import { fetchHTMLDocument } from "@hachi/html-scraper";
-import { fetchVixcloudPlaylist } from "@hachi/vixcloud-scraper";
+import { fetchHTMLDocument } from "@hachi/html-scraper"
+import { fetchVixcloudPlaylist } from "@hachi/vixcloud-scraper"
 
-const API_URL = new URL(import.meta.env.VITE_API_URL);
+const API_URL = new URL(import.meta.env.VITE_API_URL)
 
 export type SCImage = {
-  filename: string;
-  type: "poster" | "cover" | "cover_mobile" | "background" | "logo";
-};
+  filename: string
+  type: "poster" | "cover" | "cover_mobile" | "background" | "logo"
+}
 
 export const SCGenres = {
   drama: 1,
@@ -27,97 +27,97 @@ export const SCGenres = {
   animation: 19,
   documentary: 24,
   korean_drama: 26,
-};
+}
 
-export type SCShowType = "movie" | "tv";
+export type SCShowType = "movie" | "tv"
 
 export type SCShowEntry = {
-  name: string;
-  id: number;
-  slug: string;
-  type: SCShowType;
-  last_air_date?: string; // YYYY-MM-DD
-  images: SCImage[];
-  translations: SCShowEntryTranslationItem[];
-};
+  name: string
+  id: number
+  slug: string
+  type: SCShowType
+  last_air_date?: string // YYYY-MM-DD
+  images: SCImage[]
+  translations: SCShowEntryTranslationItem[]
+}
 
 export type SCShowTranslationKey =
   | "last_air_date"
   | "name"
   | "plot"
-  | "release_date";
+  | "release_date"
 
 export type SCShowEntryTranslationItem = {
-  locale: string;
-  key: SCShowTranslationKey | string;
-  value: string;
-};
+  locale: string
+  key: SCShowTranslationKey | string
+  value: string
+}
 
 export function findTranslation(
   entry: SCShowEntry,
   key: SCShowTranslationKey,
   locale: string,
 ): SCShowEntryTranslationItem | undefined {
-  return entry.translations.find((t) => t.key === key && t.locale === locale);
+  return entry.translations.find((t) => t.key === key && t.locale === locale)
 }
 
 export type SCShow = {
-  name: string;
-  plot: string;
-  type: SCShowType;
-  release_date: string;
-  status?: string;
-  seasons_count: number; // Number of seasons, or 0 if the type is 'movie'
-  seasons?: SCSeason[];
-  genres: { name: string }[];
-  runtime?: number; // minutes
-  score?: number | string;
-  images: SCImage[];
-  imdb_id?: string;
-  tmdb_id?: number;
-  related?: SCShowEntry[];
-};
+  name: string
+  plot: string
+  type: SCShowType
+  release_date: string
+  status?: string
+  seasons_count: number // Number of seasons, or 0 if the type is 'movie'
+  seasons?: SCSeason[]
+  genres: { name: string }[]
+  runtime?: number // minutes
+  score?: number | string
+  images: SCImage[]
+  imdb_id?: string
+  tmdb_id?: number
+  related?: SCShowEntry[]
+}
 
 export type SCSeason = {
-  number: number;
-  name?: string;
-};
+  number: number
+  name?: string
+}
 
 export type SCEpisode = {
-  id: number;
-  number: number;
-  name?: string;
-  plot?: string;
-  duration?: number;
-  images: SCImage[];
-};
+  id: number
+  number: number
+  name?: string
+  plot?: string
+  duration?: number
+  images: SCImage[]
+}
 
 export type SCArchiveRequest = {
-  sorting: "score" | "views" | "release_date" | "last_air_date";
-  type?: SCShowType;
-  genres?: number[];
-  year?: number;
-  minimumViews?: "25k" | "50k" | "75k" | "100k" | "250k" | "500k" | "1M";
-  service?: "apple" | "disney" | "netflix" | "prime" | "now";
-  maximumPagesToFetch?: number;
-};
+  sorting: "score" | "views" | "release_date" | "last_air_date"
+  type?: SCShowType
+  genres?: number[]
+  year?: number
+  minimumViews?: "25k" | "50k" | "75k" | "100k" | "250k" | "500k" | "1M"
+  service?: "apple" | "disney" | "netflix" | "prime" | "now"
+  maximumPagesToFetch?: number
+}
 
 export type SCVideoAsset = {
-  url: string;
-  referer: string;
-};
+  url: string
+  referer: string
+}
 
 export function findImageURL(
   images: SCImage[],
   type: SCImage["type"],
 ): string | undefined {
-  const filename = images.find((img) => img.type === type)?.filename;
+  const filename = images.find((img) => img.type === type)?.filename
   if (!filename) {
-    return undefined;
+    return undefined
   }
-  const cdnURL = new URL(`https://cdn.${API_URL.hostname}`);
-  const imageURL = new URL(`/images/${filename}`, cdnURL);
-  return imageURL.toString();
+  const cdnURL = new URL(`https://cdn.${API_URL.hostname}`)
+  const imageURL = new URL(`/images/${filename}`, cdnURL)
+  return imageURL.toString()
 }
 
 export async function fetchShowsFromArchive(
@@ -125,25 +125,25 @@ export async function fetchShowsFromArchive(
 ): Promise<SCShowEntry[]> {
   type JSONData = {
     props: {
-      titles: SCShowEntry[];
-    };
-  };
+      titles: SCShowEntry[]
+    }
+  }
 
   function createEndpoint(request: SCArchiveRequest, page: number): URL {
-    const endpoint = new URL(`it/archive`, API_URL);
+    const endpoint = new URL(`it/archive`, API_URL)
     if (request.sorting !== "release_date") {
-      endpoint.searchParams.append("sort", request.sorting);
+      endpoint.searchParams.append("sort", request.sorting)
     }
     if (request.type) {
-      endpoint.searchParams.append("type", request.type);
+      endpoint.searchParams.append("type", request.type)
     }
     if (request.genres && request.genres.length > 0) {
       for (const genre of request.genres) {
-        endpoint.searchParams.append("genre[]", genre.toString());
+        endpoint.searchParams.append("genre[]", genre.toString())
       }
     }
     if (request.year) {
-      endpoint.searchParams.append("year", request.year.toString());
+      endpoint.searchParams.append("year", request.year.toString())
     }
     if (request.minimumViews) {
       // Convert string view values to their numeric representation
@@ -158,98 +158,98 @@ export async function fetchShowsFromArchive(
         "250k": "250000",
         "500k": "500000",
         "1M": "1000000",
-      };
-      endpoint.searchParams.append("views", viewsMap[request.minimumViews]);
+      }
+      endpoint.searchParams.append("views", viewsMap[request.minimumViews])
     }
     if (request.service) {
-      endpoint.searchParams.append("service", request.service);
+      endpoint.searchParams.append("service", request.service)
     }
     if (page > 0) {
-      endpoint.searchParams.append("offset", (page * 60).toString());
+      endpoint.searchParams.append("page", (page + 1).toString())
     }
-    return endpoint;
+    return endpoint
   }
 
-  const maximumPagesToFetch = request.maximumPagesToFetch ?? 1;
-  let pageToFetch = 0;
-  let shows: SCShowEntry[] = [];
+  const maximumPagesToFetch = request.maximumPagesToFetch ?? 1
+  let pageToFetch = 0
+  let shows: SCShowEntry[] = []
 
   while (pageToFetch < maximumPagesToFetch) {
-    const endpoint = createEndpoint(request, pageToFetch);
+    const endpoint = createEndpoint(request, pageToFetch)
 
-    const html = await fetchHTMLDocument(endpoint);
-    const json = html("#app").attr("data-page");
+    const html = await fetchHTMLDocument(endpoint)
+    const json = html("#app").attr("data-page")
     if (!json) {
-      throw new Error(`Failed to fetch shows from archive`);
+      throw new Error(`Failed to fetch shows from archive`)
     }
 
-    const data = JSON.parse(json) as JSONData;
+    const data = JSON.parse(json) as JSONData
 
-    shows.push(...data.props.titles);
-    pageToFetch++;
+    shows.push(...data.props.titles)
+    pageToFetch++
 
     if (data.props.titles.length < 60) {
-      break;
+      break
     }
   }
 
   // Remove duplicate shows by id
-  const seen = new Set();
+  const seen = new Set()
 
   return shows.filter((show) => {
     if (seen.has(show.id)) {
-      return false;
+      return false
     } else {
-      seen.add(show.id);
-      return true;
+      seen.add(show.id)
+      return true
     }
-  });
+  })
 }
 
 export async function fetchShowsByQuery(query: string): Promise<SCShowEntry[]> {
   type JSONData = {
     props: {
-      titles: SCShowEntry[];
-    };
-  };
-
-  const endpoint = new URL(`it/search`, API_URL);
-  endpoint.searchParams.append("q", query);
-  const html = await fetchHTMLDocument(endpoint);
-
-  const json = html("#app").attr("data-page");
-  if (!json) {
-    throw new Error(`Failed to fetch shows by query`);
+      titles: SCShowEntry[]
+    }
   }
 
-  const data = JSON.parse(json) as JSONData;
-  return data.props.titles;
+  const endpoint = new URL(`it/search`, API_URL)
+  endpoint.searchParams.append("q", query)
+  const html = await fetchHTMLDocument(endpoint)
+
+  const json = html("#app").attr("data-page")
+  if (!json) {
+    throw new Error(`Failed to fetch shows by query`)
+  }
+
+  const data = JSON.parse(json) as JSONData
+  return data.props.titles
 }
 
 export async function fetchShow(id: string): Promise<SCShow> {
   type JSONData = {
     props: {
-      title: Omit<SCShow, "related">;
+      title: Omit<SCShow, "related">
       sliders: {
-        name: string;
-        titles: SCShowEntry[];
-      }[];
-    };
-  };
-
-  const endpoint = new URL(`it/titles/${id}`, API_URL);
-  const html = await fetchHTMLDocument(endpoint);
-
-  const json = html("#app").attr("data-page");
-  if (!json) {
-    throw new Error("Failed to parse show data");
+        name: string
+        titles: SCShowEntry[]
+      }[]
+    }
   }
 
-  const data = JSON.parse(json) as JSONData;
-  const show = data.props.title;
-  const related = data.props.sliders.find((s) => s.name === "related")?.titles;
+  const endpoint = new URL(`it/titles/${id}`, API_URL)
+  const html = await fetchHTMLDocument(endpoint)
 
-  return { ...show, related } satisfies SCShow;
+  const json = html("#app").attr("data-page")
+  if (!json) {
+    throw new Error("Failed to parse show data")
+  }
+
+  const data = JSON.parse(json) as JSONData
+  const show = data.props.title
+  const related = data.props.sliders.find((s) => s.name === "related")?.titles
+
+  return { ...show, related } satisfies SCShow
 }
 
 export async function fetchEpisodes(
@@ -259,36 +259,36 @@ export async function fetchEpisodes(
   type JSONData = {
     props: {
       loadedSeason: {
-        episodes: SCEpisode[];
-      };
-    };
-  };
-
-  const endpoint = new URL(`it/titles/${id}/season-${season}`, API_URL);
-  const html = await fetchHTMLDocument(endpoint);
-
-  const json = html("#app").attr("data-page");
-  if (!json) {
-    throw new Error("Failed to parse episodes");
+        episodes: SCEpisode[]
+      }
+    }
   }
 
-  const data = JSON.parse(json) as JSONData;
-  return data.props.loadedSeason.episodes;
+  const endpoint = new URL(`it/titles/${id}/season-${season}`, API_URL)
+  const html = await fetchHTMLDocument(endpoint)
+
+  const json = html("#app").attr("data-page")
+  if (!json) {
+    throw new Error("Failed to parse episodes")
+  }
+
+  const data = JSON.parse(json) as JSONData
+  return data.props.loadedSeason.episodes
 }
 
 export async function fetchVideoAsset(id: string): Promise<SCVideoAsset> {
-  const endpoint = new URL(`it/iframe/${id}`, API_URL);
-  const html = await fetchHTMLDocument(endpoint);
+  const endpoint = new URL(`it/iframe/${id}`, API_URL)
+  const html = await fetchHTMLDocument(endpoint)
 
-  const iframeURL = html("iframe").attr("src");
+  const iframeURL = html("iframe").attr("src")
   if (!iframeURL) {
-    throw new Error("Failed to find video request URL");
+    throw new Error("Failed to find video request URL")
   }
 
-  const vixcloudURL = await fetchVixcloudPlaylist(new URL(iframeURL));
+  const vixcloudURL = await fetchVixcloudPlaylist(new URL(iframeURL))
 
   return {
     url: vixcloudURL.toString(),
     referer: iframeURL,
-  };
+  }
 }
