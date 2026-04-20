@@ -87,8 +87,88 @@
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/vs9sVZa2gKtY7Pof1I34BJWdENb.jpg",
     "backdropURL": "https://cdn.streamingcommunityz.moe/images/eb47f41e-ce7c-4b4e-b063-338adbaae9d7.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/2re5IimHTCYRIqK2AknUVPGYO2l.png",
+    "logoURL": "https://image.tmdb.org/t/p/w500/mvqhRHAzZKCVr24OIfK5LHJDSwU.png",
     "rating": 8.3,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "6119-la-legge-di-lidia-poet",
+    "kind": "series",
+    "title": "La legge di Lidia Poët",
+    "overview": "Nella Torino di fine ‘800 la giovane Lidia Poët combatte contro tutto e tutti per ottenere ciò che le spetta di diritto: entrare a far parte dell’Ordine degli avvocati. Un mestiere, al tempo, riservato esclusivamente agli uomini. Nonostante ciò, niente è riuscito a fermare il suo sogno di diventare la prima avvocata d’Italia.",
+    "genres": [
+      "Dramma",
+      "Crime",
+      "War & Politics"
+    ],
+    "duration": 0,
+    "releaseDate": "2023-02-15",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": "Stagione 2"
+      },
+      {
+        "number": 3,
+        "name": "Stagione 3"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/922Vj9vNSt4txNRCscWYWcV7wKQ.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.moe/images/9cb334f7-9943-45f3-94cf-c00e6bd9c280.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/oCAzAO6PRhfcFegQFcysAcxRKzN.png",
+    "rating": 7.9,
+    "status": "ended",
+    "language": "it"
+  },
+  {
+    "id": "4326-i-cesaroni",
+    "kind": "series",
+    "title": "I Cesaroni",
+    "overview": "Le sorprese non mancano mai quando si tratta dei Cesaroni, la simpatica famiglia allargata dal grande cuore amata da tantissimi italiani.",
+    "genres": [
+      "Dramma"
+    ],
+    "duration": 0,
+    "releaseDate": "2006-01-01",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": null
+      },
+      {
+        "number": 3,
+        "name": null
+      },
+      {
+        "number": 4,
+        "name": null
+      },
+      {
+        "number": 5,
+        "name": null
+      },
+      {
+        "number": 6,
+        "name": null
+      },
+      {
+        "number": 7,
+        "name": "Il ritorno"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/9IsZ9hKg7eXA11AYbPl0H4nORx.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.moe/images/36135003-a929-4c3c-8e6d-679ddf6c0f5b.webp",
+    "logoURL": "https://cdn.streamingcommunityz.moe/images/eff313d9-24c7-4aa0-8e31-1a8c773c6fa0.webp",
+    "rating": 7.2,
     "status": "airing",
     "language": "it"
   },
@@ -117,7 +197,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/gDGJdZ41jNM8NbOYQY2KKRQOONf.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.moe/images/013d8223-1a1c-4478-a5b1-2cfb414459fe.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.moe/images/81ed052c-89f6-40d2-a26f-b33e2b7ffdf8.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/hp9ztcz0fMyztCKeQmNQg0F5dao.png",
     "rating": 8.5,
     "status": "airing",
@@ -185,8 +265,8 @@
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/1e8NbJqmfhBVrzI7exgv2q6NPMY.jpg",
     "backdropURL": "https://cdn.streamingcommunityz.moe/images/6cc32479-338f-4a20-87b0-b8159df2be24.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/fwDYvOKcaIs8ghhK8Ecpr2jqHIN.png",
-    "rating": 7.9,
+    "logoURL": "https://image.tmdb.org/t/p/w500/31fB7IPRh4Dyh09CAfa0J31fd95.png",
+    "rating": 8,
     "status": "airing",
     "language": "it"
   },
@@ -263,75 +343,7 @@
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/gczG92zbCmVDI2ahOpchGzr6895.jpg",
     "backdropURL": "https://cdn.streamingcommunityz.moe/images/32c4a69c-7d38-402f-9232-60b7d6fd80c8.webp",
-    "rating": 8.3,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "1655-for-all-mankind",
-    "kind": "series",
-    "title": "For All Mankind",
-    "overview": "Immagina un mondo in cui la corsa alla conquista dello spazio non è mai finita. Questa storia alternativa viene raccontata attraverso le vite degli astronauti della NASA, eroi e rockstar del loro tempo, e delle loro famiglie.",
-    "genres": [
-      "Dramma",
-      "Sci-Fi & Fantasy"
-    ],
-    "duration": 0,
-    "releaseDate": "2019-11-01",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": null
-      },
-      {
-        "number": 3,
-        "name": null
-      },
-      {
-        "number": 4,
-        "name": null
-      },
-      {
-        "number": 5,
-        "name": "Stagione 5"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/G4vQyfZzcUWy7odnc041Nfklfz.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.moe/images/618eb33a-7d63-4c19-b082-8f9b4bb39e77.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/9oXUL0svFOdaG0MXCgbX2wyguEn.png",
     "rating": 8.2,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "11520-daredevil-rinascita",
-    "kind": "series",
-    "title": "Daredevil: Rinascita",
-    "overview": "Charlie Cox interpreta un avvocato non vedente con abilità potenziate che combatte per la giustizia attraverso il suo frenetico studio legale, mentre l'ex boss della mafia Wilson Fisk, interpretato da D’Onofrio, persegue i suoi impegni politici a New York.",
-    "genres": [
-      "Dramma",
-      "Crime"
-    ],
-    "duration": 0,
-    "releaseDate": "2025-03-04",
-    "seasons": [
-      {
-        "number": 1,
-        "name": "Stagione 1"
-      },
-      {
-        "number": 2,
-        "name": "Stagione 2"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/A46i2ECLE1bVrl9YTWVnfBEWuzh.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.moe/images/175b539e-a623-48c3-9f38-6a45bc8c685d.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/zvX53m1UyTEJ2Vn6bTkJEqvs08t.png",
-    "rating": 8.3,
     "status": "airing",
     "language": "it"
   }
