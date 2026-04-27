@@ -22,9 +22,67 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/5diMFKnlh1WyCqpsErLHNDZ8yZp.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.moe/images/219e4aab-e109-4a99-85a8-5992df5b13d6.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.ooo/images/219e4aab-e109-4a99-85a8-5992df5b13d6.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/gGdbg6Jwl6rM95BRAlf54EKNgHj.png",
     "rating": 7.9,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "115-rick-and-morty",
+    "kind": "series",
+    "title": "Rick and Morty",
+    "overview": "Il brillante scienziato ubriacone Rick va alla scoperta di altri mondi e dimensioni insieme a Morty, il suo inquieto nipote adolescente.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Commedia",
+      "Action & Adventure",
+      "Animazione"
+    ],
+    "duration": 0,
+    "releaseDate": "2013-01-01",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": null
+      },
+      {
+        "number": 3,
+        "name": null
+      },
+      {
+        "number": 4,
+        "name": null
+      },
+      {
+        "number": 5,
+        "name": null
+      },
+      {
+        "number": 6,
+        "name": null
+      },
+      {
+        "number": 7,
+        "name": null
+      },
+      {
+        "number": 8,
+        "name": "Stagione 8"
+      },
+      {
+        "number": 9,
+        "name": "Stagione 9"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/pxxDpZ5phLLRK4YaZZvcnK1IKxa.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.ooo/images/6ee71931-ad54-43d0-9687-dbd35538457e.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/wq3wqFLwwqnhG6DxmSji9ehLcx6.png",
+    "rating": 9.1,
     "status": "airing",
     "language": "it"
   },
@@ -49,9 +107,38 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/7VXn2ma88Yl0pTA5ZTFhdxxd6Z2.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.moe/images/752d380c-8100-419c-9991-469dc10f48aa.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.ooo/images/752d380c-8100-419c-9991-469dc10f48aa.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/92IrjFSaKfd6N7IEwxCrn69uaDE.png",
     "rating": 8,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "6319-citadel",
+    "kind": "series",
+    "title": "Citadel",
+    "overview": "Otto anni fa Citadel, agenzia di spionaggio indipendente, è stata distrutta da una nuova organizzazione, Manticore. Gli agenti Mason Kane (Richard Madden) e Nadia Sinh (Priyanka Chopra Jonas), a cui hanno eliminato i ricordi, si sono salvati a stento. Otto anni dopo un ex collega di Mason, Bernard Orlick (Stanley Tucci), gli chiede aiuto per impedire che Manticore crei un nuovo ordine mondiale.",
+    "genres": [
+      "Dramma",
+      "Crime",
+      "Action & Adventure"
+    ],
+    "duration": 0,
+    "releaseDate": "2023-04-27",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": "Stagione 2"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/tHVDujX5C7HnUPC4ybOZLdbp99M.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.ooo/images/47354a64-e909-4c8a-8dad-c62d8f559ef9.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/7QLowVo2NpdybpxLyfpV5LcwKDv.png",
+    "rating": 7.1,
     "status": "airing",
     "language": "it"
   },
@@ -85,8 +172,8 @@
         "name": "Stagione 4"
       }
     ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/vs9sVZa2gKtY7Pof1I34BJWdENb.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.moe/images/eb47f41e-ce7c-4b4e-b063-338adbaae9d7.webp",
+    "posterURL": "https://image.tmdb.org/t/p/w780/mPFwg9BjfgSFcINA0U7i1lpQAIS.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.ooo/images/d648da91-9e74-419b-87cc-9b7492cd8165.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/mvqhRHAzZKCVr24OIfK5LHJDSwU.png",
     "rating": 8.3,
     "status": "airing",
@@ -119,7 +206,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/922Vj9vNSt4txNRCscWYWcV7wKQ.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.moe/images/9cb334f7-9943-45f3-94cf-c00e6bd9c280.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.ooo/images/9cb334f7-9943-45f3-94cf-c00e6bd9c280.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/oCAzAO6PRhfcFegQFcysAcxRKzN.png",
     "rating": 7.9,
     "status": "ended",
@@ -166,8 +253,8 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/9IsZ9hKg7eXA11AYbPl0H4nORx.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.moe/images/36135003-a929-4c3c-8e6d-679ddf6c0f5b.webp",
-    "logoURL": "https://cdn.streamingcommunityz.moe/images/eff313d9-24c7-4aa0-8e31-1a8c773c6fa0.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.ooo/images/36135003-a929-4c3c-8e6d-679ddf6c0f5b.webp",
+    "logoURL": "https://cdn.streamingcommunityz.ooo/images/eff313d9-24c7-4aa0-8e31-1a8c773c6fa0.webp",
     "rating": 7.2,
     "status": "airing",
     "language": "it"
@@ -197,7 +284,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/gDGJdZ41jNM8NbOYQY2KKRQOONf.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.moe/images/81ed052c-89f6-40d2-a26f-b33e2b7ffdf8.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.ooo/images/81ed052c-89f6-40d2-a26f-b33e2b7ffdf8.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/hp9ztcz0fMyztCKeQmNQg0F5dao.png",
     "rating": 8.5,
     "status": "airing",
@@ -237,113 +324,9 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/dACU11CzrA2aUWAWvlpuP92nmV7.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.moe/images/77ad0158-7078-443c-9555-d92033012007.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.ooo/images/77ad0158-7078-443c-9555-d92033012007.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/xawDgfkBQaocXR9CljBMjkYpXNK.png",
     "rating": 8.8,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "12007-your-friends-neighbors",
-    "kind": "series",
-    "title": "Your Friends & Neighbors",
-    "overview": "Quando un titano della finanza si trova all'improvviso senza lavoro e divorziato, inizia a rubare ai vicini ricchi per restare a galla. Rubare nella sua cerchia sociale stranamente lo esalta, ma rimane sempre più invischiato in una ragnatela mortale.",
-    "genres": [
-      "Dramma"
-    ],
-    "duration": 0,
-    "releaseDate": "2025-04-10",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": "Stagione 2"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/1e8NbJqmfhBVrzI7exgv2q6NPMY.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.moe/images/6cc32479-338f-4a20-87b0-b8159df2be24.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/31fB7IPRh4Dyh09CAfa0J31fd95.png",
-    "rating": 8,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "6322-xo-kitty",
-    "kind": "series",
-    "title": "XO, Kitty",
-    "overview": "Una nuova storia d'amore sboccia quando l'adolescente \"cupido\" Kitty raggiunge il fidanzato nello stesso istituto scolastico che frequentava sua madre.",
-    "genres": [
-      "Dramma"
-    ],
-    "duration": 0,
-    "releaseDate": "2023-01-01",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": "Stagione 2"
-      },
-      {
-        "number": 3,
-        "name": "Stagione 3"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/7Sy3uZCQcQUZN0BbXiBcflKmqoW.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.moe/images/d0940229-023a-4c73-9430-d93c5e777215.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/p9PeeR8JvOvd3pYagu2mpbdHlxr.png",
-    "rating": 7.8,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "8180-gialappashow",
-    "kind": "series",
-    "title": "GialappaShow",
-    "overview": "Accanto a Marco Santin e Giorgio Gherarducci, il Mago Forest, volti storici come Ubaldo Pantani, Marcello Cesena e tanti nuovi comici che prenderanno in giro MasterChef Italia, X Factor, Pechino Express, Ex On the beach e i più importanti eventi sportivi e tormentoni del web.",
-    "genres": [
-      "Commedia"
-    ],
-    "duration": 0,
-    "releaseDate": "2023-05-21",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": null
-      },
-      {
-        "number": 3,
-        "name": null
-      },
-      {
-        "number": 4,
-        "name": null
-      },
-      {
-        "number": 5,
-        "name": null
-      },
-      {
-        "number": 6,
-        "name": "Stagione 6"
-      },
-      {
-        "number": 7,
-        "name": "Stagione 7"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/gczG92zbCmVDI2ahOpchGzr6895.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.moe/images/32c4a69c-7d38-402f-9232-60b7d6fd80c8.webp",
-    "rating": 8.2,
     "status": "airing",
     "language": "it"
   }
