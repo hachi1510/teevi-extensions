@@ -22,9 +22,42 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/5diMFKnlh1WyCqpsErLHNDZ8yZp.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.ooo/images/219e4aab-e109-4a99-85a8-5992df5b13d6.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.organic/images/219e4aab-e109-4a99-85a8-5992df5b13d6.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/gGdbg6Jwl6rM95BRAlf54EKNgHj.png",
     "rating": 7.9,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "5431-house-of-the-dragon",
+    "kind": "series",
+    "title": "House of the Dragon",
+    "overview": "La serie prequel vede la dinastia Targaryen all'apice assoluto del suo potere, con più di 15 draghi sotto il loro giogo. La maggior parte degli imperi, che siano reali o immaginari, crollano quando raggiungono tali poteri e tali altezze. Nel caso dei Targaryen, la loro lenta caduta inizia quasi 193 anni prima degli eventi de Il Trono di Spade, quando re Viserys Targaryen rompe un secolo di tradizione nominando sua figlia Rhaenyra erede al Trono di Spade. La corte rimane scioccata quando Rhaenyra mantiene il suo status di erede nonostante Viserys in seguito avrà un figlio maschio, legittimo erede. Inizia così ad attecchire il seme della divisione e forti attriti in tutto il regno.",
+    "genres": [
+      "Dramma",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "duration": 0,
+    "releaseDate": "2022-08-21",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": "Stagione 2"
+      },
+      {
+        "number": 3,
+        "name": "Stagione 3"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/elwO2VlWzvUWsGGeeypZzpa61Jm.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.organic/images/214458ce-f7a3-4f49-b088-b4d0d7515052.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/t8PZ4J0Zjox7wd3gIy8IFSXSNUG.png",
+    "rating": 8.6,
     "status": "airing",
     "language": "it"
   },
@@ -80,7 +113,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/pxxDpZ5phLLRK4YaZZvcnK1IKxa.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.ooo/images/6ee71931-ad54-43d0-9687-dbd35538457e.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.organic/images/6ee71931-ad54-43d0-9687-dbd35538457e.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/wq3wqFLwwqnhG6DxmSji9ehLcx6.png",
     "rating": 9.1,
     "status": "airing",
@@ -107,7 +140,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/7VXn2ma88Yl0pTA5ZTFhdxxd6Z2.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.ooo/images/752d380c-8100-419c-9991-469dc10f48aa.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.organic/images/752d380c-8100-419c-9991-469dc10f48aa.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/92IrjFSaKfd6N7IEwxCrn69uaDE.png",
     "rating": 8,
     "status": "airing",
@@ -136,7 +169,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/tHVDujX5C7HnUPC4ybOZLdbp99M.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.ooo/images/47354a64-e909-4c8a-8dad-c62d8f559ef9.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.organic/images/47354a64-e909-4c8a-8dad-c62d8f559ef9.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/7QLowVo2NpdybpxLyfpV5LcwKDv.png",
     "rating": 7.1,
     "status": "airing",
@@ -173,7 +206,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/mPFwg9BjfgSFcINA0U7i1lpQAIS.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.ooo/images/d648da91-9e74-419b-87cc-9b7492cd8165.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.organic/images/d648da91-9e74-419b-87cc-9b7492cd8165.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/mvqhRHAzZKCVr24OIfK5LHJDSwU.png",
     "rating": 8.3,
     "status": "airing",
@@ -206,7 +239,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/922Vj9vNSt4txNRCscWYWcV7wKQ.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.ooo/images/9cb334f7-9943-45f3-94cf-c00e6bd9c280.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.organic/images/9cb334f7-9943-45f3-94cf-c00e6bd9c280.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/oCAzAO6PRhfcFegQFcysAcxRKzN.png",
     "rating": 7.9,
     "status": "ended",
@@ -253,9 +286,9 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/9IsZ9hKg7eXA11AYbPl0H4nORx.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.ooo/images/36135003-a929-4c3c-8e6d-679ddf6c0f5b.webp",
-    "logoURL": "https://cdn.streamingcommunityz.ooo/images/eff313d9-24c7-4aa0-8e31-1a8c773c6fa0.webp",
-    "rating": 7.2,
+    "backdropURL": "https://cdn.streamingcommunityz.organic/images/36135003-a929-4c3c-8e6d-679ddf6c0f5b.webp",
+    "logoURL": "https://cdn.streamingcommunityz.organic/images/eff313d9-24c7-4aa0-8e31-1a8c773c6fa0.webp",
+    "rating": 7.1,
     "status": "airing",
     "language": "it"
   },
@@ -284,49 +317,9 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/gDGJdZ41jNM8NbOYQY2KKRQOONf.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.ooo/images/81ed052c-89f6-40d2-a26f-b33e2b7ffdf8.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.organic/images/81ed052c-89f6-40d2-a26f-b33e2b7ffdf8.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/hp9ztcz0fMyztCKeQmNQg0F5dao.png",
     "rating": 8.5,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "305-the-boys",
-    "kind": "series",
-    "title": "The Boys",
-    "overview": "THE BOYS è uno sguardo irriverente a ciò che succede quando i supereroi, che sono popolari come le celebrità, influenti come i politici e venerati come dei, abusano dei loro superpoteri invece di utilizzarli a fin di bene. Quando i The Boys si lanciano in una missione eroica per svelare la verità riguardo ai \"Sette\" sostenuti dalla Vought, inizia una lotta tra senza poteri e superpotenti.",
-    "genres": [
-      "Dramma",
-      "Commedia"
-    ],
-    "duration": 0,
-    "releaseDate": "2019-01-01",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": null
-      },
-      {
-        "number": 3,
-        "name": null
-      },
-      {
-        "number": 4,
-        "name": null
-      },
-      {
-        "number": 5,
-        "name": "Stagione 5"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/dACU11CzrA2aUWAWvlpuP92nmV7.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.ooo/images/77ad0158-7078-443c-9555-d92033012007.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/xawDgfkBQaocXR9CljBMjkYpXNK.png",
-    "rating": 8.8,
     "status": "airing",
     "language": "it"
   }
