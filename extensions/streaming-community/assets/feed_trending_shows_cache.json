@@ -22,7 +22,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/5diMFKnlh1WyCqpsErLHNDZ8yZp.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.organic/images/219e4aab-e109-4a99-85a8-5992df5b13d6.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.bargains/images/219e4aab-e109-4a99-85a8-5992df5b13d6.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/gGdbg6Jwl6rM95BRAlf54EKNgHj.png",
     "rating": 7.9,
     "status": "airing",
@@ -55,7 +55,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/elwO2VlWzvUWsGGeeypZzpa61Jm.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.organic/images/214458ce-f7a3-4f49-b088-b4d0d7515052.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.bargains/images/214458ce-f7a3-4f49-b088-b4d0d7515052.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/t8PZ4J0Zjox7wd3gIy8IFSXSNUG.png",
     "rating": 8.6,
     "status": "airing",
@@ -113,7 +113,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/pxxDpZ5phLLRK4YaZZvcnK1IKxa.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.organic/images/6ee71931-ad54-43d0-9687-dbd35538457e.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.bargains/images/6ee71931-ad54-43d0-9687-dbd35538457e.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/wq3wqFLwwqnhG6DxmSji9ehLcx6.png",
     "rating": 9.1,
     "status": "airing",
@@ -140,10 +140,123 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/7VXn2ma88Yl0pTA5ZTFhdxxd6Z2.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.organic/images/752d380c-8100-419c-9991-469dc10f48aa.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.bargains/images/752d380c-8100-419c-9991-469dc10f48aa.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/92IrjFSaKfd6N7IEwxCrn69uaDE.png",
     "rating": 8,
     "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "8960-a-casa-dei-loud",
+    "kind": "series",
+    "title": "A casa dei Loud",
+    "overview": "Lincoln Loud, un ragazzino di 11 anni con ben dieci sorelle, trova modi creativi per sopravvivere nel caos quotidiano di casa sua.",
+    "genres": [
+      "Mistero",
+      "Commedia",
+      "Famiglia",
+      "Animazione",
+      "Kids"
+    ],
+    "duration": 0,
+    "releaseDate": "2016-05-02",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": null
+      },
+      {
+        "number": 3,
+        "name": null
+      },
+      {
+        "number": 4,
+        "name": null
+      },
+      {
+        "number": 5,
+        "name": "Stagione 5"
+      },
+      {
+        "number": 6,
+        "name": null
+      },
+      {
+        "number": 7,
+        "name": "Stagione 7"
+      },
+      {
+        "number": 8,
+        "name": "Stagione 8"
+      },
+      {
+        "number": 9,
+        "name": "Stagione 9"
+      },
+      {
+        "number": 10,
+        "name": "Stagione 10"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/xxkDeFrFEME9dTuiYC0A0Ivx2S6.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.bargains/images/632a46fe-9d7c-467b-a525-a0e6ee65341a.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/kvUe1whDma2pEHznSUPbPrNVq8z.png",
+    "rating": 7.8,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "8492-thank-you-next",
+    "kind": "series",
+    "title": "Thank You, Next",
+    "overview": "Dopo la fine di una relazione, una giovane avvocata si getta a capofitto nel mondo confuso degli appuntamenti con il sostegno incrollabile dei suoi migliori amici.",
+    "genres": [
+      "Dramma",
+      "Commedia"
+    ],
+    "duration": 0,
+    "releaseDate": "2024-05-09",
+    "seasons": [
+      {
+        "number": 1,
+        "name": "Thank You, Next"
+      },
+      {
+        "number": 2,
+        "name": "Season 2"
+      },
+      {
+        "number": 3,
+        "name": "Stagione 3"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/hK5KtJhSuY9UVv2apEBNtYT0TJh.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.bargains/images/6cdcda1f-914c-458b-8e52-4226dd4dd2b5.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/zWRrRqvFh3ehmdVDurnFw0heDbL.png",
+    "rating": 6.7,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "55552-il-diavolo-veste-prada-2",
+    "kind": "movie",
+    "title": "Il diavolo veste Prada 2",
+    "overview": "Miranda Priestly gestisce la sua carriera tra il declino dell'editoria tradizionale delle riviste. Si scontra con Emily Charlton, la sua ex assistente, ora dirigente di alto livello per un gruppo di lusso, con i dollari della pubblicità di cui Priestly ha disperatamente bisogno.",
+    "genres": [
+      "Dramma",
+      "Commedia"
+    ],
+    "duration": 7200,
+    "releaseDate": "2026-05-07",
+    "posterURL": "https://image.tmdb.org/t/p/w780/DCeVQf830rhxqrDgz3qvk7U7s6.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.bargains/images/41a5dec7-501d-4445-a59e-0988c9879ff5.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/v6TyxpV3ZXG28MXTaHCXTmXc0B.png",
+    "rating": 7.3,
+    "status": "upcoming",
     "language": "it"
   },
   {
@@ -169,10 +282,28 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/tHVDujX5C7HnUPC4ybOZLdbp99M.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.organic/images/47354a64-e909-4c8a-8dad-c62d8f559ef9.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.bargains/images/47354a64-e909-4c8a-8dad-c62d8f559ef9.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/7QLowVo2NpdybpxLyfpV5LcwKDv.png",
     "rating": 7.1,
     "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "55675-apex",
+    "kind": "movie",
+    "title": "Apex",
+    "overview": "Un'amante del brivido in lutto che sfida i propri limiti. Un killer perverso a caccia di prede. Nella spietata natura australiana ha inizio un gioco molto pericoloso.",
+    "genres": [
+      "Azione",
+      "Thriller"
+    ],
+    "duration": 5760,
+    "releaseDate": "2026-04-24",
+    "posterURL": "https://image.tmdb.org/t/p/w780/wZJOOGbnqTJ2vxkaaLBBDHZVOuy.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.bargains/images/ab17c57e-146d-4aa5-8c47-3f01ba4f93ee.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/bnQl8P74NUBOk7v4Kw2ND8Aqh1s.png",
+    "rating": 6.8,
+    "status": "ended",
     "language": "it"
   },
   {
@@ -206,120 +337,9 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/mPFwg9BjfgSFcINA0U7i1lpQAIS.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.organic/images/d648da91-9e74-419b-87cc-9b7492cd8165.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.bargains/images/d648da91-9e74-419b-87cc-9b7492cd8165.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/mvqhRHAzZKCVr24OIfK5LHJDSwU.png",
     "rating": 8.3,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "6119-la-legge-di-lidia-poet",
-    "kind": "series",
-    "title": "La legge di Lidia Poët",
-    "overview": "Nella Torino di fine ‘800 la giovane Lidia Poët combatte contro tutto e tutti per ottenere ciò che le spetta di diritto: entrare a far parte dell’Ordine degli avvocati. Un mestiere, al tempo, riservato esclusivamente agli uomini. Nonostante ciò, niente è riuscito a fermare il suo sogno di diventare la prima avvocata d’Italia.",
-    "genres": [
-      "Dramma",
-      "Crime",
-      "War & Politics"
-    ],
-    "duration": 0,
-    "releaseDate": "2023-02-15",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": "Stagione 2"
-      },
-      {
-        "number": 3,
-        "name": "Stagione 3"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/922Vj9vNSt4txNRCscWYWcV7wKQ.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.organic/images/9cb334f7-9943-45f3-94cf-c00e6bd9c280.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/oCAzAO6PRhfcFegQFcysAcxRKzN.png",
-    "rating": 7.9,
-    "status": "ended",
-    "language": "it"
-  },
-  {
-    "id": "4326-i-cesaroni",
-    "kind": "series",
-    "title": "I Cesaroni",
-    "overview": "Le sorprese non mancano mai quando si tratta dei Cesaroni, la simpatica famiglia allargata dal grande cuore amata da tantissimi italiani.",
-    "genres": [
-      "Dramma"
-    ],
-    "duration": 0,
-    "releaseDate": "2006-01-01",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": null
-      },
-      {
-        "number": 3,
-        "name": null
-      },
-      {
-        "number": 4,
-        "name": null
-      },
-      {
-        "number": 5,
-        "name": null
-      },
-      {
-        "number": 6,
-        "name": null
-      },
-      {
-        "number": 7,
-        "name": "Il ritorno"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/9IsZ9hKg7eXA11AYbPl0H4nORx.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.organic/images/36135003-a929-4c3c-8e6d-679ddf6c0f5b.webp",
-    "logoURL": "https://cdn.streamingcommunityz.organic/images/eff313d9-24c7-4aa0-8e31-1a8c773c6fa0.webp",
-    "rating": 7.1,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "49-euphoria",
-    "kind": "series",
-    "title": "Euphoria",
-    "overview": "Un gruppo di liceali si trova alle prime armi con droghe, sesso, identità, traumi, amore e amicizia.",
-    "genres": [
-      "Dramma"
-    ],
-    "duration": 0,
-    "releaseDate": "2019-06-16",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": null
-      },
-      {
-        "number": 3,
-        "name": "Stagione 3"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/gDGJdZ41jNM8NbOYQY2KKRQOONf.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.organic/images/81ed052c-89f6-40d2-a26f-b33e2b7ffdf8.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/hp9ztcz0fMyztCKeQmNQg0F5dao.png",
-    "rating": 8.5,
     "status": "airing",
     "language": "it"
   }
