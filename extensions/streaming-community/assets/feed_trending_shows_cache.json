@@ -25,9 +25,9 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/ipj4SerOtCTdIEqMuerAohD6Hfv.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.company/images/a0dac6df-7821-4300-912f-33139cb8e62b.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.loans/images/a0dac6df-7821-4300-912f-33139cb8e62b.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/orJ5TfInOu5CzgFIDs4avqEg0wu.png",
-    "rating": 8.4,
+    "rating": 8.5,
     "status": "airing",
     "language": "it"
   },
@@ -54,7 +54,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/VRFzLzh8jI6AbvOZUa7WUlwU4c.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.company/images/219e4aab-e109-4a99-85a8-5992df5b13d6.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.loans/images/219e4aab-e109-4a99-85a8-5992df5b13d6.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/pzZ326i9mowUUjzL78mheWly5ka.png",
     "rating": 7.9,
     "status": "airing",
@@ -87,8 +87,44 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/elwO2VlWzvUWsGGeeypZzpa61Jm.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.company/images/214458ce-f7a3-4f49-b088-b4d0d7515052.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/sWW8VURTOT0yVLS6Jlxw6BQQUSZ.png",
+    "backdropURL": "https://cdn.streamingcommunityz.loans/images/214458ce-f7a3-4f49-b088-b4d0d7515052.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/14UIbr8ETzGnDe0eB2NUiJovg3o.png",
+    "rating": 8.6,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "7858-la-leggenda-di-vox-machina",
+    "kind": "series",
+    "title": "La leggenda di Vox Machina",
+    "overview": "Sono chiassosi, sgangherati, sbandati reinventatisi mercenari. I Vox Machina sono più interessati ai soldi facili e alla birra scadente che a proteggere il reame. Ma quando il male minaccia il regno, i membri della banda capiscono di essere gli unici in grado di ristabilire la giustizia. Quello che sembrava un lavoretto da niente darà così origine alla leggenda dei nuovi eroi di Exadria.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Animazione"
+    ],
+    "duration": 0,
+    "releaseDate": "2022-01-27",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": null
+      },
+      {
+        "number": 3,
+        "name": null
+      },
+      {
+        "number": 4,
+        "name": "Stagione 4"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/3KhlyVFNOxB5ixayxdyXWJMcvXL.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.loans/images/dffc8821-38d8-4fcd-b0a1-7888661b17d6.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/2NOw7k8OlpPoqtPR8TOpFyWnHEu.png",
     "rating": 8.6,
     "status": "airing",
     "language": "it"
@@ -112,9 +148,9 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/w1qSVPEDE8EeBSNY6EPpAMMKMNN.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.company/images/d2569aeb-499d-449a-aa00-8d506a479bfd.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.loans/images/d2569aeb-499d-449a-aa00-8d506a479bfd.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/5Npjx9Hx9qCJvgbNROEQDOHkVoL.png",
-    "rating": 4.3,
+    "rating": 8.6,
     "status": "ended",
     "language": "it"
   },
@@ -136,10 +172,10 @@
         "name": "Stagione 1"
       }
     ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/yAp7MKnHKHs8IoZapi08iw2CMjI.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.company/images/eb8a38c2-df49-4ac1-9266-bbdf8af6dbfc.webp",
+    "posterURL": "https://image.tmdb.org/t/p/w780/iZdvO7DMBNEE66iB1XvRROxdeCg.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.loans/images/eb8a38c2-df49-4ac1-9266-bbdf8af6dbfc.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/o2D8loRUDlEuOf7BMRgulerNJ6p.png",
-    "rating": 4.2,
+    "rating": 8.6,
     "status": "airing",
     "language": "it"
   },
@@ -165,7 +201,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/icRSmMkZm1mMuWV2gwgbF7G9zBo.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.company/images/76c42473-c898-436b-a8ba-cbfb29bdeed8.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.loans/images/76c42473-c898-436b-a8ba-cbfb29bdeed8.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/vZGEaIu4rysigQKJsFbXD1SDsWO.png",
     "rating": 7.6,
     "status": "airing",
@@ -262,7 +298,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/5stNABYgkHNPaLyIked3rm5pgJk.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.company/images/b080a5c6-f853-4ff1-966c-de87877f4d64.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.loans/images/b080a5c6-f853-4ff1-966c-de87877f4d64.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/9VC9UnI0boUygE4AofkzmvocEbh.png",
     "rating": 8.6,
     "status": "airing",
@@ -320,7 +356,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/pxxDpZ5phLLRK4YaZZvcnK1IKxa.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.company/images/69965999-acaa-4e46-8496-e6e3ab053220.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.loans/images/69965999-acaa-4e46-8496-e6e3ab053220.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/wq3wqFLwwqnhG6DxmSji9ehLcx6.png",
     "rating": 9.1,
     "status": "airing",
@@ -371,7 +407,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/sgATaLc38ashwNwgMcDhdFVx8LM.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.company/images/bb7e8acb-aff1-44e4-ba3c-f343906f36c8.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.loans/images/bb7e8acb-aff1-44e4-ba3c-f343906f36c8.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/sLAZfiamcuFB9i8EGamPHJdCjDe.png",
     "rating": 8.2,
     "status": "airing",
