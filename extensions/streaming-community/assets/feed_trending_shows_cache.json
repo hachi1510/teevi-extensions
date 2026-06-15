@@ -25,7 +25,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/ipj4SerOtCTdIEqMuerAohD6Hfv.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.loans/images/a0dac6df-7821-4300-912f-33139cb8e62b.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.eu/images/a0dac6df-7821-4300-912f-33139cb8e62b.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/orJ5TfInOu5CzgFIDs4avqEg0wu.png",
     "rating": 8.5,
     "status": "airing",
@@ -54,7 +54,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/VRFzLzh8jI6AbvOZUa7WUlwU4c.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.loans/images/219e4aab-e109-4a99-85a8-5992df5b13d6.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.eu/images/219e4aab-e109-4a99-85a8-5992df5b13d6.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/pzZ326i9mowUUjzL78mheWly5ka.png",
     "rating": 7.9,
     "status": "airing",
@@ -87,9 +87,178 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/elwO2VlWzvUWsGGeeypZzpa61Jm.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.loans/images/214458ce-f7a3-4f49-b088-b4d0d7515052.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.eu/images/214458ce-f7a3-4f49-b088-b4d0d7515052.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/14UIbr8ETzGnDe0eB2NUiJovg3o.png",
     "rating": 8.6,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "3969-power-book-iii-raising-kanan",
+    "kind": "series",
+    "title": "Power Book III: Raising Kanan",
+    "overview": "Ambientato a South Jamaica, nel Queens, nel 1991, \"Raising Kanan\" è un prequel del franchise \"Power\". È un dramma familiare che ruota attorno alla crescita di Kanan Stark.",
+    "genres": [
+      "Dramma"
+    ],
+    "duration": 0,
+    "releaseDate": "2021-07-18",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": null
+      },
+      {
+        "number": 3,
+        "name": null
+      },
+      {
+        "number": 4,
+        "name": null
+      },
+      {
+        "number": 5,
+        "name": "Stagione 5"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/iplf7GYQZh5WwhkTia5FSDi2X6J.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.eu/images/8a4a8ab1-6534-48c2-beda-3c0bd6336516.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/lox5YlGkTo3b4TBOc5qdSJjzrsx.png",
+    "rating": 8.4,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "4499-il-colore-delle-magnolie",
+    "kind": "series",
+    "title": "Il colore delle magnolie",
+    "overview": "Nella piccola città di Serenity, le grandi amiche Maddie, Helen e Dana Sue si sostengono a vicenda destreggiandosi tra relazioni sentimentali, famiglia e carriera.",
+    "genres": [
+      "Dramma"
+    ],
+    "duration": 0,
+    "releaseDate": "2020-05-19",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": null
+      },
+      {
+        "number": 3,
+        "name": "Stagione 3"
+      },
+      {
+        "number": 4,
+        "name": null
+      },
+      {
+        "number": 5,
+        "name": "Stagione 5"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/3O9Nm2iMcjQGhjM2e4XOKwCBh95.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.eu/images/774ce104-d434-482e-a728-99cdc86029de.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/dr5rjIvLW817wA4iobrSuVIS4AK.png",
+    "rating": 8,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "11381-storia-della-mia-famiglia",
+    "kind": "series",
+    "title": "Storia della mia famiglia",
+    "overview": "Un padre malato terminale prepara la sua caotica famiglia a occuparsi dei suoi due figli e ad affrontare la vita senza di lui. Ma prima, dovranno seppellire vecchi rancori.",
+    "genres": [
+      "Dramma",
+      "Commedia"
+    ],
+    "duration": 0,
+    "releaseDate": "2025-02-19",
+    "seasons": [
+      {
+        "number": 1,
+        "name": "Storia della mia famiglia"
+      },
+      {
+        "number": 2,
+        "name": "Stagione 2"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/nahzZem4kx2gvmGsYnHLPbMhXHV.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.eu/images/9924f416-61fb-43bc-8b5b-f16f470d5a7f.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/whI9EptLQ2Cm0Qo3ui2SUwCAS20.png",
+    "rating": 7.8,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "60346-un-anno-dopo-laltro",
+    "kind": "series",
+    "title": "Un anno dopo l'altro",
+    "overview": "\"Un anno dopo l'altro\" di Carley Fortune è una storia romantica e nostalgica sui primi amori, le persone e le scelte che ci segnano per sempre.",
+    "genres": [
+      "Dramma"
+    ],
+    "duration": 0,
+    "releaseDate": "2026-06-10",
+    "seasons": [
+      {
+        "number": 1,
+        "name": "Stagione 1"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/w1F3Ar3nsAYZa7gHEXcetL7J7Zf.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.eu/images/5df0c49d-a776-4bca-9624-4d6259893685.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/fGAYIk2korXRooUzha3oKN1jMJ.png",
+    "rating": 8.5,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "8173-la-fattoria-clarkson",
+    "kind": "series",
+    "title": "La fattoria Clarkson",
+    "overview": "Segui Jeremy Clarkson mentre intraprende la sua ultima avventura, l'agricoltura. L'uomo che in diverse occasioni afferma di essere allergico al lavoro manuale assume il lavoro manuale più intensivo che ci sia. Che cosa potrebbe andare storto?",
+    "genres": [
+      "Commedia",
+      "Reality"
+    ],
+    "duration": 0,
+    "releaseDate": "2021-06-11",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": null
+      },
+      {
+        "number": 3,
+        "name": null
+      },
+      {
+        "number": 4,
+        "name": "Season 4"
+      },
+      {
+        "number": 5,
+        "name": "Stagione 5"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/o72A6pSMKHV6cYquzt0EW91aX7W.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.eu/images/82e9f821-b830-4166-ac7a-0eb6ff075299.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/5jmnGDcVsT6w2zr16GQBuRHpMIv.png",
+    "rating": 9.1,
     "status": "airing",
     "language": "it"
   },
@@ -123,7 +292,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/3KhlyVFNOxB5ixayxdyXWJMcvXL.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.loans/images/dffc8821-38d8-4fcd-b0a1-7888661b17d6.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.eu/images/dffc8821-38d8-4fcd-b0a1-7888661b17d6.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/2NOw7k8OlpPoqtPR8TOpFyWnHEu.png",
     "rating": 8.6,
     "status": "airing",
@@ -148,269 +317,10 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/w1qSVPEDE8EeBSNY6EPpAMMKMNN.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.loans/images/d2569aeb-499d-449a-aa00-8d506a479bfd.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.eu/images/d2569aeb-499d-449a-aa00-8d506a479bfd.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/5Npjx9Hx9qCJvgbNROEQDOHkVoL.png",
     "rating": 8.6,
     "status": "ended",
-    "language": "it"
-  },
-  {
-    "id": "55357-spider-noir",
-    "kind": "series",
-    "title": "Spider-Noir",
-    "overview": "Un investigatore privato invecchiato e sfortunato nella New York degli anni '30 è costretto a fare i conti con la sua vita passata come l'unico e solo supereroe della città.",
-    "genres": [
-      "Crime",
-      "Mistero",
-      "Action & Adventure"
-    ],
-    "duration": 0,
-    "releaseDate": "2026-05-27",
-    "seasons": [
-      {
-        "number": 1,
-        "name": "Stagione 1"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/iZdvO7DMBNEE66iB1XvRROxdeCg.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.loans/images/eb8a38c2-df49-4ac1-9266-bbdf8af6dbfc.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/o2D8loRUDlEuOf7BMRgulerNJ6p.png",
-    "rating": 8.6,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "9424-come-uccidono-le-brave-ragazze",
-    "kind": "series",
-    "title": "Come uccidono le brave ragazze",
-    "overview": "Una studentessa decide di scoprire la verità e trovare il vero responsabile dell'omicidio di una diciassettenne avvenuto cinque anni prima in una tranquilla cittadina inglese.",
-    "genres": [
-      "Crime",
-      "Mistero"
-    ],
-    "duration": 0,
-    "releaseDate": "2024-07-10",
-    "seasons": [
-      {
-        "number": 1,
-        "name": "Come uccidono le brave ragazze"
-      },
-      {
-        "number": 2,
-        "name": "Stagione 2"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/icRSmMkZm1mMuWV2gwgbF7G9zBo.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.loans/images/76c42473-c898-436b-a8ba-cbfb29bdeed8.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/vZGEaIu4rysigQKJsFbXD1SDsWO.png",
-    "rating": 7.6,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "6961-criminal-minds",
-    "kind": "series",
-    "title": "Criminal Minds",
-    "overview": "Criminal Minds è una serie poliziesca incentrata sull'Unità di analisi criminale (BAU) che ha sede presso l'accademia dell'FBI a Quantico, in Virginia. L'unità è composta da psichiatri, psicologi e criminologi in grado di “pensare” come gli S.I., sigla che utilizzano per indicare i “soggetti ignoti” che compiono delitti seriali sui quali sono chiamati ad indagare. La squadra interviene in ogni località degli Stati Uniti ogni qual volta si sospetti che i delitti possano essere opera di un serial killer, lavora stilando un profilo psicologico del S.I. in modo da anticiparne le mosse e catturarlo. La squadra è formata da diversi elementi, ognuno con un suo ruolo ben preciso: c'è chi ha l'incarico di indagare sul campo parlando con le famiglie e relazionandosi con le forze di polizia locale, chi si immedesima nel killer per comprenderlo, chi fa ricerche sui soggetti coinvolti. Ovviamente vengono analizzate anche le relazioni tra i vari personaggi.",
-    "genres": [
-      "Dramma",
-      "Crime",
-      "Mistero"
-    ],
-    "duration": 0,
-    "releaseDate": "2005-09-22",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": null
-      },
-      {
-        "number": 3,
-        "name": null
-      },
-      {
-        "number": 4,
-        "name": null
-      },
-      {
-        "number": 5,
-        "name": null
-      },
-      {
-        "number": 6,
-        "name": null
-      },
-      {
-        "number": 7,
-        "name": null
-      },
-      {
-        "number": 8,
-        "name": null
-      },
-      {
-        "number": 9,
-        "name": null
-      },
-      {
-        "number": 10,
-        "name": null
-      },
-      {
-        "number": 11,
-        "name": null
-      },
-      {
-        "number": 12,
-        "name": null
-      },
-      {
-        "number": 13,
-        "name": null
-      },
-      {
-        "number": 14,
-        "name": null
-      },
-      {
-        "number": 15,
-        "name": null
-      },
-      {
-        "number": 16,
-        "name": null
-      },
-      {
-        "number": 17,
-        "name": null
-      },
-      {
-        "number": 18,
-        "name": "Stagione 18"
-      },
-      {
-        "number": 19,
-        "name": "Stagione 19"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/5stNABYgkHNPaLyIked3rm5pgJk.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.loans/images/b080a5c6-f853-4ff1-966c-de87877f4d64.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/9VC9UnI0boUygE4AofkzmvocEbh.png",
-    "rating": 8.6,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "115-rick-and-morty",
-    "kind": "series",
-    "title": "Rick and Morty",
-    "overview": "Il brillante scienziato ubriacone Rick va alla scoperta di altri mondi e dimensioni insieme a Morty, il suo inquieto nipote adolescente.",
-    "genres": [
-      "Sci-Fi & Fantasy",
-      "Commedia",
-      "Action & Adventure",
-      "Animazione"
-    ],
-    "duration": 0,
-    "releaseDate": "2013-01-01",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": null
-      },
-      {
-        "number": 3,
-        "name": null
-      },
-      {
-        "number": 4,
-        "name": null
-      },
-      {
-        "number": 5,
-        "name": null
-      },
-      {
-        "number": 6,
-        "name": null
-      },
-      {
-        "number": 7,
-        "name": null
-      },
-      {
-        "number": 8,
-        "name": "Stagione 8"
-      },
-      {
-        "number": 9,
-        "name": "Stagione 9"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/pxxDpZ5phLLRK4YaZZvcnK1IKxa.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.loans/images/69965999-acaa-4e46-8496-e6e3ab053220.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/wq3wqFLwwqnhG6DxmSji9ehLcx6.png",
-    "rating": 9.1,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "6641-the-chi",
-    "kind": "series",
-    "title": "The Chi",
-    "overview": "Una storia di formazione tempestiva e distintiva che segue una mezza dozzina di personaggi interconnessi nel South Side di Chicago. La storia è incentrata su Brandon, un giovane ambizioso e sicuro di sé che sogna di aprire un giorno un ristorante tutto suo, ma è in conflitto tra la promessa di una nuova vita e la sua responsabilità nei confronti della madre e del fratello adolescente nel South Side.",
-    "genres": [
-      "Dramma"
-    ],
-    "duration": 0,
-    "releaseDate": "2018-01-07",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": null
-      },
-      {
-        "number": 3,
-        "name": null
-      },
-      {
-        "number": 4,
-        "name": null
-      },
-      {
-        "number": 5,
-        "name": null
-      },
-      {
-        "number": 6,
-        "name": "Stagione 6"
-      },
-      {
-        "number": 7,
-        "name": "Stagione 7"
-      },
-      {
-        "number": 8,
-        "name": "Stagione 8"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/sgATaLc38ashwNwgMcDhdFVx8LM.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.loans/images/bb7e8acb-aff1-44e4-ba3c-f343906f36c8.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/sLAZfiamcuFB9i8EGamPHJdCjDe.png",
-    "rating": 8.2,
-    "status": "airing",
     "language": "it"
   }
 ]
