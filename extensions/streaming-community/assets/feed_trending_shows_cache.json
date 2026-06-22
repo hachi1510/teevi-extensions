@@ -25,7 +25,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/ipj4SerOtCTdIEqMuerAohD6Hfv.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.eu/images/a0dac6df-7821-4300-912f-33139cb8e62b.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.us/images/a0dac6df-7821-4300-912f-33139cb8e62b.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/orJ5TfInOu5CzgFIDs4avqEg0wu.png",
     "rating": 8.5,
     "status": "airing",
@@ -54,7 +54,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/VRFzLzh8jI6AbvOZUa7WUlwU4c.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.eu/images/219e4aab-e109-4a99-85a8-5992df5b13d6.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.us/images/219e4aab-e109-4a99-85a8-5992df5b13d6.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/pzZ326i9mowUUjzL78mheWly5ka.png",
     "rating": 7.9,
     "status": "airing",
@@ -87,10 +87,82 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/elwO2VlWzvUWsGGeeypZzpa61Jm.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.eu/images/214458ce-f7a3-4f49-b088-b4d0d7515052.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.us/images/214458ce-f7a3-4f49-b088-b4d0d7515052.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/14UIbr8ETzGnDe0eB2NUiJovg3o.png",
     "rating": 8.6,
     "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "10635-the-agency",
+    "kind": "series",
+    "title": "The Agency",
+    "overview": "A Martian, agente segreto della CIA, viene ordinato di rientrare alla Stazione di Londra. Quando la donna che ha lasciato riappare inaspettatamente, il loro amore si riaccende, gettandoli in un gioco mortale di intrighi internazionali e spionaggio.",
+    "genres": [
+      "Dramma"
+    ],
+    "duration": 0,
+    "releaseDate": "2024-11-29",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": "Stagione 2"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/4CkhxBUku70a0fojMR6mgTooJBq.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.us/images/00aebbb2-07c5-4e23-a41e-93c332764e57.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/vDK6y1nc8p1f9LlPmEiM3LjkHVv.png",
+    "rating": 7.5,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "8165-sugar",
+    "kind": "series",
+    "title": "Sugar",
+    "overview": "Un enigmatico investigatore privato lotta contro i propri demoni mentre indaga sulla scomparsa dell’amata nipote di un produttore di Hollywood.",
+    "genres": [
+      "Dramma"
+    ],
+    "duration": 0,
+    "releaseDate": "2024-04-04",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": "Stagione 2"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/sTDz79zbLFhp4ZqfzwkU0I0r8KJ.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.us/images/1e8ea6a0-e947-40e3-aed2-7d7cb531a591.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/aI4S5hnkzpX7TN8xwCx50CMEMDj.png",
+    "rating": 7.7,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "60264-e-colpa-tua-londra",
+    "kind": "movie",
+    "title": "È colpa tua: Londra",
+    "overview": "Nick e Noah stanno entrambi intraprendendo avventure che cambieranno la loro vita e che minacciano di allontanarli: Nick negli affari con suo padre e Noah che inizia un nuovo capitolo all'Università di Oxford. Ora vivono vite separate e incontrano nuove persone, si ritrovano invischiati in tentazioni, rivalità e tradimenti e il loro legame viene messo alla prova come mai prima d'ora. Mentre i segreti si svelano e la tentazione aumenta, devono lottare per aggrapparsi l'uno all'altro, o rischiare di perdere tutto.",
+    "genres": [
+      "Dramma",
+      "Romance"
+    ],
+    "duration": 7440,
+    "releaseDate": "2026-06-17",
+    "posterURL": "https://image.tmdb.org/t/p/w780/l4vIIKwGbO4CKScNP45UjDwXr1E.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.us/images/02a52ef8-2e08-4beb-88da-a84a0a10c059.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/qdSB8vvIb4VHqmWBgliOcJZ5rd1.png",
+    "rating": 4.6,
+    "status": "upcoming",
     "language": "it"
   },
   {
@@ -126,8 +198,98 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/iplf7GYQZh5WwhkTia5FSDi2X6J.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.eu/images/8a4a8ab1-6534-48c2-beda-3c0bd6336516.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.us/images/8a4a8ab1-6534-48c2-beda-3c0bd6336516.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/lox5YlGkTo3b4TBOc5qdSJjzrsx.png",
+    "rating": 8.4,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "3395-spongebob",
+    "kind": "series",
+    "title": "SpongeBob",
+    "overview": "Chi vive in un ananas in fondo al mare? È Spongebob Squarepants, la spugna più simpatica di tutta Bikini Bottom. Cucina i migliori Krabby Patty del ristorante Krusty Krab e con il suo amico Patrick Stella riesce sempre a vivere folli avventure.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Commedia",
+      "Famiglia",
+      "Animazione"
+    ],
+    "duration": 0,
+    "releaseDate": "2005-01-01",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": null
+      },
+      {
+        "number": 3,
+        "name": null
+      },
+      {
+        "number": 4,
+        "name": null
+      },
+      {
+        "number": 5,
+        "name": null
+      },
+      {
+        "number": 6,
+        "name": null
+      },
+      {
+        "number": 7,
+        "name": null
+      },
+      {
+        "number": 8,
+        "name": null
+      },
+      {
+        "number": 9,
+        "name": null
+      },
+      {
+        "number": 10,
+        "name": null
+      },
+      {
+        "number": 11,
+        "name": null
+      },
+      {
+        "number": 12,
+        "name": null
+      },
+      {
+        "number": 13,
+        "name": null
+      },
+      {
+        "number": 14,
+        "name": null
+      },
+      {
+        "number": 15,
+        "name": "Stagione 15"
+      },
+      {
+        "number": 16,
+        "name": "Stagione 16"
+      },
+      {
+        "number": 17,
+        "name": "Stagione 17"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/xFUl1CVkOYAqG3zLhLD3Dw1wZM1.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.us/images/6016f371-c18f-4692-b6df-159acc0a95b3.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/imM7dqtVl070IIKyOqzOHmHFXqq.png",
     "rating": 8.4,
     "status": "airing",
     "language": "it"
@@ -165,7 +327,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/3O9Nm2iMcjQGhjM2e4XOKwCBh95.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.eu/images/774ce104-d434-482e-a728-99cdc86029de.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.us/images/774ce104-d434-482e-a728-99cdc86029de.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/dr5rjIvLW817wA4iobrSuVIS4AK.png",
     "rating": 8,
     "status": "airing",
@@ -193,134 +355,10 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/nahzZem4kx2gvmGsYnHLPbMhXHV.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.eu/images/9924f416-61fb-43bc-8b5b-f16f470d5a7f.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.us/images/9924f416-61fb-43bc-8b5b-f16f470d5a7f.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/whI9EptLQ2Cm0Qo3ui2SUwCAS20.png",
     "rating": 7.8,
     "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "60346-un-anno-dopo-laltro",
-    "kind": "series",
-    "title": "Un anno dopo l'altro",
-    "overview": "\"Un anno dopo l'altro\" di Carley Fortune è una storia romantica e nostalgica sui primi amori, le persone e le scelte che ci segnano per sempre.",
-    "genres": [
-      "Dramma"
-    ],
-    "duration": 0,
-    "releaseDate": "2026-06-10",
-    "seasons": [
-      {
-        "number": 1,
-        "name": "Stagione 1"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/w1F3Ar3nsAYZa7gHEXcetL7J7Zf.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.eu/images/5df0c49d-a776-4bca-9624-4d6259893685.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/fGAYIk2korXRooUzha3oKN1jMJ.png",
-    "rating": 8.5,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "8173-la-fattoria-clarkson",
-    "kind": "series",
-    "title": "La fattoria Clarkson",
-    "overview": "Segui Jeremy Clarkson mentre intraprende la sua ultima avventura, l'agricoltura. L'uomo che in diverse occasioni afferma di essere allergico al lavoro manuale assume il lavoro manuale più intensivo che ci sia. Che cosa potrebbe andare storto?",
-    "genres": [
-      "Commedia",
-      "Reality"
-    ],
-    "duration": 0,
-    "releaseDate": "2021-06-11",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": null
-      },
-      {
-        "number": 3,
-        "name": null
-      },
-      {
-        "number": 4,
-        "name": "Season 4"
-      },
-      {
-        "number": 5,
-        "name": "Stagione 5"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/o72A6pSMKHV6cYquzt0EW91aX7W.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.eu/images/82e9f821-b830-4166-ac7a-0eb6ff075299.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/5jmnGDcVsT6w2zr16GQBuRHpMIv.png",
-    "rating": 9.1,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "7858-la-leggenda-di-vox-machina",
-    "kind": "series",
-    "title": "La leggenda di Vox Machina",
-    "overview": "Sono chiassosi, sgangherati, sbandati reinventatisi mercenari. I Vox Machina sono più interessati ai soldi facili e alla birra scadente che a proteggere il reame. Ma quando il male minaccia il regno, i membri della banda capiscono di essere gli unici in grado di ristabilire la giustizia. Quello che sembrava un lavoretto da niente darà così origine alla leggenda dei nuovi eroi di Exadria.",
-    "genres": [
-      "Sci-Fi & Fantasy",
-      "Animazione"
-    ],
-    "duration": 0,
-    "releaseDate": "2022-01-27",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": null
-      },
-      {
-        "number": 3,
-        "name": null
-      },
-      {
-        "number": 4,
-        "name": "Stagione 4"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/3KhlyVFNOxB5ixayxdyXWJMcvXL.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.eu/images/dffc8821-38d8-4fcd-b0a1-7888661b17d6.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/2NOw7k8OlpPoqtPR8TOpFyWnHEu.png",
-    "rating": 8.6,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "59053-due-spicci",
-    "kind": "series",
-    "title": "Due spicci",
-    "overview": "Quando Cinghiale finisce nei guai con una banda e una vecchia amica ha bisogno di un posto dove stare, tocca a Zero salvare la situazione. Chi l'avrebbe mai detto?",
-    "genres": [
-      "Dramma",
-      "Commedia",
-      "Animazione"
-    ],
-    "duration": 0,
-    "releaseDate": "2026-05-27",
-    "seasons": [
-      {
-        "number": 1,
-        "name": "Stagione 1"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/w1qSVPEDE8EeBSNY6EPpAMMKMNN.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.eu/images/d2569aeb-499d-449a-aa00-8d506a479bfd.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/5Npjx9Hx9qCJvgbNROEQDOHkVoL.png",
-    "rating": 8.6,
-    "status": "ended",
     "language": "it"
   }
 ]
