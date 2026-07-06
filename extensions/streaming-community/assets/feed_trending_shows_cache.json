@@ -25,9 +25,38 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/ipj4SerOtCTdIEqMuerAohD6Hfv.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.tech/images/a0dac6df-7821-4300-912f-33139cb8e62b.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.pl/images/a0dac6df-7821-4300-912f-33139cb8e62b.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/orJ5TfInOu5CzgFIDs4avqEg0wu.png",
     "rating": 8.5,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "8103-x-men-97",
+    "kind": "series",
+    "title": "X-Men '97",
+    "overview": "Un gruppo di mutanti usa le proprie doti incredibili per proteggere un mondo che li odia e li teme.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Action & Adventure",
+      "Animazione"
+    ],
+    "duration": 0,
+    "releaseDate": "2024-03-20",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": "Stagione 2"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/jjrS10kgtV5t1cdyBmbgPkDlMAm.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.pl/images/652b55a8-8a1f-4b0f-9ec3-93862b9e0274.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/i4O2d2EYfBCVFVIQaES16gchiMj.png",
+    "rating": 8.9,
     "status": "airing",
     "language": "it"
   },
@@ -54,7 +83,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/VRFzLzh8jI6AbvOZUa7WUlwU4c.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.tech/images/219e4aab-e109-4a99-85a8-5992df5b13d6.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.pl/images/219e4aab-e109-4a99-85a8-5992df5b13d6.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/gGdbg6Jwl6rM95BRAlf54EKNgHj.png",
     "rating": 7.9,
     "status": "airing",
@@ -93,8 +122,8 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/uuQycdQyixtS4EHKtUQpXtZvPki.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.tech/images/0fadec27-2f60-42b1-b1c6-9657924d7841.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/jcGdm5iDVVydRZtY3TnSbnymjFh.png",
+    "backdropURL": "https://cdn.streamingcommunityz.pl/images/0fadec27-2f60-42b1-b1c6-9657924d7841.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/8ZTz2Wj0lE5WoSOqRG8GarhhnY4.png",
     "rating": 8.5,
     "status": "ended",
     "language": "it"
@@ -124,7 +153,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/5dpwhzkt5Iyh59XpVWPbnMhwfRf.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.tech/images/ab68a239-aecd-4455-a160-1c69c402b20d.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.pl/images/ab68a239-aecd-4455-a160-1c69c402b20d.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/a9Y2XfKmbMoaMhN7cB8io4GF8tM.png",
     "rating": 7.2,
     "status": "airing",
@@ -157,7 +186,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/elwO2VlWzvUWsGGeeypZzpa61Jm.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.tech/images/214458ce-f7a3-4f49-b088-b4d0d7515052.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.pl/images/214458ce-f7a3-4f49-b088-b4d0d7515052.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/sWW8VURTOT0yVLS6Jlxw6BQQUSZ.png",
     "rating": 8.6,
     "status": "airing",
@@ -184,7 +213,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/4CkhxBUku70a0fojMR6mgTooJBq.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.tech/images/00aebbb2-07c5-4e23-a41e-93c332764e57.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.pl/images/00aebbb2-07c5-4e23-a41e-93c332764e57.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/vDK6y1nc8p1f9LlPmEiM3LjkHVv.png",
     "rating": 7.6,
     "status": "airing",
@@ -211,48 +240,9 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/sTDz79zbLFhp4ZqfzwkU0I0r8KJ.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.tech/images/1e8ea6a0-e947-40e3-aed2-7d7cb531a591.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.pl/images/1e8ea6a0-e947-40e3-aed2-7d7cb531a591.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/5RK1xYHGELAkLRkjcwJrCHomJSp.png",
     "rating": 7.6,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "3969-power-book-iii-raising-kanan",
-    "kind": "series",
-    "title": "Power Book III: Raising Kanan",
-    "overview": "Ambientato a South Jamaica, nel Queens, nel 1991, \"Raising Kanan\" è un prequel del franchise \"Power\". È un dramma familiare che ruota attorno alla crescita di Kanan Stark.",
-    "genres": [
-      "Dramma"
-    ],
-    "duration": 0,
-    "releaseDate": "2021-07-18",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": null
-      },
-      {
-        "number": 3,
-        "name": null
-      },
-      {
-        "number": 4,
-        "name": null
-      },
-      {
-        "number": 5,
-        "name": "Stagione 5"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/iplf7GYQZh5WwhkTia5FSDi2X6J.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.tech/images/8a4a8ab1-6534-48c2-beda-3c0bd6336516.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/lox5YlGkTo3b4TBOc5qdSJjzrsx.png",
-    "rating": 8.4,
     "status": "airing",
     "language": "it"
   }
