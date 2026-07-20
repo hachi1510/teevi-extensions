@@ -1,5 +1,85 @@
 [
   {
+    "id": "7989-the-gentlemen",
+    "kind": "series",
+    "title": "The Gentlemen",
+    "overview": "Quando l'aristocratico Eddie eredita le proprietà di famiglia, trova anche un enorme impero della marijuana... i cui proprietari non hanno nessuna intenzione di andarsene.",
+    "genres": [
+      "Crime",
+      "Commedia",
+      "Action & Adventure"
+    ],
+    "duration": 0,
+    "releaseDate": "2024-03-07",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": "Stagione 2"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/skiH7nzWDkNLlH1599SwO3UgCR4.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.red/images/68801718-dd6b-4429-9748-a9e401bb7634.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/zBaAxkdlFix1xcvEln6CuTdV64U.png",
+    "rating": 8.2,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "2747-all-american",
+    "kind": "series",
+    "title": "All American",
+    "overview": "Due mondi completamente opposti si scontrano quando un giocatore di football del difficile quartiere di Compton viene chiamato a far parte della squadra del liceo di Beverly Hills.",
+    "genres": [
+      "Dramma"
+    ],
+    "duration": 0,
+    "releaseDate": "2018-10-10",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": null
+      },
+      {
+        "number": 3,
+        "name": null
+      },
+      {
+        "number": 4,
+        "name": null
+      },
+      {
+        "number": 5,
+        "name": null
+      },
+      {
+        "number": 6,
+        "name": null
+      },
+      {
+        "number": 7,
+        "name": "Stagione 7"
+      },
+      {
+        "number": 8,
+        "name": "Stagione 8"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/m8RJrcr3ry17AKYkUcelmBd0VKw.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.red/images/a5b6989f-f7d1-4a79-a0de-9015dd693e4b.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/59nbKOUowyaiugxknYSCeGFNRDk.png",
+    "rating": 8.3,
+    "status": "airing",
+    "language": "it"
+  },
+  {
     "id": "6343-silo",
     "kind": "series",
     "title": "Silo",
@@ -24,8 +104,8 @@
         "name": "Stagione 3"
       }
     ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/ipj4SerOtCTdIEqMuerAohD6Hfv.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.pizza/images/a0dac6df-7821-4300-912f-33139cb8e62b.webp",
+    "posterURL": "https://image.tmdb.org/t/p/w780/bhujlLfcdfHNWKDLYqeDdYLcuKZ.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.red/images/a0dac6df-7821-4300-912f-33139cb8e62b.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/orJ5TfInOu5CzgFIDs4avqEg0wu.png",
     "rating": 8.5,
     "status": "airing",
@@ -49,9 +129,9 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/waRNtkZ7JfmXUlrKF6boDm590EC.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.pizza/images/bc3af898-3b7d-4964-a9a6-c6dab8add737.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.red/images/bc3af898-3b7d-4964-a9a6-c6dab8add737.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/eKIz4O3OGCuyzivg2HHLwJUdSTx.png",
-    "rating": 8.1,
+    "rating": 8,
     "status": "airing",
     "language": "it"
   },
@@ -68,8 +148,8 @@
     "duration": 6300,
     "releaseDate": "2026-07-01",
     "posterURL": "https://image.tmdb.org/t/p/w780/trAmoofuqeGZYZyu0caG1u9NvDU.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.pizza/images/629b214a-87c9-4052-9fb9-eb4a6f25c8d8.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/nOpNbY1onMAJsbu35S6BjDbo3v9.png",
+    "backdropURL": "https://cdn.streamingcommunityz.red/images/629b214a-87c9-4052-9fb9-eb4a6f25c8d8.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/pVeJDWwmgXID7Bs8u0d21pr55Oj.png",
     "rating": 7.5,
     "status": "upcoming",
     "language": "it"
@@ -97,7 +177,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/jjrS10kgtV5t1cdyBmbgPkDlMAm.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.pizza/images/652b55a8-8a1f-4b0f-9ec3-93862b9e0274.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.red/images/652b55a8-8a1f-4b0f-9ec3-93862b9e0274.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/i4O2d2EYfBCVFVIQaES16gchiMj.png",
     "rating": 8.9,
     "status": "airing",
@@ -126,7 +206,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/VRFzLzh8jI6AbvOZUa7WUlwU4c.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.pizza/images/219e4aab-e109-4a99-85a8-5992df5b13d6.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.red/images/219e4aab-e109-4a99-85a8-5992df5b13d6.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/gGdbg6Jwl6rM95BRAlf54EKNgHj.png",
     "rating": 7.9,
     "status": "airing",
@@ -165,7 +245,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/uuQycdQyixtS4EHKtUQpXtZvPki.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.pizza/images/0fadec27-2f60-42b1-b1c6-9657924d7841.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.red/images/0fadec27-2f60-42b1-b1c6-9657924d7841.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/8ZTz2Wj0lE5WoSOqRG8GarhhnY4.png",
     "rating": 8.5,
     "status": "ended",
@@ -184,74 +264,10 @@
     "duration": 6480,
     "releaseDate": "2026-06-24",
     "posterURL": "https://image.tmdb.org/t/p/w780/pu1HUNDeqn3q0Llcpn9dq1GesBj.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.pizza/images/c97cc94e-ecd5-44f6-8602-29825728daf6.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.red/images/c97cc94e-ecd5-44f6-8602-29825728daf6.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/sOKyZ1al829AnlmjWoghvzXFbQ6.png",
-    "rating": 6.4,
+    "rating": 6.3,
     "status": "upcoming",
-    "language": "it"
-  },
-  {
-    "id": "7544-nuova-scena",
-    "kind": "series",
-    "title": "Nuova Scena",
-    "overview": "In questo rap show Fabri Fibra, Geolier e Rose Villain vanno in cerca della nuova superstar della scena italiana partendo dalle strade di Roma, Napoli e Milano.",
-    "genres": [
-      "Reality"
-    ],
-    "duration": 0,
-    "releaseDate": "2024-02-19",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": null
-      },
-      {
-        "number": 3,
-        "name": "Stagione 3"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/5dpwhzkt5Iyh59XpVWPbnMhwfRf.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.pizza/images/ab68a239-aecd-4455-a160-1c69c402b20d.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/a9Y2XfKmbMoaMhN7cB8io4GF8tM.png",
-    "rating": 7.2,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "5431-house-of-the-dragon",
-    "kind": "series",
-    "title": "House of the Dragon",
-    "overview": "La serie prequel vede la dinastia Targaryen all'apice assoluto del suo potere, con più di 15 draghi sotto il loro giogo. La maggior parte degli imperi, che siano reali o immaginari, crollano quando raggiungono tali poteri e tali altezze. Nel caso dei Targaryen, la loro lenta caduta inizia quasi 193 anni prima degli eventi de Il Trono di Spade, quando re Viserys Targaryen rompe un secolo di tradizione nominando sua figlia Rhaenyra erede al Trono di Spade. La corte rimane scioccata quando Rhaenyra mantiene il suo status di erede nonostante Viserys in seguito avrà un figlio maschio, legittimo erede. Inizia così ad attecchire il seme della divisione e forti attriti in tutto il regno.",
-    "genres": [
-      "Dramma",
-      "Sci-Fi & Fantasy",
-      "Action & Adventure"
-    ],
-    "duration": 0,
-    "releaseDate": "2022-08-21",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": "Stagione 2"
-      },
-      {
-        "number": 3,
-        "name": "Stagione 3"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/elwO2VlWzvUWsGGeeypZzpa61Jm.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.pizza/images/214458ce-f7a3-4f49-b088-b4d0d7515052.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/sWW8VURTOT0yVLS6Jlxw6BQQUSZ.png",
-    "rating": 8.6,
-    "status": "airing",
     "language": "it"
   }
 ]
