@@ -22,10 +22,125 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/skiH7nzWDkNLlH1599SwO3UgCR4.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.red/images/68801718-dd6b-4429-9748-a9e401bb7634.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.today/images/68801718-dd6b-4429-9748-a9e401bb7634.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/zBaAxkdlFix1xcvEln6CuTdV64U.png",
     "rating": 8.2,
     "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "10396-the-walking-dead-dead-city",
+    "kind": "series",
+    "title": "The Walking Dead: Dead City",
+    "overview": "Maggie e Negan si recano nella Manhattan post-apocalittica, molto tempo fa tagliata fuori dalla terraferma. La città fatiscente è piena di morti e abitanti che l'hanno resa un mondo pieno di anarchia, pericolo, bellezza e terrore.",
+    "genres": [
+      "Dramma",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "duration": 0,
+    "releaseDate": "2023-06-18",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": "Season 2"
+      },
+      {
+        "number": 3,
+        "name": "Stagione 3"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/nauKZ9NxNBLttVV9USh021NJoZa.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.today/images/063e65d2-e16f-4e37-bbb2-ff0384084a1d.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/ybJWS5ax2iJjfJ22SwYEYXDXWrB.png",
+    "rating": 7.9,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "12052-ransom-canyon",
+    "kind": "series",
+    "title": "Ransom Canyon",
+    "overview": "Amore, mistero e rivalità spietate si scontrano in questo dramma ambientato in Texas con Josh Duhamel (\"Vicino a te non ho paura\") e Minka Kelly (\"Friday Night Lights\").",
+    "genres": [
+      "Dramma",
+      "Western"
+    ],
+    "duration": 0,
+    "releaseDate": "2025-04-17",
+    "seasons": [
+      {
+        "number": 1,
+        "name": "Ransom Canyon"
+      },
+      {
+        "number": 2,
+        "name": "Stagione 2"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/9QFGr9c1yX6WyRmTbP2tAXGmo5L.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.today/images/e4ee1107-8c8c-49c8-b686-d5e7c47c7b38.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/AbPYuiL273sraTirGuR1bqTRkii.png",
+    "rating": 7.4,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "5719-star-trek-strange-new-worlds",
+    "kind": "series",
+    "title": "Star Trek: Strange New Worlds",
+    "overview": "La serie segue i viaggi dell'astronave della Flotta Stellare USS Enterprise (NCC-1701), capitanata da Christopher Pike, durante la sua seconda missione quinquennale (2259-2264), ovvero quella che precede la missione quinquennale del capitano James T. Kirk narrata nella serie televisiva Star Trek. La serie prende il via dalla data stellare 1738.12 (2259), un paio d'anni dopo i fatti accaduti nella seconda stagione della serie televisiva Star Trek: Discovery, quando Pike ha capitanato temporaneamente la USS Discovery.",
+    "genres": [
+      "Sci-Fi & Fantasy"
+    ],
+    "duration": 0,
+    "releaseDate": "2022-05-05",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": null
+      },
+      {
+        "number": 3,
+        "name": "Stagione 3"
+      },
+      {
+        "number": 4,
+        "name": "Stagione 4"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/vMFxmogUUe5lhhzNnS59o51C77i.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.today/images/2682a29a-759d-45c6-a38d-fe44f33573bb.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/oTwnbowXtY08Ck9XnmaYoG7V5tI.png",
+    "rating": 8.4,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "55355-odissea",
+    "kind": "movie",
+    "title": "Odissea",
+    "overview": "Ulisse, il leggendario re greco di Itaca, intraprende un lungo e pericoloso viaggio verso casa dopo la guerra di Troia, raccontando i suoi incontri con esseri mitici come il ciclope Polifemo, le Sirene e la dea strega Circe.",
+    "genres": [
+      "Dramma",
+      "Fantasy",
+      "Avventura"
+    ],
+    "duration": 10380,
+    "releaseDate": "2026-07-15",
+    "posterURL": "https://image.tmdb.org/t/p/w780/3hdT7goVwwXFeir7e5wgByjzcV6.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.today/images/e6a830d8-6369-49c6-a7db-7170b47f4f24.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/kX6ZX4GL7km04332caiOVapR2lb.png",
+    "rating": 7.4,
+    "status": "upcoming",
     "language": "it"
   },
   {
@@ -73,7 +188,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/m8RJrcr3ry17AKYkUcelmBd0VKw.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.red/images/a5b6989f-f7d1-4a79-a0de-9015dd693e4b.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.today/images/a5b6989f-f7d1-4a79-a0de-9015dd693e4b.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/59nbKOUowyaiugxknYSCeGFNRDk.png",
     "rating": 8.3,
     "status": "airing",
@@ -105,7 +220,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/bhujlLfcdfHNWKDLYqeDdYLcuKZ.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.red/images/a0dac6df-7821-4300-912f-33139cb8e62b.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.today/images/a0dac6df-7821-4300-912f-33139cb8e62b.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/orJ5TfInOu5CzgFIDs4avqEg0wu.png",
     "rating": 8.5,
     "status": "airing",
@@ -129,9 +244,9 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/waRNtkZ7JfmXUlrKF6boDm590EC.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.red/images/bc3af898-3b7d-4964-a9a6-c6dab8add737.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.today/images/bc3af898-3b7d-4964-a9a6-c6dab8add737.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/eKIz4O3OGCuyzivg2HHLwJUdSTx.png",
-    "rating": 8,
+    "rating": 8.1,
     "status": "airing",
     "language": "it"
   },
@@ -148,125 +263,9 @@
     "duration": 6300,
     "releaseDate": "2026-07-01",
     "posterURL": "https://image.tmdb.org/t/p/w780/trAmoofuqeGZYZyu0caG1u9NvDU.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.red/images/629b214a-87c9-4052-9fb9-eb4a6f25c8d8.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.today/images/629b214a-87c9-4052-9fb9-eb4a6f25c8d8.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/pVeJDWwmgXID7Bs8u0d21pr55Oj.png",
-    "rating": 7.5,
-    "status": "upcoming",
-    "language": "it"
-  },
-  {
-    "id": "8103-x-men-97",
-    "kind": "series",
-    "title": "X-Men '97",
-    "overview": "Un gruppo di mutanti usa le proprie doti incredibili per proteggere un mondo che li odia e li teme.",
-    "genres": [
-      "Sci-Fi & Fantasy",
-      "Action & Adventure",
-      "Animazione"
-    ],
-    "duration": 0,
-    "releaseDate": "2024-03-20",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": "Stagione 2"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/jjrS10kgtV5t1cdyBmbgPkDlMAm.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.red/images/652b55a8-8a1f-4b0f-9ec3-93862b9e0274.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/i4O2d2EYfBCVFVIQaES16gchiMj.png",
-    "rating": 8.9,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "7821-avatar-la-leggenda-di-aang",
-    "kind": "series",
-    "title": "Avatar - La leggenda di Aang",
-    "overview": "Acqua, terra, fuoco e aria. Un tempo queste quattro nazioni andavano d'accordo, poi tutto è cambiato.",
-    "genres": [
-      "Dramma",
-      "Sci-Fi & Fantasy",
-      "Action & Adventure"
-    ],
-    "duration": 0,
-    "releaseDate": "2024-02-22",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": "Stagione 2"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/VRFzLzh8jI6AbvOZUa7WUlwU4c.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.red/images/219e4aab-e109-4a99-85a8-5992df5b13d6.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/gGdbg6Jwl6rM95BRAlf54EKNgHj.png",
-    "rating": 7.9,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "5669-the-bear",
-    "kind": "series",
-    "title": "The Bear",
-    "overview": "Carmen 'Carmy' Berzatto, una giovane chef del mondo della cucina raffinata, torna a casa a Chicago per gestire la sua paninoteca di famiglia dopo una morte straziante. Mentre Carmy combatte per trasformare il ristorante e se stesso, la sua squadra di cucina all'avanguardia si rivela alla fine come la sua famiglia prescelta.",
-    "genres": [
-      "Dramma"
-    ],
-    "duration": 0,
-    "releaseDate": "2022-06-23",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": null
-      },
-      {
-        "number": 3,
-        "name": "Stagione 3"
-      },
-      {
-        "number": 4,
-        "name": "Season 4"
-      },
-      {
-        "number": 5,
-        "name": "Stagione 5"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/uuQycdQyixtS4EHKtUQpXtZvPki.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.red/images/0fadec27-2f60-42b1-b1c6-9657924d7841.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/8ZTz2Wj0lE5WoSOqRG8GarhhnY4.png",
-    "rating": 8.5,
-    "status": "ended",
-    "language": "it"
-  },
-  {
-    "id": "60266-supergirl",
-    "kind": "movie",
-    "title": "Supergirl",
-    "overview": "Quando un avversario inaspettato e spietato colpisce troppo vicino a casa, Kara Zor-El, alias Supergirl, è costretta a stringere un’improbabile alleanza intraprendendo un’epica avventura interstellare all’insegna della vendetta e della giustizia.",
-    "genres": [
-      "Azione",
-      "Fantascienza",
-      "Avventura"
-    ],
-    "duration": 6480,
-    "releaseDate": "2026-06-24",
-    "posterURL": "https://image.tmdb.org/t/p/w780/pu1HUNDeqn3q0Llcpn9dq1GesBj.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.red/images/c97cc94e-ecd5-44f6-8602-29825728daf6.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/sOKyZ1al829AnlmjWoghvzXFbQ6.png",
-    "rating": 6.3,
+    "rating": 7.4,
     "status": "upcoming",
     "language": "it"
   }
