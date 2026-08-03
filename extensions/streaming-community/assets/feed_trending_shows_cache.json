@@ -22,9 +22,70 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/skiH7nzWDkNLlH1599SwO3UgCR4.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.today/images/68801718-dd6b-4429-9748-a9e401bb7634.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.support/images/68801718-dd6b-4429-9748-a9e401bb7634.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/zBaAxkdlFix1xcvEln6CuTdV64U.png",
     "rating": 8.2,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "6668-operazione-speciale-lioness",
+    "kind": "series",
+    "title": "Operazione speciale: Lioness",
+    "overview": "La vera storia del Lance Corporal Leslie Martz, un Marine degli Stati Uniti stazionato a Haditha, in Iraq. Martz fu il leader di una squadra formata da donne con il compito di ottenere la fiducia delle donne afgane e di fornirle le abilità necessarie per essere indipendenti e per estrarre segretamente informazioni dai mariti talebani. La Martz nascose di essere una lesbica nell'esercito ed era divisa dal desiderio di provare il suo valore ai suoi superiori e dall'alleanza con le donne e i bambini conosciuti sul luogo.",
+    "genres": [
+      "Dramma"
+    ],
+    "duration": 0,
+    "releaseDate": "2023-07-23",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": "Stagione 2"
+      },
+      {
+        "number": 3,
+        "name": "Stagione 3"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/o1a87xmigWwHB7DUwnmJEFkRM6p.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.support/images/f4eddd59-bf47-4734-a89c-291285be2ac9.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/2P3grUAMSp83H9Z1yLTNDq6zMq5.png",
+    "rating": 8.3,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "9423-batman-caped-crusader",
+    "kind": "series",
+    "title": "Batman: Caped Crusader",
+    "overview": "Forgiato da una tragedia familiare, il miliardario Bruce Wayne si trasforma in una creatura a metà tra l'umano e il sovrumano: BATMAN. Notte dopo notte, contro ogni avversità, porta avanti la sua implacabile e solitaria guerra al crimine.",
+    "genres": [
+      "Crime",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure",
+      "Animazione"
+    ],
+    "duration": 0,
+    "releaseDate": "2024-08-01",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": "Stagione 2"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/55bcMQcMQMoMYDqcG4IMEFYnb6I.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.support/images/eeaa680c-0b72-46c4-b9ce-c79ab982cdc8.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/vBQsA1hLbAcm5H8PI15OKDD1aNK.png",
+    "rating": 7.4,
     "status": "airing",
     "language": "it"
   },
@@ -54,8 +115,8 @@
         "name": "Stagione 3"
       }
     ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/nauKZ9NxNBLttVV9USh021NJoZa.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.today/images/063e65d2-e16f-4e37-bbb2-ff0384084a1d.webp",
+    "posterURL": "https://image.tmdb.org/t/p/w780/9T0PMyFRpgGTYpKzHokXX3APlXc.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.support/images/063e65d2-e16f-4e37-bbb2-ff0384084a1d.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/ybJWS5ax2iJjfJ22SwYEYXDXWrB.png",
     "rating": 7.9,
     "status": "airing",
@@ -83,7 +144,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/9QFGr9c1yX6WyRmTbP2tAXGmo5L.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.today/images/e4ee1107-8c8c-49c8-b686-d5e7c47c7b38.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.support/images/e4ee1107-8c8c-49c8-b686-d5e7c47c7b38.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/AbPYuiL273sraTirGuR1bqTRkii.png",
     "rating": 7.4,
     "status": "airing",
@@ -118,7 +179,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/vMFxmogUUe5lhhzNnS59o51C77i.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.today/images/2682a29a-759d-45c6-a38d-fe44f33573bb.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.support/images/2682a29a-759d-45c6-a38d-fe44f33573bb.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/oTwnbowXtY08Ck9XnmaYoG7V5tI.png",
     "rating": 8.4,
     "status": "airing",
@@ -137,9 +198,9 @@
     "duration": 10380,
     "releaseDate": "2026-07-15",
     "posterURL": "https://image.tmdb.org/t/p/w780/3hdT7goVwwXFeir7e5wgByjzcV6.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.today/images/e6a830d8-6369-49c6-a7db-7170b47f4f24.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.support/images/e6a830d8-6369-49c6-a7db-7170b47f4f24.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/kX6ZX4GL7km04332caiOVapR2lb.png",
-    "rating": 7.4,
+    "rating": 7.5,
     "status": "upcoming",
     "language": "it"
   },
@@ -188,7 +249,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/m8RJrcr3ry17AKYkUcelmBd0VKw.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.today/images/a5b6989f-f7d1-4a79-a0de-9015dd693e4b.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.support/images/a5b6989f-f7d1-4a79-a0de-9015dd693e4b.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/59nbKOUowyaiugxknYSCeGFNRDk.png",
     "rating": 8.3,
     "status": "airing",
@@ -220,53 +281,10 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/bhujlLfcdfHNWKDLYqeDdYLcuKZ.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.today/images/a0dac6df-7821-4300-912f-33139cb8e62b.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.support/images/a0dac6df-7821-4300-912f-33139cb8e62b.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/orJ5TfInOu5CzgFIDs4avqEg0wu.png",
     "rating": 8.5,
     "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "64439-elle",
-    "kind": "series",
-    "title": "Elle",
-    "overview": "Prima che Elle Woods si sentisse come un pesce fuor d'acqua ad Harvard, la incontriamo nel 1995 nelle acque tumultuose del liceo, dove si trova ad affrontare amicizie complicate, storie d'amore proibite e scelte di moda discutibili. In questo capitolo inaspettato della sua adolescenza, scopriamo le esperienze che hanno plasmato Elle trasformandola nella donna iconica che conosciamo e amiamo.",
-    "genres": [
-      "Dramma",
-      "Commedia"
-    ],
-    "duration": 0,
-    "releaseDate": "2026-07-01",
-    "seasons": [
-      {
-        "number": 1,
-        "name": "Stagione 1"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/waRNtkZ7JfmXUlrKF6boDm590EC.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.today/images/bc3af898-3b7d-4964-a9a6-c6dab8add737.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/eKIz4O3OGCuyzivg2HHLwJUdSTx.png",
-    "rating": 8.1,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "60262-enola-holmes-3",
-    "kind": "movie",
-    "title": "Enola Holmes 3",
-    "overview": "L'avventura guida la detective Enola Holmes a Malta mentre i sogni personali e professionali si scontrano in un caso più pericoloso di qualsiasi altro abbia mai affrontato.",
-    "genres": [
-      "Crime",
-      "Mistero",
-      "Avventura"
-    ],
-    "duration": 6300,
-    "releaseDate": "2026-07-01",
-    "posterURL": "https://image.tmdb.org/t/p/w780/trAmoofuqeGZYZyu0caG1u9NvDU.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.today/images/629b214a-87c9-4052-9fb9-eb4a6f25c8d8.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/pVeJDWwmgXID7Bs8u0d21pr55Oj.png",
-    "rating": 7.4,
-    "status": "upcoming",
     "language": "it"
   }
 ]
