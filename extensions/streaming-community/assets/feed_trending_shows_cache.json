@@ -22,9 +22,165 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/skiH7nzWDkNLlH1599SwO3UgCR4.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.support/images/68801718-dd6b-4429-9748-a9e401bb7634.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.tools/images/68801718-dd6b-4429-9748-a9e401bb7634.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/zBaAxkdlFix1xcvEln6CuTdV64U.png",
     "rating": 8.2,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "4615-reacher",
+    "kind": "series",
+    "title": "Reacher",
+    "overview": "Jack Reacher è stato arrestato per omicidio e ora la polizia ha bisogno del suo aiuto. Basato sui libri di Lee Child.",
+    "genres": [
+      "Dramma",
+      "Crime",
+      "Mistero",
+      "Action & Adventure"
+    ],
+    "duration": 0,
+    "releaseDate": "2022-02-03",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": null
+      },
+      {
+        "number": 3,
+        "name": null
+      },
+      {
+        "number": 4,
+        "name": "Stagione 4"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/1Gm9vxf6D5szIMzEY96DrDQPrMr.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.tools/images/a637d291-5132-4720-89ee-99ed302f96ce.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/wUhXD6ENFxqof72PL2etaYmpFj6.png",
+    "rating": 8.4,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "7010-uno-splendido-errore",
+    "kind": "series",
+    "title": "Uno splendido errore",
+    "overview": "Dopo un tragico evento una ragazzina va a vivere assieme alla famiglia numerosa della sua tutrice legale in una piccola città, dove impara molte cose su amore, speranza e amicizia.",
+    "genres": [
+      "Dramma"
+    ],
+    "duration": 0,
+    "releaseDate": "2023-12-07",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": "Stagione 2"
+      },
+      {
+        "number": 3,
+        "name": "Stagione 3"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/4rEjGH08D2xWtb0fBtIOw2oPGqs.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.tools/images/645af33f-5d67-4810-b4c8-be9386c051e7.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/98ro979EumxLzNo8ET77OErNiG4.png",
+    "rating": 7.8,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "12824-spider-man-brand-new-day",
+    "kind": "movie",
+    "title": "Spider-Man: Brand New Day",
+    "overview": "Sono trascorsi quattro anni dagli eventi di No Way Home e Peter è ormai un adulto che vive completamente da solo, essendosi volontariamente cancellato dalla vita e dai ricordi di coloro che ama. Combattendo il crimine in una New York che non conosce più il suo nome, si è dedicato interamente alla protezione della sua città. Uno Spider-Man a tempo pieno. Ma con l'intensificarsi delle richieste, la pressione innesca una sorprendente evoluzione fisica che minaccia la sua stessa esistenza, mentre, una strana nuova serie di crimini, dà origine a una delle minacce più potenti che abbia mai affrontato.",
+    "genres": [
+      "Azione",
+      "Fantascienza",
+      "Avventura"
+    ],
+    "duration": 8640,
+    "releaseDate": "2026-08-04",
+    "posterURL": "https://image.tmdb.org/t/p/w780/lH6LQcUhkVOK6ekvXzthQAogUnR.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.tools/images/5a24d55b-a9d7-4953-b96a-764fcd577c02.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/dGMb0iSnNp7UMAHkKX63Kh6AJvy.png",
+    "rating": 8.6,
+    "status": "upcoming",
+    "language": "it"
+  },
+  {
+    "id": "10337-i-maghi-di-waverly-ritorno-a-waverly-place",
+    "kind": "series",
+    "title": "I Maghi di Waverly: Ritorno a  Waverly Place",
+    "overview": "Billie, una potente maga al centro di una misteriosa profezia, viene mandata a vivere nel mondo dei mortali con l'unico mago insegnante che può aiutarla a controllare i suoi poteri: Justin Russo.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Commedia",
+      "Famiglia"
+    ],
+    "duration": 0,
+    "releaseDate": "2024-10-29",
+    "seasons": [
+      {
+        "number": 1,
+        "name": "Stagione 1"
+      },
+      {
+        "number": 2,
+        "name": "Stagione 2"
+      },
+      {
+        "number": 3,
+        "name": "Stagione 3"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/fR8k25t6KX0h0KPb8lgzDgAVgm5.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.tools/images/6ad5dc33-c257-4733-ae3a-ce0b14f8a474.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/amDlmPpEcEpvzm8pB2Q7uN9Yg6I.png",
+    "rating": 8,
+    "status": "ended",
+    "language": "it"
+  },
+  {
+    "id": "3625-ted-lasso",
+    "kind": "series",
+    "title": "Ted Lasso",
+    "overview": "Il vincitore del Golden Globe® Jason Sudeikis è Ted Lasso, un coach di football americano chiamato ad allenare una squadra di calcio inglese. Completamente privo di esperienza, il mister compensa con l’ottimismo, la determinazione... e i biscotti.",
+    "genres": [
+      "Commedia"
+    ],
+    "duration": 0,
+    "releaseDate": "2020-08-14",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": null
+      },
+      {
+        "number": 3,
+        "name": null
+      },
+      {
+        "number": 4,
+        "name": "Stagione 4"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/kP3v1eZIrL0xAA1BdmBKStapzIQ.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.tools/images/b03fabdf-3673-4f99-8992-1bea3bff64d2.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/iNudegFbTBAGBB529k7wGVivqE4.png",
+    "rating": 8.8,
     "status": "airing",
     "language": "it"
   },
@@ -53,8 +209,8 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/o1a87xmigWwHB7DUwnmJEFkRM6p.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.support/images/f4eddd59-bf47-4734-a89c-291285be2ac9.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/2P3grUAMSp83H9Z1yLTNDq6zMq5.png",
+    "backdropURL": "https://cdn.streamingcommunityz.tools/images/f4eddd59-bf47-4734-a89c-291285be2ac9.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/xCXmYvX8UwggLh0h3I1A1fbHBxI.png",
     "rating": 8.3,
     "status": "airing",
     "language": "it"
@@ -83,9 +239,9 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/55bcMQcMQMoMYDqcG4IMEFYnb6I.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.support/images/eeaa680c-0b72-46c4-b9ce-c79ab982cdc8.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.tools/images/eeaa680c-0b72-46c4-b9ce-c79ab982cdc8.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/vBQsA1hLbAcm5H8PI15OKDD1aNK.png",
-    "rating": 7.4,
+    "rating": 7.5,
     "status": "airing",
     "language": "it"
   },
@@ -116,7 +272,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/9T0PMyFRpgGTYpKzHokXX3APlXc.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.support/images/063e65d2-e16f-4e37-bbb2-ff0384084a1d.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.tools/images/063e65d2-e16f-4e37-bbb2-ff0384084a1d.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/ybJWS5ax2iJjfJ22SwYEYXDXWrB.png",
     "rating": 7.9,
     "status": "airing",
@@ -144,146 +300,9 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/9QFGr9c1yX6WyRmTbP2tAXGmo5L.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.support/images/e4ee1107-8c8c-49c8-b686-d5e7c47c7b38.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.tools/images/e4ee1107-8c8c-49c8-b686-d5e7c47c7b38.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/AbPYuiL273sraTirGuR1bqTRkii.png",
     "rating": 7.4,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "5719-star-trek-strange-new-worlds",
-    "kind": "series",
-    "title": "Star Trek: Strange New Worlds",
-    "overview": "La serie segue i viaggi dell'astronave della Flotta Stellare USS Enterprise (NCC-1701), capitanata da Christopher Pike, durante la sua seconda missione quinquennale (2259-2264), ovvero quella che precede la missione quinquennale del capitano James T. Kirk narrata nella serie televisiva Star Trek. La serie prende il via dalla data stellare 1738.12 (2259), un paio d'anni dopo i fatti accaduti nella seconda stagione della serie televisiva Star Trek: Discovery, quando Pike ha capitanato temporaneamente la USS Discovery.",
-    "genres": [
-      "Sci-Fi & Fantasy"
-    ],
-    "duration": 0,
-    "releaseDate": "2022-05-05",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": null
-      },
-      {
-        "number": 3,
-        "name": "Stagione 3"
-      },
-      {
-        "number": 4,
-        "name": "Stagione 4"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/vMFxmogUUe5lhhzNnS59o51C77i.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.support/images/2682a29a-759d-45c6-a38d-fe44f33573bb.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/oTwnbowXtY08Ck9XnmaYoG7V5tI.png",
-    "rating": 8.4,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "55355-odissea",
-    "kind": "movie",
-    "title": "Odissea",
-    "overview": "Ulisse, il leggendario re greco di Itaca, intraprende un lungo e pericoloso viaggio verso casa dopo la guerra di Troia, raccontando i suoi incontri con esseri mitici come il ciclope Polifemo, le Sirene e la dea strega Circe.",
-    "genres": [
-      "Dramma",
-      "Fantasy",
-      "Avventura"
-    ],
-    "duration": 10380,
-    "releaseDate": "2026-07-15",
-    "posterURL": "https://image.tmdb.org/t/p/w780/3hdT7goVwwXFeir7e5wgByjzcV6.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.support/images/e6a830d8-6369-49c6-a7db-7170b47f4f24.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/kX6ZX4GL7km04332caiOVapR2lb.png",
-    "rating": 7.5,
-    "status": "upcoming",
-    "language": "it"
-  },
-  {
-    "id": "2747-all-american",
-    "kind": "series",
-    "title": "All American",
-    "overview": "Due mondi completamente opposti si scontrano quando un giocatore di football del difficile quartiere di Compton viene chiamato a far parte della squadra del liceo di Beverly Hills.",
-    "genres": [
-      "Dramma"
-    ],
-    "duration": 0,
-    "releaseDate": "2018-10-10",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": null
-      },
-      {
-        "number": 3,
-        "name": null
-      },
-      {
-        "number": 4,
-        "name": null
-      },
-      {
-        "number": 5,
-        "name": null
-      },
-      {
-        "number": 6,
-        "name": null
-      },
-      {
-        "number": 7,
-        "name": "Stagione 7"
-      },
-      {
-        "number": 8,
-        "name": "Stagione 8"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/m8RJrcr3ry17AKYkUcelmBd0VKw.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.support/images/a5b6989f-f7d1-4a79-a0de-9015dd693e4b.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/59nbKOUowyaiugxknYSCeGFNRDk.png",
-    "rating": 8.3,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "6343-silo",
-    "kind": "series",
-    "title": "Silo",
-    "overview": "In un futuro in rovina e tossico, esiste una comunità in un gigantesco silo sotterraneo che immerge centinaia di storie in profondità. Lì, uomini e donne vivono in una società piena di regolamenti che credono abbiano lo scopo di proteggerli.",
-    "genres": [
-      "Dramma",
-      "Sci-Fi & Fantasy"
-    ],
-    "duration": 0,
-    "releaseDate": "2023-05-04",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": "Stagione 2"
-      },
-      {
-        "number": 3,
-        "name": "Stagione 3"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/bhujlLfcdfHNWKDLYqeDdYLcuKZ.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.support/images/a0dac6df-7821-4300-912f-33139cb8e62b.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/orJ5TfInOu5CzgFIDs4avqEg0wu.png",
-    "rating": 8.5,
     "status": "airing",
     "language": "it"
   }
