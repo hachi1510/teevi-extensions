@@ -1,5 +1,33 @@
 [
   {
+    "id": "12264-mobland",
+    "kind": "series",
+    "title": "MobLand",
+    "overview": "Due famiglie criminali si affrontano in una guerra che minaccia di far crollare imperi e distruggere vite. Nel mezzo dello scontro c'è Harry Da Souza, un astuto uomo di strada che conosce fin troppo bene quanto la lealtà possa essere instabile quando le forze opposte si scontrano.",
+    "genres": [
+      "Dramma",
+      "Crime"
+    ],
+    "duration": 0,
+    "releaseDate": "2025-03-30",
+    "seasons": [
+      {
+        "number": 1,
+        "name": "Stagione 1"
+      },
+      {
+        "number": 2,
+        "name": "Stagione 2"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/r01olcPTFU1eeC63ZikHXBwxKgj.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.miami/images/5277398e-bad1-4619-bd3d-448c2f8a44fc.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/a9YLMuK3MoQr1Au5SJPVp4dMn3o.png",
+    "rating": 8.6,
+    "status": "airing",
+    "language": "it"
+  },
+  {
     "id": "7989-the-gentlemen",
     "kind": "series",
     "title": "The Gentlemen",
@@ -22,9 +50,38 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/skiH7nzWDkNLlH1599SwO3UgCR4.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.tools/images/68801718-dd6b-4429-9748-a9e401bb7634.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.miami/images/68801718-dd6b-4429-9748-a9e401bb7634.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/zBaAxkdlFix1xcvEln6CuTdV64U.png",
     "rating": 8.2,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "8424-dark-matter",
+    "kind": "series",
+    "title": "Dark Matter",
+    "overview": "Jason Dessen si ritrova intrappolato in una versione alternativa della sua vita. Si imbarca in un viaggio tormentoso per tornare dalla sua vera famiglia e salvarla dal nemico più terrificante: lui stesso.",
+    "genres": [
+      "Dramma",
+      "Sci-Fi & Fantasy",
+      "Mistero"
+    ],
+    "duration": 0,
+    "releaseDate": "2024-05-07",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": "Stagione 2"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/6gisD2IhSUEoNohJsIAfWOrqElU.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.miami/images/0027cf5d-d9ac-487a-b7e7-2b61ee6e7283.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/41oTdX0XzO8VskZTfiNIKijfRuq.png",
+    "rating": 8,
     "status": "airing",
     "language": "it"
   },
@@ -59,9 +116,9 @@
         "name": "Stagione 4"
       }
     ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/1Gm9vxf6D5szIMzEY96DrDQPrMr.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.tools/images/a637d291-5132-4720-89ee-99ed302f96ce.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/wUhXD6ENFxqof72PL2etaYmpFj6.png",
+    "posterURL": "https://image.tmdb.org/t/p/w780/sMRfPGh8Xpy7ZNNXu3GzvhM5VQ3.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.miami/images/a637d291-5132-4720-89ee-99ed302f96ce.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/2iSPeGH5o2G3pUjS4XpCgBKUnOG.png",
     "rating": 8.4,
     "status": "airing",
     "language": "it"
@@ -91,9 +148,33 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/4rEjGH08D2xWtb0fBtIOw2oPGqs.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.tools/images/645af33f-5d67-4810-b4c8-be9386c051e7.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.miami/images/645af33f-5d67-4810-b4c8-be9386c051e7.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/98ro979EumxLzNo8ET77OErNiG4.png",
     "rating": 7.8,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "65326-sterling-point-lisola-dei-segreti",
+    "kind": "series",
+    "title": "Sterling Point - l'isola dei segreti",
+    "overview": "Annie e il fratello gemello sono stati cresciuti a New York dal loro unico padre, prima di scoprire che il loro nonno estraneo ha lasciato loro un’isola su un lago nel suo testamento.",
+    "genres": [
+      "Dramma",
+      "Mistero"
+    ],
+    "duration": 0,
+    "releaseDate": "2026-08-05",
+    "seasons": [
+      {
+        "number": 1,
+        "name": "Stagione 1"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/bs8mtE5561yEEdVjxecd1seNl1a.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.miami/images/a744cd17-72f9-4cb4-ace6-10e98868f270.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/oI9xCt2yBSRhJRWpDb5v3JB3uZ0.png",
+    "rating": 8.1,
     "status": "airing",
     "language": "it"
   },
@@ -110,9 +191,9 @@
     "duration": 8640,
     "releaseDate": "2026-08-04",
     "posterURL": "https://image.tmdb.org/t/p/w780/lH6LQcUhkVOK6ekvXzthQAogUnR.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.tools/images/5a24d55b-a9d7-4953-b96a-764fcd577c02.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.miami/images/5a24d55b-a9d7-4953-b96a-764fcd577c02.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/dGMb0iSnNp7UMAHkKX63Kh6AJvy.png",
-    "rating": 8.6,
+    "rating": 8.5,
     "status": "upcoming",
     "language": "it"
   },
@@ -143,7 +224,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/fR8k25t6KX0h0KPb8lgzDgAVgm5.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.tools/images/6ad5dc33-c257-4733-ae3a-ce0b14f8a474.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.miami/images/6ad5dc33-c257-4733-ae3a-ce0b14f8a474.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/amDlmPpEcEpvzm8pB2Q7uN9Yg6I.png",
     "rating": 8,
     "status": "ended",
@@ -178,9 +259,9 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/kP3v1eZIrL0xAA1BdmBKStapzIQ.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.tools/images/b03fabdf-3673-4f99-8992-1bea3bff64d2.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.miami/images/b03fabdf-3673-4f99-8992-1bea3bff64d2.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/iNudegFbTBAGBB529k7wGVivqE4.png",
-    "rating": 8.8,
+    "rating": 8.9,
     "status": "airing",
     "language": "it"
   },
@@ -209,100 +290,9 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/o1a87xmigWwHB7DUwnmJEFkRM6p.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.tools/images/f4eddd59-bf47-4734-a89c-291285be2ac9.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.miami/images/f4eddd59-bf47-4734-a89c-291285be2ac9.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/xCXmYvX8UwggLh0h3I1A1fbHBxI.png",
     "rating": 8.3,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "9423-batman-caped-crusader",
-    "kind": "series",
-    "title": "Batman: Caped Crusader",
-    "overview": "Forgiato da una tragedia familiare, il miliardario Bruce Wayne si trasforma in una creatura a metà tra l'umano e il sovrumano: BATMAN. Notte dopo notte, contro ogni avversità, porta avanti la sua implacabile e solitaria guerra al crimine.",
-    "genres": [
-      "Crime",
-      "Sci-Fi & Fantasy",
-      "Action & Adventure",
-      "Animazione"
-    ],
-    "duration": 0,
-    "releaseDate": "2024-08-01",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": "Stagione 2"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/55bcMQcMQMoMYDqcG4IMEFYnb6I.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.tools/images/eeaa680c-0b72-46c4-b9ce-c79ab982cdc8.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/vBQsA1hLbAcm5H8PI15OKDD1aNK.png",
-    "rating": 7.5,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "10396-the-walking-dead-dead-city",
-    "kind": "series",
-    "title": "The Walking Dead: Dead City",
-    "overview": "Maggie e Negan si recano nella Manhattan post-apocalittica, molto tempo fa tagliata fuori dalla terraferma. La città fatiscente è piena di morti e abitanti che l'hanno resa un mondo pieno di anarchia, pericolo, bellezza e terrore.",
-    "genres": [
-      "Dramma",
-      "Sci-Fi & Fantasy",
-      "Action & Adventure"
-    ],
-    "duration": 0,
-    "releaseDate": "2023-06-18",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": "Season 2"
-      },
-      {
-        "number": 3,
-        "name": "Stagione 3"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/9T0PMyFRpgGTYpKzHokXX3APlXc.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.tools/images/063e65d2-e16f-4e37-bbb2-ff0384084a1d.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/ybJWS5ax2iJjfJ22SwYEYXDXWrB.png",
-    "rating": 7.9,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "12052-ransom-canyon",
-    "kind": "series",
-    "title": "Ransom Canyon",
-    "overview": "Amore, mistero e rivalità spietate si scontrano in questo dramma ambientato in Texas con Josh Duhamel (\"Vicino a te non ho paura\") e Minka Kelly (\"Friday Night Lights\").",
-    "genres": [
-      "Dramma",
-      "Western"
-    ],
-    "duration": 0,
-    "releaseDate": "2025-04-17",
-    "seasons": [
-      {
-        "number": 1,
-        "name": "Ransom Canyon"
-      },
-      {
-        "number": 2,
-        "name": "Stagione 2"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/9QFGr9c1yX6WyRmTbP2tAXGmo5L.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.tools/images/e4ee1107-8c8c-49c8-b686-d5e7c47c7b38.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/AbPYuiL273sraTirGuR1bqTRkii.png",
-    "rating": 7.4,
     "status": "airing",
     "language": "it"
   }
