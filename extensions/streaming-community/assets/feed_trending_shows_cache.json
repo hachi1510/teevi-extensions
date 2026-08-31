@@ -21,9 +21,9 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/r01olcPTFU1eeC63ZikHXBwxKgj.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.rodeo/images/5277398e-bad1-4619-bd3d-448c2f8a44fc.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.style/images/5277398e-bad1-4619-bd3d-448c2f8a44fc.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/a9YLMuK3MoQr1Au5SJPVp4dMn3o.png",
-    "rating": 8.6,
+    "rating": 8.7,
     "status": "airing",
     "language": "it"
   },
@@ -50,7 +50,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/skiH7nzWDkNLlH1599SwO3UgCR4.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.rodeo/images/68801718-dd6b-4429-9748-a9e401bb7634.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.style/images/68801718-dd6b-4429-9748-a9e401bb7634.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/zBaAxkdlFix1xcvEln6CuTdV64U.png",
     "rating": 8.2,
     "status": "airing",
@@ -78,11 +78,60 @@
         "name": "Stagione 2"
       }
     ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/6gisD2IhSUEoNohJsIAfWOrqElU.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.rodeo/images/0027cf5d-d9ac-487a-b7e7-2b61ee6e7283.webp",
+    "posterURL": "https://image.tmdb.org/t/p/w780/9FkCTXMsYhyCuWYJ8E1raC8yMP3.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.style/images/0027cf5d-d9ac-487a-b7e7-2b61ee6e7283.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/41oTdX0XzO8VskZTfiNIKijfRuq.png",
     "rating": 8,
     "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "10275-beauty-in-black",
+    "kind": "series",
+    "title": "Beauty in Black",
+    "overview": "Il destino di una spogliarellista cambia radicalmente dopo l'incontro con una ricca e disfunzionale famiglia che gestisce un impero di cosmetici e un losco traffico.",
+    "genres": [
+      "Dramma"
+    ],
+    "duration": 0,
+    "releaseDate": "2024-10-24",
+    "seasons": [
+      {
+        "number": 1,
+        "name": "Beauty in Black"
+      },
+      {
+        "number": 2,
+        "name": "Stagione 2"
+      },
+      {
+        "number": 3,
+        "name": "Stagione 3"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/1YNnAVdCfJfYNjlYxnCsMz9VjNA.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.style/images/d6198f92-7e75-4b51-867b-42b05fa3de50.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/zG8sVtogSXy9z3Q8bbqiXC52F3Y.png",
+    "rating": 7.7,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "65568-the-last-sunrise-lestate-delle-prime-volte",
+    "kind": "movie",
+    "title": "The Last Sunrise - L'estate delle prime volte",
+    "overview": "Basato sull'appassionante romanzo, The Last Sunrise. L'Estate Delle Prime Volte segue Ry (Maia Reficco), una studentessa affetta da una malattia cronica, durante una vacanza a Maiorca con la madre (Eva Longoria). L'inaspettata storia con Julián (Fernando Lindez) le insegna a vivere il momento, ma il peggioramento della malattia e vecchi segreti di famiglia rischiano di distruggere tutto in fretta.",
+    "genres": [
+      "Dramma",
+      "Romance"
+    ],
+    "duration": 6420,
+    "releaseDate": "2026-08-26",
+    "posterURL": "https://image.tmdb.org/t/p/w780/7oLgxQP0gAkJ9YpD3hpLC8PylJ2.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.style/images/af92d9d2-7dc8-45ec-8eb1-25da54606199.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/huW0TRfi1OKLbpNkb9VzU5zJVf2.png",
+    "rating": 4.2,
+    "status": "ended",
     "language": "it"
   },
   {
@@ -119,8 +168,8 @@
         "name": "Stagione 5"
       }
     ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/eVudAa7i78BfY3Gq7TWrfuIWUMf.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.rodeo/images/980abf9f-2a5a-472f-9a12-8f4419708215.webp",
+    "posterURL": "https://image.tmdb.org/t/p/w780/2hnbTR1KLZULrfObL8s0VQmtrBK.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.style/images/980abf9f-2a5a-472f-9a12-8f4419708215.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/eXc0K8WX9tkphUPcimP5fZrnKFm.png",
     "rating": 8.4,
     "status": "ended",
@@ -145,9 +194,9 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/9i6966Py1jvnGHFFwxf3CGku7GV.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.rodeo/images/1f6668fe-c969-4073-be0c-ba753d351d4f.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.style/images/1f6668fe-c969-4073-be0c-ba753d351d4f.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/kANHXGvFKW13UEkZbYwl9nIJeEl.png",
-    "rating": 7.6,
+    "rating": 8.4,
     "status": "airing",
     "language": "it"
   },
@@ -183,7 +232,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/sMRfPGh8Xpy7ZNNXu3GzvhM5VQ3.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.rodeo/images/a637d291-5132-4720-89ee-99ed302f96ce.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.style/images/a637d291-5132-4720-89ee-99ed302f96ce.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/2iSPeGH5o2G3pUjS4XpCgBKUnOG.png",
     "rating": 8.4,
     "status": "airing",
@@ -214,7 +263,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/4rEjGH08D2xWtb0fBtIOw2oPGqs.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.rodeo/images/645af33f-5d67-4810-b4c8-be9386c051e7.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.style/images/645af33f-5d67-4810-b4c8-be9386c051e7.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/98ro979EumxLzNo8ET77OErNiG4.png",
     "rating": 7.7,
     "status": "airing",
@@ -238,53 +287,10 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/i3RJx0zwaEWNH5BveK8RMPIP7md.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.rodeo/images/f4aefceb-a601-4b65-a45d-350b398a6206.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.style/images/f4aefceb-a601-4b65-a45d-350b398a6206.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/lGMA0PAKUgrgpbJiOAmoSqqQgDW.png",
-    "rating": 7.9,
+    "rating": 8,
     "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "65326-sterling-point-lisola-dei-segreti",
-    "kind": "series",
-    "title": "Sterling Point - l'isola dei segreti",
-    "overview": "Annie e il fratello gemello sono stati cresciuti a New York dal loro unico padre, prima di scoprire che il loro nonno estraneo ha lasciato loro un’isola su un lago nel suo testamento.",
-    "genres": [
-      "Dramma",
-      "Mistero"
-    ],
-    "duration": 0,
-    "releaseDate": "2026-08-05",
-    "seasons": [
-      {
-        "number": 1,
-        "name": "Stagione 1"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/bs8mtE5561yEEdVjxecd1seNl1a.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.rodeo/images/a744cd17-72f9-4cb4-ace6-10e98868f270.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/oI9xCt2yBSRhJRWpDb5v3JB3uZ0.png",
-    "rating": 8.2,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "12824-spider-man-brand-new-day",
-    "kind": "movie",
-    "title": "Spider-Man: Brand New Day",
-    "overview": "Sono trascorsi quattro anni dagli eventi di No Way Home e Peter è ormai un adulto che vive completamente da solo, essendosi volontariamente cancellato dalla vita e dai ricordi di coloro che ama. Combattendo il crimine in una New York che non conosce più il suo nome, si è dedicato interamente alla protezione della sua città. Uno Spider-Man a tempo pieno. Ma con l'intensificarsi delle richieste, la pressione innesca una sorprendente evoluzione fisica che minaccia la sua stessa esistenza, mentre, una strana nuova serie di crimini, dà origine a una delle minacce più potenti che abbia mai affrontato.",
-    "genres": [
-      "Azione",
-      "Fantascienza",
-      "Avventura"
-    ],
-    "duration": 8640,
-    "releaseDate": "2026-08-04",
-    "posterURL": "https://image.tmdb.org/t/p/w780/lH6LQcUhkVOK6ekvXzthQAogUnR.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.rodeo/images/5a24d55b-a9d7-4953-b96a-764fcd577c02.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/dGMb0iSnNp7UMAHkKX63Kh6AJvy.png",
-    "rating": 8.5,
-    "status": "upcoming",
     "language": "it"
   }
 ]
