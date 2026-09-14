@@ -1,5 +1,212 @@
 [
   {
+    "id": "8427-maxton-hall-il-mondo-tra-di-noi",
+    "kind": "series",
+    "title": "Maxton Hall - Il mondo tra di noi",
+    "overview": "La serie è basata sul bestseller \"Save Me\" di Mona Kasten. Ruby viene involontariamente a conoscenza di un incredibile segreto nella scuola privata di Maxton Hall. L'arrogante erede milionario James Beaufort entra in contatto con l'arguto studente Ruby e, nel bene o nel male, è determinato a metterlo a tacere. Il loro scambio appassionato di parole improvvisamente accende una scintilla...",
+    "genres": [
+      "Dramma"
+    ],
+    "duration": 0,
+    "releaseDate": "2024-05-09",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": "Stagione 2"
+      },
+      {
+        "number": 3,
+        "name": "Stagione 3"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/wrHEdaqohl8orrsNxCb3kngaNiH.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.taxi/images/4cbde905-cd2c-4084-8ff7-8e317c8d437e.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/wG2KCdoQV6GohNdq99f7dASSTJH.png",
+    "rating": 8.3,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "4828-only-murders-in-the-building",
+    "kind": "series",
+    "title": "Only Murders in the Building",
+    "overview": "Dopo la scoperta di un'orribile morte in un palazzo dell'Upper West Side, tre inquilini dell'edificio estranei tra loro sospettano subito che si tratti di omicidio, e si uniscono per indagare sull'accaduto. Mentre registrano un podcast per documentare il caso, i tre scoprono i segreti del palazzo, che riguardano eventi accaduti molto tempo prima.",
+    "genres": [
+      "Crime",
+      "Mistero",
+      "Commedia"
+    ],
+    "duration": 0,
+    "releaseDate": "2021-08-31",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": null
+      },
+      {
+        "number": 3,
+        "name": null
+      },
+      {
+        "number": 4,
+        "name": null
+      },
+      {
+        "number": 5,
+        "name": "Stagione 5"
+      },
+      {
+        "number": 6,
+        "name": "Stagione 6"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/8BFa20YkGpKUf7GfNObpNJG35fM.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.taxi/images/21f8b9f1-e6db-4745-a3e2-8100503ad53d.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/vNM4L9w45PIiXd8ErSPqPjDHhF0.png",
+    "rating": 8.4,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "7166-percy-jackson-e-gli-dei-dellolimpo",
+    "kind": "series",
+    "title": "Percy Jackson e gli dei dell'Olimpo",
+    "overview": "Percy Jackson deve affrontare un’impresa pericolosa. Sfuggendo a mostri e superando in astuzia gli dei, dovrà attraversare l'America per restituire a Zeus la sua Folgore e sventare una guerra totale. Con l'aiuto dei suoi compagni di ventura Annabeth e Grover, il viaggio di Percy lo porterà più vicino alle risposte che cerca: come trovare il suo posto in un mondo in cui si sente un estraneo e scoprire chi è destinato ad essere.",
+    "genres": [
+      "Dramma",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure",
+      "Famiglia"
+    ],
+    "duration": 0,
+    "releaseDate": "2023-12-20",
+    "seasons": [
+      {
+        "number": 1,
+        "name": "Stagione 1"
+      },
+      {
+        "number": 2,
+        "name": "Stagione 2"
+      },
+      {
+        "number": 3,
+        "name": "Stagione 3"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/yBkhoqyh5MZeYzdcwJwFVd19GGk.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.taxi/images/7889e6d4-6f35-41e1-9c3e-a56d01903771.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/iYxjFCbqSJyDDmAytShRw2n5ZgF.png",
+    "rating": 7.5,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "5369-il-signore-degli-anelli-gli-anelli-del-potere",
+    "kind": "series",
+    "title": "Il Signore degli Anelli: Gli anelli del potere",
+    "overview": "Un vasto insieme di personaggi, sia conosciuti che nuovi, devono affrontare il riaffiorare del male nella Terra di Mezzo. Dalle profondità più oscure delle Montagne Nebbiose alle maestose foreste del Lindon; dal regno dell’isola di Númenor, ai più remoti angoli della mappa, questi regni e personaggi forgeranno retaggi che vivranno a lungo dopo la loro dipartita.",
+    "genres": [
+      "Dramma",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "duration": 0,
+    "releaseDate": "2022-09-01",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": "Stagione 2"
+      },
+      {
+        "number": 3,
+        "name": "Stagione 3"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/al4rMuQXUrOcHFA2yZc1rn0jL8A.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.taxi/images/ed1952c2-69d0-4c53-8ce3-8ac65c4ab129.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/fA1eS6rfYjS9W8AZbBVG0fpxXn1.png",
+    "rating": 7.4,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "12711-dexter-resurrection",
+    "kind": "series",
+    "title": "Dexter: Resurrection",
+    "overview": "Dexter si risveglia dal coma e parte per New York deciso a trovare Harrison e rimediare agli errori del passato.",
+    "genres": [
+      "Dramma",
+      "Crime"
+    ],
+    "duration": 0,
+    "releaseDate": "2025-07-11",
+    "seasons": [
+      {
+        "number": 1,
+        "name": "Stagione 1"
+      },
+      {
+        "number": 2,
+        "name": "Stagione 2"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/d9JXDuLOApWZQFV7U81bX3KSS3u.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.taxi/images/769092ca-38c6-4288-984f-8cabb51bba3e.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/8vN1JzNMVIVuyhEyGkKwr0NhMPh.png",
+    "rating": 9,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "6004-tulsa-king",
+    "kind": "series",
+    "title": "Tulsa King",
+    "overview": "Tulsa King segue il capo della mafia newyorkese Dwight \"Il Generale\" Manfredi, appena uscito di prigione dopo 25 anni ed esiliato a Tulsa, in Oklahoma. Rendendosi conto che la sua famiglia mafiosa potrebbe non avere in mente i suoi interessi, Dwight costruisce lentamente una \"banda\" composta da un gruppo di personaggi improbabili, per aiutarlo a stabilire un nuovo impero criminale.",
+    "genres": [
+      "Dramma",
+      "Crime"
+    ],
+    "duration": 0,
+    "releaseDate": "2022-11-13",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": null
+      },
+      {
+        "number": 3,
+        "name": "Season 3"
+      },
+      {
+        "number": 4,
+        "name": "Stagione 4"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/8sg6hDWHQLlcZYWQbJcfMKebxys.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.taxi/images/7b164ebf-93dc-4588-9787-73b6e809683c.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/xz9iVJuRbNsdD7KZhr9dfi8F7Gs.png",
+    "rating": 8.5,
+    "status": "airing",
+    "language": "it"
+  },
+  {
     "id": "12264-mobland",
     "kind": "series",
     "title": "MobLand",
@@ -28,124 +235,46 @@
     "language": "it"
   },
   {
-    "id": "7989-the-gentlemen",
+    "id": "55667-stranger-things-storie-dal-1985",
     "kind": "series",
-    "title": "The Gentlemen",
-    "overview": "Quando l'aristocratico Eddie eredita le proprietà di famiglia, trova anche un enorme impero della marijuana... i cui proprietari non hanno nessuna intenzione di andarsene.",
+    "title": "Stranger Things: Storie dal 1985",
+    "overview": "Questa epica serie animata torna a Hawkins nell'inverno del 1985, dove la nota banda affronta con coraggio nuovi mostri e un mistero paranormale.",
     "genres": [
-      "Crime",
-      "Commedia",
-      "Action & Adventure"
-    ],
-    "duration": 0,
-    "releaseDate": "2024-03-07",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": "Stagione 2"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/eI9JBOFaJAiK3m90ebGQyyWMdqA.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.taxi/images/68801718-dd6b-4429-9748-a9e401bb7634.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/2IWoFSHK77SedaqSWgws0YFYmdW.png",
-    "rating": 8.3,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "8424-dark-matter",
-    "kind": "series",
-    "title": "Dark Matter",
-    "overview": "Jason Dessen si ritrova intrappolato in una versione alternativa della sua vita. Si imbarca in un viaggio tormentoso per tornare dalla sua vera famiglia e salvarla dal nemico più terrificante: lui stesso.",
-    "genres": [
-      "Dramma",
       "Sci-Fi & Fantasy",
-      "Mistero"
-    ],
-    "duration": 0,
-    "releaseDate": "2024-05-07",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": "Stagione 2"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/nKbcRnd3STGmoKYZus16l36YqWR.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.taxi/images/0027cf5d-d9ac-487a-b7e7-2b61ee6e7283.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/41oTdX0XzO8VskZTfiNIKijfRuq.png",
-    "rating": 7.9,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "10275-beauty-in-black",
-    "kind": "series",
-    "title": "Beauty in Black",
-    "overview": "Il destino di una spogliarellista cambia radicalmente dopo l'incontro con una ricca e disfunzionale famiglia che gestisce un impero di cosmetici e un losco traffico.",
-    "genres": [
-      "Dramma"
-    ],
-    "duration": 0,
-    "releaseDate": "2024-10-24",
-    "seasons": [
-      {
-        "number": 1,
-        "name": "Beauty in Black"
-      },
-      {
-        "number": 2,
-        "name": "Stagione 2"
-      },
-      {
-        "number": 3,
-        "name": "Stagione 3"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/1YNnAVdCfJfYNjlYxnCsMz9VjNA.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.taxi/images/d6198f92-7e75-4b51-867b-42b05fa3de50.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/zG8sVtogSXy9z3Q8bbqiXC52F3Y.png",
-    "rating": 7.6,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "65568-the-last-sunrise-lestate-delle-prime-volte",
-    "kind": "movie",
-    "title": "The Last Sunrise - L'estate delle prime volte",
-    "overview": "Basato sull'appassionante romanzo, The Last Sunrise. L'Estate Delle Prime Volte segue Ry (Maia Reficco), una studentessa affetta da una malattia cronica, durante una vacanza a Maiorca con la madre (Eva Longoria). L'inaspettata storia con Julián (Fernando Lindez) le insegna a vivere il momento, ma il peggioramento della malattia e vecchi segreti di famiglia rischiano di distruggere tutto in fretta.",
-    "genres": [
-      "Dramma",
-      "Romance"
-    ],
-    "duration": 6420,
-    "releaseDate": "2026-08-26",
-    "posterURL": "https://image.tmdb.org/t/p/w780/7oLgxQP0gAkJ9YpD3hpLC8PylJ2.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.taxi/images/af92d9d2-7dc8-45ec-8eb1-25da54606199.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/huW0TRfi1OKLbpNkb9VzU5zJVf2.png",
-    "rating": 4.2,
-    "status": "ended",
-    "language": "it"
-  },
-  {
-    "id": "1190-outer-banks",
-    "kind": "series",
-    "title": "Outer Banks",
-    "overview": "Un affiatato gruppo di adolescenti scopre un segreto sepolto da tempo e scatena una serie di eventi fuori della legalità in un'avventura che non dimenticheranno.",
-    "genres": [
-      "Dramma",
       "Mistero",
-      "Action & Adventure"
+      "Action & Adventure",
+      "Animazione"
     ],
     "duration": 0,
-    "releaseDate": "2020-04-15",
+    "releaseDate": "2026-04-23",
+    "seasons": [
+      {
+        "number": 1,
+        "name": "Stagione 1"
+      },
+      {
+        "number": 2,
+        "name": "Stagione 2"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/ydI56O0ivv3FDd3e8lRk4RXTa8M.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.taxi/images/2fd920a0-2f94-4239-94e1-a2d51cb690d8.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/ff4nzGS3122NvLVN10dheKtEZ9E.png",
+    "rating": 7.8,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "4835-slow-horses",
+    "kind": "series",
+    "title": "Slow Horses",
+    "overview": "Questa arguta spy story segue le vicende di una disfunzionale squadra di agenti dell'MI5 e del loro odioso capo, il famigerato Jackson Lamb, mentre navigano tra le luci e le ombre del mondo dello spionaggio per difendere l'Inghilterra da forze sinistre.",
+    "genres": [
+      "Dramma",
+      "Crime"
+    ],
+    "duration": 0,
+    "releaseDate": "2022-03-31",
     "seasons": [
       {
         "number": 1,
@@ -161,136 +290,41 @@
       },
       {
         "number": 4,
-        "name": "Stagione 4"
+        "name": null
       },
       {
         "number": 5,
         "name": "Stagione 5"
+      },
+      {
+        "number": 6,
+        "name": "Stagione 6"
       }
     ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/2hnbTR1KLZULrfObL8s0VQmtrBK.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.taxi/images/980abf9f-2a5a-472f-9a12-8f4419708215.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/eXc0K8WX9tkphUPcimP5fZrnKFm.png",
+    "posterURL": "https://image.tmdb.org/t/p/w780/w5r3VW8KRCB7ZfmRIaDaMb1ggPK.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.taxi/images/d177695d-0a18-432e-a177-9162277b062a.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/peE0Gab2MWjXPlAYhakxjHciNPr.png",
     "rating": 8.4,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "65698-marfil-gli-opposti",
+    "kind": "movie",
+    "title": "Marfil - Gli Opposti",
+    "overview": "La vita a New York di Marfil, figlia di un uomo d'affari spagnolo, viene stravolta quando è rapita e liberata senza spiegazione. Suo padre assume Sebastián Moore come sua guardia del corpo. I due vengono obbligati a passare ogni minuto insieme e tra loro si accende una passione inevitabile in un mondo in cui niente è ciò che sembra. Tratto dal romanzo di Mercedes Ron, autrice della saga Culpables.",
+    "genres": [
+      "Dramma",
+      "Thriller",
+      "Romance"
+    ],
+    "duration": 6240,
+    "releaseDate": "2026-09-09",
+    "posterURL": "https://image.tmdb.org/t/p/w780/o9GJthQaWjSj0KLxkQxWkSxz4jI.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.taxi/images/0b3e24b9-8374-4ab9-a219-8d8f06e3df4f.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/AbFVWXxZ76enpA1GHCq13CN8xGu.png",
+    "rating": 8.3,
     "status": "ended",
-    "language": "it"
-  },
-  {
-    "id": "65492-lanterns",
-    "kind": "series",
-    "title": "Lanterns",
-    "overview": "Due agenti intergalattici, il nuovo recluta John Stewart e la leggenda del Green Lantern Hal Jordan, vengono trascinati in un oscuro mistero terrestre mentre indagano su un omicidio nel cuore dell'America.",
-    "genres": [
-      "Sci-Fi & Fantasy",
-      "Mistero",
-      "Action & Adventure"
-    ],
-    "duration": 0,
-    "releaseDate": "2026-08-16",
-    "seasons": [
-      {
-        "number": 1,
-        "name": "Stagione 1"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/9i6966Py1jvnGHFFwxf3CGku7GV.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.taxi/images/1f6668fe-c969-4073-be0c-ba753d351d4f.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/kANHXGvFKW13UEkZbYwl9nIJeEl.png",
-    "rating": 8.4,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "4615-reacher",
-    "kind": "series",
-    "title": "Reacher",
-    "overview": "Jack Reacher è stato arrestato per omicidio e ora la polizia ha bisogno del suo aiuto. Basato sui libri di Lee Child.",
-    "genres": [
-      "Dramma",
-      "Crime",
-      "Mistero",
-      "Action & Adventure"
-    ],
-    "duration": 0,
-    "releaseDate": "2022-02-03",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": null
-      },
-      {
-        "number": 3,
-        "name": null
-      },
-      {
-        "number": 4,
-        "name": "Stagione 4"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/pP1eQJM9LfqujqXPHCx2KrrCEuy.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.taxi/images/a637d291-5132-4720-89ee-99ed302f96ce.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/2iSPeGH5o2G3pUjS4XpCgBKUnOG.png",
-    "rating": 8.4,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "7010-uno-splendido-errore",
-    "kind": "series",
-    "title": "Uno splendido errore",
-    "overview": "Dopo un tragico evento una ragazzina va a vivere assieme alla famiglia numerosa della sua tutrice legale in una piccola città, dove impara molte cose su amore, speranza e amicizia.",
-    "genres": [
-      "Dramma"
-    ],
-    "duration": 0,
-    "releaseDate": "2023-12-07",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": "Stagione 2"
-      },
-      {
-        "number": 3,
-        "name": "Stagione 3"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/4rEjGH08D2xWtb0fBtIOw2oPGqs.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.taxi/images/645af33f-5d67-4810-b4c8-be9386c051e7.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/98ro979EumxLzNo8ET77OErNiG4.png",
-    "rating": 7.7,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "65339-the-shards",
-    "kind": "series",
-    "title": "The Shards",
-    "overview": "Ambientata a Los Angeles nel 1981, la storia segue una versione di Bret Easton Ellis a 17 anni durante il suo ultimo anno alla prestigiosa scuola preparatoria Buckley. A sconvolgere il suo mondo arriva l’arrivo di un misterioso nuovo studente, Robert Mallory, la cui presenza inquietante coincide con le attività di un serial killer noto come The Trawler.",
-    "genres": [
-      "Dramma",
-      "Mistero"
-    ],
-    "duration": 0,
-    "releaseDate": "2026-08-05",
-    "seasons": [
-      {
-        "number": 1,
-        "name": "Stagione 1"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/i3RJx0zwaEWNH5BveK8RMPIP7md.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.taxi/images/f4aefceb-a601-4b65-a45d-350b398a6206.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/lGMA0PAKUgrgpbJiOAmoSqqQgDW.png",
-    "rating": 7.9,
-    "status": "airing",
     "language": "it"
   }
 ]
