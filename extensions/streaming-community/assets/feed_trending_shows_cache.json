@@ -24,7 +24,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/wrHEdaqohl8orrsNxCb3kngaNiH.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.taxi/images/4cbde905-cd2c-4084-8ff7-8e317c8d437e.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.academy/images/4cbde905-cd2c-4084-8ff7-8e317c8d437e.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/wG2KCdoQV6GohNdq99f7dASSTJH.png",
     "rating": 8.3,
     "status": "airing",
@@ -69,7 +69,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/8BFa20YkGpKUf7GfNObpNJG35fM.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.taxi/images/21f8b9f1-e6db-4745-a3e2-8100503ad53d.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.academy/images/21f8b9f1-e6db-4745-a3e2-8100503ad53d.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/vNM4L9w45PIiXd8ErSPqPjDHhF0.png",
     "rating": 8.4,
     "status": "airing",
@@ -103,7 +103,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/yBkhoqyh5MZeYzdcwJwFVd19GGk.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.taxi/images/7889e6d4-6f35-41e1-9c3e-a56d01903771.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.academy/images/7889e6d4-6f35-41e1-9c3e-a56d01903771.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/iYxjFCbqSJyDDmAytShRw2n5ZgF.png",
     "rating": 7.5,
     "status": "airing",
@@ -136,7 +136,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/al4rMuQXUrOcHFA2yZc1rn0jL8A.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.taxi/images/ed1952c2-69d0-4c53-8ce3-8ac65c4ab129.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.academy/images/ed1952c2-69d0-4c53-8ce3-8ac65c4ab129.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/fA1eS6rfYjS9W8AZbBVG0fpxXn1.png",
     "rating": 7.4,
     "status": "airing",
@@ -164,7 +164,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/d9JXDuLOApWZQFV7U81bX3KSS3u.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.taxi/images/769092ca-38c6-4288-984f-8cabb51bba3e.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.academy/images/769092ca-38c6-4288-984f-8cabb51bba3e.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/8vN1JzNMVIVuyhEyGkKwr0NhMPh.png",
     "rating": 9,
     "status": "airing",
@@ -200,9 +200,70 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/8sg6hDWHQLlcZYWQbJcfMKebxys.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.taxi/images/7b164ebf-93dc-4588-9787-73b6e809683c.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.academy/images/7b164ebf-93dc-4588-9787-73b6e809683c.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/xz9iVJuRbNsdD7KZhr9dfi8F7Gs.png",
     "rating": 8.5,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "13065-helluva-boss",
+    "kind": "series",
+    "title": "Helluva Boss",
+    "overview": "La serie racconta le mansioni e altre avventure quotidiane dei dipendenti della I.M.P. (Immediate Murder Professionals, \"Professionisti dell'Omicidio Immediato\"), una compagnia di imp assassini all'Inferno che presta i propri servizi alle anime dannate per sbarazzarsi dei vivi sulla Terra. I membri sono Blitzø (di cui la \"ø\" finale è muta), il leader, lo specialista d'armi Moxxie, sua moglie Millie, abile ed energica assassina, e l'addetta alla ricezione Loona, figlia adottiva di Blitzø. Con l'aiuto di un grimorio ottenuto dal demone dell'Ars Goetia Stolas, la I.M.P. può entrare nel mondo dei vivi e svolgere i suoi compiti.",
+    "genres": [
+      "Dramma",
+      "Sci-Fi & Fantasy",
+      "Commedia",
+      "Animazione"
+    ],
+    "duration": 0,
+    "releaseDate": "2020-10-31",
+    "seasons": [
+      {
+        "number": 0,
+        "name": "Anteprima Stagione"
+      },
+      {
+        "number": 1,
+        "name": "Stagione 1"
+      },
+      {
+        "number": 2,
+        "name": "Stagione 2"
+      },
+      {
+        "number": 3,
+        "name": "Stagione 3"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/8MY0PCfyQqdBg3bf8Viz5nuQtjw.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.academy/images/afd00f11-5997-4be3-af0d-465b75774211.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/sZfDefLhvNo64EqbAvhnVUE6TTW.png",
+    "rating": 8.2,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "13278-outlander-blood-of-my-blood",
+    "kind": "series",
+    "title": "Outlander: Blood of My Blood",
+    "overview": "Dai campi di battaglia della prima guerra mondiale alle impervie Highlands della Scozia del XVIII secolo, due coppie legate dal destino devono contrastare le forze che cercano di strappare loro, disfandosi in modi sorprendenti e imprevisti in questa saga romantica che si dipana nel corso del tempo.",
+    "genres": [
+      "Dramma"
+    ],
+    "duration": 0,
+    "releaseDate": "2025-08-08",
+    "seasons": [
+      {
+        "number": 1,
+        "name": "Stagione 1"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/ynPXsCB0oVGfDqFfTMzt1ntu8V.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.academy/images/79f6681b-faa1-482b-b02b-a75e6804ed49.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/3WqbicAKsH65x4nA02cTegs82ra.png",
+    "rating": 8.7,
     "status": "airing",
     "language": "it"
   },
@@ -227,10 +288,10 @@
         "name": "Stagione 2"
       }
     ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/r01olcPTFU1eeC63ZikHXBwxKgj.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.taxi/images/5277398e-bad1-4619-bd3d-448c2f8a44fc.webp",
+    "posterURL": "https://image.tmdb.org/t/p/w780/c64EWQJHcSXe0Xfk3lqPWz23UJP.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.academy/images/5277398e-bad1-4619-bd3d-448c2f8a44fc.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/a9YLMuK3MoQr1Au5SJPVp4dMn3o.png",
-    "rating": 8.6,
+    "rating": 8.7,
     "status": "airing",
     "language": "it"
   },
@@ -258,73 +319,10 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/ydI56O0ivv3FDd3e8lRk4RXTa8M.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.taxi/images/2fd920a0-2f94-4239-94e1-a2d51cb690d8.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.academy/images/2fd920a0-2f94-4239-94e1-a2d51cb690d8.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/ff4nzGS3122NvLVN10dheKtEZ9E.png",
-    "rating": 7.8,
+    "rating": 7.6,
     "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "4835-slow-horses",
-    "kind": "series",
-    "title": "Slow Horses",
-    "overview": "Questa arguta spy story segue le vicende di una disfunzionale squadra di agenti dell'MI5 e del loro odioso capo, il famigerato Jackson Lamb, mentre navigano tra le luci e le ombre del mondo dello spionaggio per difendere l'Inghilterra da forze sinistre.",
-    "genres": [
-      "Dramma",
-      "Crime"
-    ],
-    "duration": 0,
-    "releaseDate": "2022-03-31",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": null
-      },
-      {
-        "number": 3,
-        "name": null
-      },
-      {
-        "number": 4,
-        "name": null
-      },
-      {
-        "number": 5,
-        "name": "Stagione 5"
-      },
-      {
-        "number": 6,
-        "name": "Stagione 6"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/w5r3VW8KRCB7ZfmRIaDaMb1ggPK.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.taxi/images/d177695d-0a18-432e-a177-9162277b062a.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/peE0Gab2MWjXPlAYhakxjHciNPr.png",
-    "rating": 8.4,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "65698-marfil-gli-opposti",
-    "kind": "movie",
-    "title": "Marfil - Gli Opposti",
-    "overview": "La vita a New York di Marfil, figlia di un uomo d'affari spagnolo, viene stravolta quando è rapita e liberata senza spiegazione. Suo padre assume Sebastián Moore come sua guardia del corpo. I due vengono obbligati a passare ogni minuto insieme e tra loro si accende una passione inevitabile in un mondo in cui niente è ciò che sembra. Tratto dal romanzo di Mercedes Ron, autrice della saga Culpables.",
-    "genres": [
-      "Dramma",
-      "Thriller",
-      "Romance"
-    ],
-    "duration": 6240,
-    "releaseDate": "2026-09-09",
-    "posterURL": "https://image.tmdb.org/t/p/w780/o9GJthQaWjSj0KLxkQxWkSxz4jI.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.taxi/images/0b3e24b9-8374-4ab9-a219-8d8f06e3df4f.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/AbFVWXxZ76enpA1GHCq13CN8xGu.png",
-    "rating": 8.3,
-    "status": "ended",
     "language": "it"
   }
 ]
