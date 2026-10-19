@@ -1,10 +1,10 @@
 {
   "id": "yakan.animeunity",
   "name": "AnimeUnity",
-  "version": "0.10.1",
+  "version": "0.10.2",
   "description": "Estensione per Teevi che abilita l'integrazione con AnimeUnity",
   "author": "Hachi",
-  "hash": "0526c4f6f0e72557be3a66c6d4d5bde82cdacdab3590e8b98cf9112fca6c834f",
+  "hash": "549777b23e848cd76539dbbe98237264860ad08e7398a12892fc1c576d947341",
   "capabilities": [
     "metadata",
     "video",
