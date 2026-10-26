@@ -24,7 +24,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/wrHEdaqohl8orrsNxCb3kngaNiH.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.shiksha/images/4cbde905-cd2c-4084-8ff7-8e317c8d437e.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.build/images/4cbde905-cd2c-4084-8ff7-8e317c8d437e.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/wG2KCdoQV6GohNdq99f7dASSTJH.png",
     "rating": 8.3,
     "status": "airing",
@@ -69,7 +69,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/8BFa20YkGpKUf7GfNObpNJG35fM.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.shiksha/images/21f8b9f1-e6db-4745-a3e2-8100503ad53d.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.build/images/21f8b9f1-e6db-4745-a3e2-8100503ad53d.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/vNM4L9w45PIiXd8ErSPqPjDHhF0.png",
     "rating": 8.4,
     "status": "airing",
@@ -97,7 +97,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/emJMaEXH79Bo6WVMSxEloIi1dCw.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.shiksha/images/2321e4f0-2f00-4bd0-9e6b-18276d1255cf.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.build/images/2321e4f0-2f00-4bd0-9e6b-18276d1255cf.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/gfYZz3dQKkuzXw254Ncim46OsC4.png",
     "rating": 7.6,
     "status": "airing",
@@ -131,7 +131,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/yBkhoqyh5MZeYzdcwJwFVd19GGk.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.shiksha/images/7889e6d4-6f35-41e1-9c3e-a56d01903771.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.build/images/7889e6d4-6f35-41e1-9c3e-a56d01903771.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/iYxjFCbqSJyDDmAytShRw2n5ZgF.png",
     "rating": 7.5,
     "status": "airing",
@@ -167,7 +167,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/5Zr3UpAQ6bQVnjG1VNn9hqJzLRF.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.shiksha/images/a7e923d3-6b7c-4437-8b07-13588ed00284.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.build/images/a7e923d3-6b7c-4437-8b07-13588ed00284.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/rNTY34G4jfaT7YUiSRFw8vtSOjG.png",
     "rating": 7.9,
     "status": "airing",
@@ -199,8 +199,8 @@
         "name": "Stagione 3"
       }
     ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/al4rMuQXUrOcHFA2yZc1rn0jL8A.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.shiksha/images/ed1952c2-69d0-4c53-8ce3-8ac65c4ab129.webp",
+    "posterURL": "https://image.tmdb.org/t/p/w780/pcEDagiCAHs7kBrn11gVQoOkjz0.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.build/images/ed1952c2-69d0-4c53-8ce3-8ac65c4ab129.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/fA1eS6rfYjS9W8AZbBVG0fpxXn1.png",
     "rating": 7.4,
     "status": "airing",
@@ -228,9 +228,77 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/d9JXDuLOApWZQFV7U81bX3KSS3u.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.shiksha/images/769092ca-38c6-4288-984f-8cabb51bba3e.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.build/images/769092ca-38c6-4288-984f-8cabb51bba3e.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/8vN1JzNMVIVuyhEyGkKwr0NhMPh.png",
     "rating": 9,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "2695-lupin",
+    "kind": "series",
+    "title": "Lupin",
+    "overview": "Ispirandosi alle avventure di Arsenio Lupin, il ladro gentiluomo Assane Diop decide di vendicare il padre per un'ingiustizia subita per colpa di una ricca famiglia.",
+    "genres": [
+      "Dramma",
+      "Crime",
+      "Mistero"
+    ],
+    "duration": 0,
+    "releaseDate": "2021-01-08",
+    "seasons": [
+      {
+        "number": 1,
+        "name": "Parte 1"
+      },
+      {
+        "number": 2,
+        "name": "Parte 2"
+      },
+      {
+        "number": 3,
+        "name": "PARTE 3"
+      },
+      {
+        "number": 4,
+        "name": "Stagione 4"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/zC8MxAeVzstKAeR39RHuEyP2SsW.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.build/images/f3885fcc-2112-4a5b-b864-f6f9201bbfe6.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/o01qTKBWHyYmXDaszRoDoKyA4Is.png",
+    "rating": 8.1,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "9987-nobody-wants-this",
+    "kind": "series",
+    "title": "Nobody Wants This",
+    "overview": "Una podcaster agnostica che parla di sesso e un rabbino da poco single si innamorano. Riuscirà la loro storia a sopravvivere a stili di vita opposti e famiglie impiccione?",
+    "genres": [
+      "Commedia"
+    ],
+    "duration": 0,
+    "releaseDate": "2024-09-26",
+    "seasons": [
+      {
+        "number": 1,
+        "name": "Nobody Wants This"
+      },
+      {
+        "number": 2,
+        "name": "Stagione 2"
+      },
+      {
+        "number": 3,
+        "name": "Stagione 3"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/43vUlUQJ7OCfcFV1fMJhddC0TPN.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.build/images/eb751fba-8ba4-4530-9cdb-e493c6aa7c08.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/yoIDGAhWvPFxPknG3pgQSdvnVAr.png",
+    "rating": 7.7,
     "status": "airing",
     "language": "it"
   },
@@ -255,81 +323,10 @@
         "name": "Stagione 2"
       }
     ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/cgwBW1o5kLycu0eWbvjHH5CJ1FK.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.shiksha/images/ec6c6dfe-de2e-4fb7-83d5-d593a1a96362.webp",
+    "posterURL": "https://image.tmdb.org/t/p/w780/yzFec3f0720rWW2Wr3SBC8rl8tl.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.build/images/ec6c6dfe-de2e-4fb7-83d5-d593a1a96362.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/29glkftEea1IEUG8WcNq017mCAr.png",
     "rating": 8.3,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "6004-tulsa-king",
-    "kind": "series",
-    "title": "Tulsa King",
-    "overview": "Tulsa King segue il capo della mafia newyorkese Dwight \"Il Generale\" Manfredi, appena uscito di prigione dopo 25 anni ed esiliato a Tulsa, in Oklahoma. Rendendosi conto che la sua famiglia mafiosa potrebbe non avere in mente i suoi interessi, Dwight costruisce lentamente una \"banda\" composta da un gruppo di personaggi improbabili, per aiutarlo a stabilire un nuovo impero criminale.",
-    "genres": [
-      "Dramma",
-      "Crime"
-    ],
-    "duration": 0,
-    "releaseDate": "2022-11-13",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": null
-      },
-      {
-        "number": 3,
-        "name": "Season 3"
-      },
-      {
-        "number": 4,
-        "name": "Stagione 4"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/yxWDzf7cFQIL99m0o8iu4rrzzWr.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.shiksha/images/7b164ebf-93dc-4588-9787-73b6e809683c.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/xz9iVJuRbNsdD7KZhr9dfi8F7Gs.png",
-    "rating": 8.5,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "6254-the-diplomat",
-    "kind": "series",
-    "title": "The Diplomat",
-    "overview": "Nel bel mezzo di una crisi internazionale, una diplomatica di carriera ottiene un lavoro di alto profilo per il quale non è adatta, con implicazioni tettoniche per il suo matrimonio e il suo futuro politico.",
-    "genres": [
-      "Dramma"
-    ],
-    "duration": 0,
-    "releaseDate": "2023-04-20",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": null
-      },
-      {
-        "number": 3,
-        "name": "Stagione 3"
-      },
-      {
-        "number": 4,
-        "name": "Stagione 4"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/wnhAyE5ruuJAkLlPSHN8IzBtV4J.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.shiksha/images/e000e217-da8c-44b8-974d-e11c8c3b0b9a.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/tdp2su0DIwuR737m3CVAvkyIy3s.png",
-    "rating": 8,
     "status": "airing",
     "language": "it"
   }
