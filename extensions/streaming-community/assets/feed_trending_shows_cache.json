@@ -24,7 +24,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/wrHEdaqohl8orrsNxCb3kngaNiH.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.day/images/4cbde905-cd2c-4084-8ff7-8e317c8d437e.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.nexus/images/4cbde905-cd2c-4084-8ff7-8e317c8d437e.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/wG2KCdoQV6GohNdq99f7dASSTJH.png",
     "rating": 8.3,
     "status": "airing",
@@ -69,7 +69,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/8BFa20YkGpKUf7GfNObpNJG35fM.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.day/images/21f8b9f1-e6db-4745-a3e2-8100503ad53d.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.nexus/images/21f8b9f1-e6db-4745-a3e2-8100503ad53d.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/vNM4L9w45PIiXd8ErSPqPjDHhF0.png",
     "rating": 8.4,
     "status": "airing",
@@ -97,7 +97,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/emJMaEXH79Bo6WVMSxEloIi1dCw.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.day/images/2321e4f0-2f00-4bd0-9e6b-18276d1255cf.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.nexus/images/2321e4f0-2f00-4bd0-9e6b-18276d1255cf.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/gfYZz3dQKkuzXw254Ncim46OsC4.png",
     "rating": 7.6,
     "status": "airing",
@@ -130,8 +130,8 @@
         "name": "Stagione 3"
       }
     ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/yBkhoqyh5MZeYzdcwJwFVd19GGk.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.day/images/7889e6d4-6f35-41e1-9c3e-a56d01903771.webp",
+    "posterURL": "https://image.tmdb.org/t/p/w780/vDp8Wo07efdaPaLunOpZvCN6t7z.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.nexus/images/7889e6d4-6f35-41e1-9c3e-a56d01903771.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/iYxjFCbqSJyDDmAytShRw2n5ZgF.png",
     "rating": 7.5,
     "status": "airing",
@@ -167,10 +167,81 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/5Zr3UpAQ6bQVnjG1VNn9hqJzLRF.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.day/images/a7e923d3-6b7c-4437-8b07-13588ed00284.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.nexus/images/a7e923d3-6b7c-4437-8b07-13588ed00284.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/rNTY34G4jfaT7YUiSRFw8vtSOjG.png",
     "rating": 7.9,
     "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "11977-the-chosen",
+    "kind": "series",
+    "title": "The Chosen",
+    "overview": "Maria affronta dei vecchi demoni. Esplode la tensione tra Simone e Matteo. Giacomo e Giovanni domano i loro pregiudizi e il loro temperamento impetuoso. Tutti continuano a seguire Gesù.",
+    "genres": [
+      "Dramma",
+      "Famiglia"
+    ],
+    "duration": 0,
+    "releaseDate": "2019-04-21",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": null
+      },
+      {
+        "number": 3,
+        "name": "Stagione 3"
+      },
+      {
+        "number": 4,
+        "name": "Stagione 4"
+      },
+      {
+        "number": 5,
+        "name": "Stagione 5"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/jFmAuRhbiPVjjCQjIc47VP1N2NA.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.nexus/images/3dcc0b63-c562-4552-80ad-a882d9d68e8a.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/kYW1RHKIlvFSn5QRc0kPQ5eRZ1s.png",
+    "rating": 9.1,
+    "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "5617-limperatrice",
+    "kind": "series",
+    "title": "L'imperatrice",
+    "overview": "Per un incredibile scherzo del destino e contro ogni previsione, la scintilla di un amore fuori dal comune scocca tra l'imperatore Franz ed Elisabeth, che insieme si incamminano lungo un percorso pericoloso. Tra intrighi e lotte di potere, Elisabeth affronta chi non crede in lei.",
+    "genres": [
+      "Dramma"
+    ],
+    "duration": 0,
+    "releaseDate": "2022-09-29",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": null
+      },
+      {
+        "number": 3,
+        "name": "Stagione 3"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/4C6F8kk6rI7AE5UnUxGtkmgEh0x.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.nexus/images/c82fdea6-bab2-44ee-a096-cf5dd2d199c4.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/cVOLijE5KNsqslU3ACDA1Ozj7cm.png",
+    "rating": 8.1,
+    "status": "ended",
     "language": "it"
   },
   {
@@ -200,140 +271,37 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/pcEDagiCAHs7kBrn11gVQoOkjz0.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.day/images/ed1952c2-69d0-4c53-8ce3-8ac65c4ab129.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.nexus/images/ed1952c2-69d0-4c53-8ce3-8ac65c4ab129.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/fA1eS6rfYjS9W8AZbBVG0fpxXn1.png",
     "rating": 7.4,
     "status": "airing",
     "language": "it"
   },
   {
-    "id": "7244-the-gilded-age",
+    "id": "12722-listituto",
     "kind": "series",
-    "title": "The Gilded Age",
-    "overview": "New York, 1882: la giovane Marian si trasferisce dalle zie a New York e incontra la dura realtà dell'alta società.",
+    "title": "L'Istituto",
+    "overview": "Luke Ellis, un quattordicenne prodigio, viene rapito nel cuore della notte e portato all'Istituto, una struttura simile a una prigione nel Maine rurale che ospita adolescenti dotati di poteri psichici. Lo dirige la signora Sigsby, una inflessibile fanatica disposta a tutto pur di portare a termine la sua missione. Tra la signora Sigsby e Luke si scatena uno scontro di determinazione e ingegno.",
     "genres": [
-      "Dramma"
-    ],
-    "duration": 0,
-    "releaseDate": "2022-01-24",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": null
-      },
-      {
-        "number": 3,
-        "name": "Stagione 3"
-      },
-      {
-        "number": 4,
-        "name": "Stagione 4"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/xdLRCryLboh9k0ZVTCxTTduGXYY.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.day/images/61ee036f-0389-4c9b-8c0d-31febd25ee5e.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/aSeR1gVhhDQRPDpAu0tB44gXw79.png",
-    "rating": 8.3,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "12711-dexter-resurrection",
-    "kind": "series",
-    "title": "Dexter: Resurrection",
-    "overview": "Dexter si risveglia dal coma e parte per New York deciso a trovare Harrison e rimediare agli errori del passato.",
-    "genres": [
-      "Dramma",
-      "Crime"
-    ],
-    "duration": 0,
-    "releaseDate": "2025-07-11",
-    "seasons": [
-      {
-        "number": 1,
-        "name": "Stagione 1"
-      },
-      {
-        "number": 2,
-        "name": "Stagione 2"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/xUTaKnjLFhUe9IfGLF9H3ImFi8k.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.day/images/769092ca-38c6-4288-984f-8cabb51bba3e.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/8vN1JzNMVIVuyhEyGkKwr0NhMPh.png",
-    "rating": 9,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "2695-lupin",
-    "kind": "series",
-    "title": "Lupin",
-    "overview": "Ispirandosi alle avventure di Arsenio Lupin, il ladro gentiluomo Assane Diop decide di vendicare il padre per un'ingiustizia subita per colpa di una ricca famiglia.",
-    "genres": [
-      "Dramma",
-      "Crime",
+      "Sci-Fi & Fantasy",
       "Mistero"
     ],
     "duration": 0,
-    "releaseDate": "2021-01-08",
+    "releaseDate": "2025-07-13",
     "seasons": [
       {
         "number": 1,
-        "name": "Parte 1"
-      },
-      {
-        "number": 2,
-        "name": "Parte 2"
-      },
-      {
-        "number": 3,
-        "name": "PARTE 3"
-      },
-      {
-        "number": 4,
-        "name": "Stagione 4"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/zC8MxAeVzstKAeR39RHuEyP2SsW.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.day/images/f3885fcc-2112-4a5b-b864-f6f9201bbfe6.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/o01qTKBWHyYmXDaszRoDoKyA4Is.png",
-    "rating": 8,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "9987-nobody-wants-this",
-    "kind": "series",
-    "title": "Nobody Wants This",
-    "overview": "Una podcaster agnostica che parla di sesso e un rabbino da poco single si innamorano. Riuscirà la loro storia a sopravvivere a stili di vita opposti e famiglie impiccione?",
-    "genres": [
-      "Commedia"
-    ],
-    "duration": 0,
-    "releaseDate": "2024-09-26",
-    "seasons": [
-      {
-        "number": 1,
-        "name": "Nobody Wants This"
+        "name": null
       },
       {
         "number": 2,
         "name": "Stagione 2"
-      },
-      {
-        "number": 3,
-        "name": "Stagione 3"
       }
     ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/43vUlUQJ7OCfcFV1fMJhddC0TPN.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.day/images/eb751fba-8ba4-4530-9cdb-e493c6aa7c08.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/yoIDGAhWvPFxPknG3pgQSdvnVAr.png",
-    "rating": 7.7,
+    "posterURL": "https://image.tmdb.org/t/p/w780/x0ShvxpIW1BUyBdMRjpb3dbdKaD.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.nexus/images/9f138a2c-4a39-4b57-a9f3-9307cbc5ab7b.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/me5WYDi5vTGSMR6K5WnFRNBMjwn.png",
+    "rating": 7.4,
     "status": "airing",
     "language": "it"
   }
