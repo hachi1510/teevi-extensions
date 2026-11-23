@@ -24,7 +24,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/wrHEdaqohl8orrsNxCb3kngaNiH.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.nexus/images/4cbde905-cd2c-4084-8ff7-8e317c8d437e.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.dad/images/4cbde905-cd2c-4084-8ff7-8e317c8d437e.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/wG2KCdoQV6GohNdq99f7dASSTJH.png",
     "rating": 8.3,
     "status": "airing",
@@ -68,8 +68,8 @@
         "name": "Stagione 6"
       }
     ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/8BFa20YkGpKUf7GfNObpNJG35fM.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.nexus/images/21f8b9f1-e6db-4745-a3e2-8100503ad53d.webp",
+    "posterURL": "https://image.tmdb.org/t/p/w780/q9leIPIZ8h1qhJZ7It3JACzJB2a.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.dad/images/21f8b9f1-e6db-4745-a3e2-8100503ad53d.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/vNM4L9w45PIiXd8ErSPqPjDHhF0.png",
     "rating": 8.4,
     "status": "airing",
@@ -97,7 +97,7 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/emJMaEXH79Bo6WVMSxEloIi1dCw.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.nexus/images/2321e4f0-2f00-4bd0-9e6b-18276d1255cf.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.dad/images/2321e4f0-2f00-4bd0-9e6b-18276d1255cf.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/gfYZz3dQKkuzXw254Ncim46OsC4.png",
     "rating": 7.6,
     "status": "airing",
@@ -131,8 +131,8 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/vDp8Wo07efdaPaLunOpZvCN6t7z.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.nexus/images/7889e6d4-6f35-41e1-9c3e-a56d01903771.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/iYxjFCbqSJyDDmAytShRw2n5ZgF.png",
+    "backdropURL": "https://cdn.streamingcommunityz.dad/images/7889e6d4-6f35-41e1-9c3e-a56d01903771.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/j5OaQGyQti1cUSFBo0d4tWFiCQa.png",
     "rating": 7.5,
     "status": "airing",
     "language": "it"
@@ -167,10 +167,57 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/5Zr3UpAQ6bQVnjG1VNn9hqJzLRF.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.nexus/images/a7e923d3-6b7c-4437-8b07-13588ed00284.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.dad/images/a7e923d3-6b7c-4437-8b07-13588ed00284.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/rNTY34G4jfaT7YUiSRFw8vtSOjG.png",
     "rating": 7.9,
     "status": "airing",
+    "language": "it"
+  },
+  {
+    "id": "3242-the-circle-usa",
+    "kind": "series",
+    "title": "The Circle: USA",
+    "overview": "Realtà e strategia si fondono in questo esperimento sociale online in cui i concorrenti flirtano, fanno amicizia e cambiano identità per un montepremi di 100.000 dollari.",
+    "genres": [
+      "Reality"
+    ],
+    "duration": 0,
+    "releaseDate": "2020-01-01",
+    "seasons": [
+      {
+        "number": 1,
+        "name": null
+      },
+      {
+        "number": 2,
+        "name": null
+      },
+      {
+        "number": 3,
+        "name": null
+      },
+      {
+        "number": 4,
+        "name": null
+      },
+      {
+        "number": 5,
+        "name": null
+      },
+      {
+        "number": 6,
+        "name": null
+      },
+      {
+        "number": 7,
+        "name": null
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w780/j65nm17r1D0Ie8xC4vDIzm2YZTP.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.dad/images/4548ed85-4089-40a4-9c47-4bc6e910d39a.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/t0rtNYe4w3GXN0wwJ0rQpjiC4Km.png",
+    "rating": 6.1,
+    "status": "canceled",
     "language": "it"
   },
   {
@@ -204,10 +251,14 @@
       {
         "number": 5,
         "name": "Stagione 5"
+      },
+      {
+        "number": 6,
+        "name": "Stagione 6"
       }
     ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/jFmAuRhbiPVjjCQjIc47VP1N2NA.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.nexus/images/3dcc0b63-c562-4552-80ad-a882d9d68e8a.webp",
+    "posterURL": "https://image.tmdb.org/t/p/w780/gUGq7l1OtvvKyrNULQZdADqMH6p.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.dad/images/3dcc0b63-c562-4552-80ad-a882d9d68e8a.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/kYW1RHKIlvFSn5QRc0kPQ5eRZ1s.png",
     "rating": 9.1,
     "status": "airing",
@@ -238,70 +289,33 @@
       }
     ],
     "posterURL": "https://image.tmdb.org/t/p/w780/4C6F8kk6rI7AE5UnUxGtkmgEh0x.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.nexus/images/c82fdea6-bab2-44ee-a096-cf5dd2d199c4.webp",
+    "backdropURL": "https://cdn.streamingcommunityz.dad/images/c82fdea6-bab2-44ee-a096-cf5dd2d199c4.webp",
     "logoURL": "https://image.tmdb.org/t/p/w500/cVOLijE5KNsqslU3ACDA1Ozj7cm.png",
     "rating": 8.1,
     "status": "ended",
     "language": "it"
   },
   {
-    "id": "5369-il-signore-degli-anelli-gli-anelli-del-potere",
+    "id": "66556-the-body",
     "kind": "series",
-    "title": "Il Signore degli Anelli: Gli anelli del potere",
-    "overview": "Un vasto insieme di personaggi, sia conosciuti che nuovi, devono affrontare il riaffiorare del male nella Terra di Mezzo. Dalle profondità più oscure delle Montagne Nebbiose alle maestose foreste del Lindon; dal regno dell’isola di Númenor, ai più remoti angoli della mappa, questi regni e personaggi forgeranno retaggi che vivranno a lungo dopo la loro dipartita.",
+    "title": "The Body",
+    "overview": "Il sacrificio di una sacra vergine per vincere le regionali? Per le ballerine della scuola cattolica St. Mark è un compromesso accettabile. Ave satana!",
     "genres": [
       "Dramma",
-      "Sci-Fi & Fantasy",
-      "Action & Adventure"
+      "Sci-Fi & Fantasy"
     ],
     "duration": 0,
-    "releaseDate": "2022-09-01",
+    "releaseDate": "2026-11-11",
     "seasons": [
       {
         "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": "Stagione 2"
-      },
-      {
-        "number": 3,
-        "name": "Stagione 3"
+        "name": "Stagione 1"
       }
     ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/pcEDagiCAHs7kBrn11gVQoOkjz0.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.nexus/images/ed1952c2-69d0-4c53-8ce3-8ac65c4ab129.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/fA1eS6rfYjS9W8AZbBVG0fpxXn1.png",
-    "rating": 7.4,
-    "status": "airing",
-    "language": "it"
-  },
-  {
-    "id": "12722-listituto",
-    "kind": "series",
-    "title": "L'Istituto",
-    "overview": "Luke Ellis, un quattordicenne prodigio, viene rapito nel cuore della notte e portato all'Istituto, una struttura simile a una prigione nel Maine rurale che ospita adolescenti dotati di poteri psichici. Lo dirige la signora Sigsby, una inflessibile fanatica disposta a tutto pur di portare a termine la sua missione. Tra la signora Sigsby e Luke si scatena uno scontro di determinazione e ingegno.",
-    "genres": [
-      "Sci-Fi & Fantasy",
-      "Mistero"
-    ],
-    "duration": 0,
-    "releaseDate": "2025-07-13",
-    "seasons": [
-      {
-        "number": 1,
-        "name": null
-      },
-      {
-        "number": 2,
-        "name": "Stagione 2"
-      }
-    ],
-    "posterURL": "https://image.tmdb.org/t/p/w780/x0ShvxpIW1BUyBdMRjpb3dbdKaD.jpg",
-    "backdropURL": "https://cdn.streamingcommunityz.nexus/images/9f138a2c-4a39-4b57-a9f3-9307cbc5ab7b.webp",
-    "logoURL": "https://image.tmdb.org/t/p/w500/me5WYDi5vTGSMR6K5WnFRNBMjwn.png",
-    "rating": 7.4,
+    "posterURL": "https://image.tmdb.org/t/p/w780/p5kAcb0ve2RWOe0i1H8KRsUYl38.jpg",
+    "backdropURL": "https://cdn.streamingcommunityz.dad/images/190a92d0-31f7-4fd9-9a00-912df4873785.webp",
+    "logoURL": "https://image.tmdb.org/t/p/w500/c7PCh5wDlXODksBXElQHiotV9M5.png",
+    "rating": 8.1,
     "status": "airing",
     "language": "it"
   }
